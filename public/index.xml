@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nathan&#39;s latest</title>
+    <link>https://natehn.com/</link>
+    <description>Recent content on nathan&#39;s latest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>nathan hewitt</copyright>
+    <lastBuildDate>Fri, 31 Dec 1999 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://natehn.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Website</title>
+      <link>https://natehn.com/posts/this-website/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/posts/this-website/</guid>
+      <description>This blog is part my effort to engage with the Internet in a different way. Up until now, I have been primarily engaging via corporate-owned platforms, without any real understanding of how these systems work, where the money is, or how it was affecting my life.
+In 2020, it has never been clearer to me that the way I maintain relationships, cultuvate them, rely on them, has nothing to do with social media platforms.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://natehn.com/about/</link>
+      <pubDate>Fri, 31 Dec 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/about/</guid>
+      <description>I am:
+ ambient musician erstwhile radio deejay nonprofit worker occasional activist habitual researcher amateur technologist athletics aficionado native midwesterner  Feel free to reach out though the channels listed on the Home page. I&amp;rsquo;m also happy to communicate using PGP &amp;lt;3</description>
+    </item>
+    
+  </channel>
+</rss>
