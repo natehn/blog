@@ -6,8 +6,8 @@
     <description>Recent content in Posts on nathan&#39;s latest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>nathan hewitt</copyright>
-    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://natehn.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,10 @@
     <item>
       <title>This Website</title>
       <link>https://natehn.com/posts/this-website/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/posts/this-website/</guid>
-      <description>This blog is part my effort to engage with the Internet in a different way. Up until now, I have been primarily engaging via corporate-owned platforms, without any real understanding of how these systems work, where the money is, or how it was affecting my life.
-In 2020, it has never been clearer to me that the way I maintain relationships, cultuvate them, rely on them, has nothing to do with social media platforms.</description>
+      <description>This website is still in development. Check back later!</description>
     </item>
     
   </channel>

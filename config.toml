@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "nathan's latest"
 theme = "cactus"
 
-copyright = "nathan hewitt" # cactus will use title if copyright is not set
+copyright = "nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)" # cactus will use title if copyright is not set
 disqusShortname = "natehn" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
@@ -60,7 +60,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "natehn = nathan hewitt / this site will soon be solar-powered"
+  description = "natehn = nathan hewitt"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
