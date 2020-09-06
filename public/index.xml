@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>This Website</title>
+      <title>This Website, and How To Build Your Own</title>
       <link>https://natehn.com/posts/this-website/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/posts/this-website/</guid>
-      <description>This website is still in development. Check back later!</description>
+      <description>Origins This website is just a bunch of little files living on a tiny computer that sits on my living room bookcase. It plugs into the wall and my router, and all it does all day is serve up these website files to whoever requests them. For most servers out there (shared hosting, virtual private servers, and the like), it is a thankless job. But I try to give my little Lime2 single-board computer some attention every so often.</description>
     </item>
     
     <item>
@@ -28,9 +28,9 @@
       
       <guid>https://natehn.com/about/</guid>
       <description>I am:
- ambient musician erstwhile radio deejay nonprofit worker occasional activist habitual researcher amateur technologist athletics aficionado native midwesterner  Feel free to reach out though the channels listed on the Home page. I&amp;rsquo;m also happy to communicate using PGP &amp;lt;3
+ ambient musician erstwhile radio deejay nonprofit worker occasional activist habitual researcher amateur technologist athletics aficionado native midwesterner  Feel free to reach out through the channels listed on the Home page. I&amp;rsquo;m also happy to communicate using PGP &amp;lt;3
 ~
-This website is self-hosted using Hugo, Caddy, and Armbian. I recently experimented with solar powering it. The logo is an edited Open Doodle.</description>
+This website is self-hosted on a tiny Linux computer using Hugo and Caddy. I recently experimented with solar powering it but right now it is plugged into the wall.</description>
     </item>
     
   </channel>

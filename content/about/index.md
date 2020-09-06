@@ -13,8 +13,8 @@ date: 2020-07-01
 - athletics aficionado
 - native midwesterner
 
-**Feel free to reach out** though the channels listed on [the Home page](https://natehn.com/). I'm also happy to communicate using [PGP](https://keys.openpgp.org/search?q=1CCD9DD029555CB3615575C8439499311AF44262) <3
+**Feel free to reach out** through the channels listed on [the Home page](https://natehn.com/). I'm also happy to communicate using [PGP](https://keys.openpgp.org/search?q=1CCD9DD029555CB3615575C8439499311AF44262) <3
 
 ~
 
-**This website** is self-hosted using Hugo, Caddy, and Armbian. I recently experimented with solar powering it. The logo is an edited [Open Doodle](https://www.opendoodles.com/).
+**This website** is [self-hosted on a tiny Linux computer](https://natehn.com/posts/this-website/) using Hugo and Caddy. I recently experimented with solar powering it but right now it is plugged into the wall. The theme is lightly-modified [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) and the logo is based on an [Open Doodle](https://www.opendoodles.com/).
