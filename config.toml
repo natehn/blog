@@ -27,8 +27,8 @@ url = "/about"
 weight = 5
 
 [[menu.main]]
-name = "Feed"
-url = "/index.xml"
+name = "Follow"
+url = "/posts/follow"
 weight = 4
 
 [markup]
