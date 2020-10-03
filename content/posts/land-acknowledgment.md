@@ -65,7 +65,7 @@ When my people arrived on this land, they brought others with them. They brought
 
 {{< figure src="/slave-ship.png" title="Slave ship diagram, first printed as a broadside in England in 1789." >}}
 
-Some of my ancestors lived in the American South back before the Civil War. Various branches of that family "owned" a few enslaved African people, over the course of generations. Since they were not major slaveholders, there are no real records to be found. When they moved to southern Illinois, a free state, they likely sold them or gave them away.[^moving]
+Some of my ancestors lived in the American South back before the Civil War. Various branches of that family "owned" a few enslaved African people, over the course of generations. Since they were not major slaveholders, there are few records to be found. When they moved to southern Illinois, a free state, they likely sold them or gave them away.[^moving]
 
 [^moving]: Of course I would like to think that they freed them, but there is no reason to think so. Some of their cousins continued to own slaves after moving to Virginia.
 
