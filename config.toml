@@ -31,11 +31,6 @@ name = "Feed"
 url = "/index.xml"
 weight = 4
 
-[[menu.main]]
-name = "Webring"
-url = "https://webring.xxiivv.com/#random"
-weight = 6
-
 [markup]
   [markup.tableOfContents]
     endLevel = 4
