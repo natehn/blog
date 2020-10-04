@@ -52,7 +52,7 @@ To make sure that you are ready to receive external traffic, you will need to se
 While doing this, go ahead and make a note of the WAN IP Address for your router. You will need this when pointing your domain name at your server. Be aware, unless you set a Static WAN IP address through your Internet Service Provider, it is possible for your WAN address to change. If your website goes down, that could be one of the first things to check. 
 
 ### Your Domain Name
-First, of course, you should buy a domain name. Then with your domain name registrar, or wherever you manage the DNS records for your domain, make an A record (a.k.a. "address" record) pointing to the WAN IP address of your router. The process for doing this depends on your provider. It can then take 24-48 hours for your new DNS settings to "propogate" and go into effect.
+First, of course, you should buy a domain name. Then with your domain name registrar, or wherever you manage the DNS records for your domain, make an A record (a.k.a. "address" record) pointing to the WAN IP address of your router. The process for doing this depends on your provider. If you are using the same configuration as me, you should also create a URL Redirect record with the hostname "www" redirecting to the non-www URL of your website (e.g., https://example.com). It can then take 24-48 hours for your new DNS settings to "propogate" and go into effect.
 
 ### The Webserver
 Caddy will be our webserver. To set up Caddy, we will follow the installation directions for Debian put together by [TecMint](https://www.tecmint.com/install-caddy-web-server-in-centos-ubuntu/).

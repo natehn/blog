@@ -44,7 +44,7 @@ There are several services that track RSS feeds and send you an update via email
 
 There is one option - other than checking manually - that does not involve RSS. Web monitoring apps, among other things, can check websites peiodically to see if updates have been made. One of the most popular apps for this is [VisualPing](https://visualping.io/), and it works well, but recently I have come to prefer [Distill](https://distill.io/), which has a web app and browser extensions, and can do its check using your computer rather than on the cloud. 
 
-Either way, I recommend setting the interal to at least a few days. Don't make a computer use a bunch of energy checking a website every hour just for my sake.
+Either way, I recommend setting the time interval to at least a few days. Don't make a computer use a bunch of energy checking a website every hour just for my sake.
 
 ## Following the Blog
 
