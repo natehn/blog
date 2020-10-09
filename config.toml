@@ -28,7 +28,7 @@ weight = 5
 
 [[menu.main]]
 name = "Follow"
-url = "/posts/follow"
+url = "/follow"
 weight = 4
 
 [markup]

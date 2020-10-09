@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://natehn.com/posts/follow/</loc>
+    <loc>https://natehn.com/follow/</loc>
     <lastmod>2020-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://natehn.com/posts/</loc>
+    <loc>https://natehn.com/</loc>
     <lastmod>2020-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://natehn.com/posts/land-acknowledgment/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://natehn.com/posts/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,11 +29,6 @@
   
   <url>
     <loc>https://natehn.com/about/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natehn.com/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
