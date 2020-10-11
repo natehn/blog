@@ -46,6 +46,10 @@ There is one option - other than checking manually - that does not involve RSS. 
 
 Either way, I recommend setting the time interval to at least a few days. Don't make a computer use a bunch of energy checking a website every hour just for my sake.
 
+## Following on Github
+
+To follow every little change to the site, feel free to follow on Github. ([Click here to see the latest content updates.](https://github.com/natehn/blog/tree/master/content/posts)) The problem with this method is that it also updates you whenever I fix a typo or make a small change to the site's design.
+
 ## Following the Blog
 
-Thanks for putting in the effort to keep up with this site! Hopefully, the process has been carefree - feel free to [reach out](mailto:nathan@omg.lol) if you have any questions. Otherwise, you can just plan on hearing from me soon. <3
+No matter which method you choose, thank you for putting in the effort to keep up with this site! Hopefully, the process has been carefree - feel free to [reach out](mailto:nathan@omg.lol) if you have any questions. Otherwise, you can just plan on hearing from me soon. <3

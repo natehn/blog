@@ -4,14 +4,14 @@ date: 2020-07-01
 ---
 
 **I am:**
-- ambient musician
-- erstwhile radio deejay
-- nonprofit worker
+- [ambient musician](https://nthnh.bandcamp.com/)
+- [erstwhile radio deejay](https://www.mixcloud.com/nthnh/)
+- [nonprofit worker](https://www.linkedin.com/in/nthnh/)
 - occasional activist
 - habitual researcher
-- amateur technologist
+- [amateur technologist](https://github.com/natehn)
 - athletics aficionado
-- native midwesterner
+- [native midwesterner](https://natehn.com/posts/land-acknowledgment/)
 
 **Feel free to reach out** through the channels listed on [the Home page](https://natehn.com/). I'm also happy to communicate using [PGP](https://keys.openpgp.org/search?q=1CCD9DD029555CB3615575C8439499311AF44262) <3
 
