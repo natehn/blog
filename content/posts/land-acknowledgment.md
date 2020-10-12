@@ -13,7 +13,7 @@ The so-called "New World"[^names] was stolen over the course of the last 600 yea
 
 [^names]: These lands are known to some Northeastern Native peoples as Turtle Island.
 
-{{< figure src="/north-america.png" title="A screenshot of North America from Native-Land.">}}
+{{< figure src="/north-america.png" caption="A screenshot of North America from Native-Land.ca.">}}
 
 One of the first steps to showing solidarity with Indigenous peoples as a settler is to explore the histories of the land that you inhabit. Many organizations also choose to acknowledge those histories before public events and performances. 
 
@@ -23,7 +23,7 @@ In a way, these blog posts are my "performances." The website, the venue. If the
 
 The island on which I live, and where this website’s little server is found, is home to 1.6 million people. It is covered in massive buildings, crowded streets, and crisscrossed with thrumming subterranean transportation tunnels. In some ways, it is the most important city in the world. It is the seat of power for Western capitalism, and we call it Manhattan.
 
-{{< figure src="/new-york.png" title="A screenshot of New York and the surrounding area from Native-Land.">}}
+{{< figure src="/new-york.png" caption="A screenshot of New York and the surrounding area from Native-Land.ca.">}}
 
 Before a convergence of circumstances led to this city's international wealth and fame, and before my people came to these lands, it was also well known, but not for its commercial prowess. Then called Mannahatta, or “land of many hills,"[^2] it was known for its natural beauty and was home to the Lenni Lenape people. 
 
@@ -43,7 +43,7 @@ Before I lived in New York, I was in present-day Kentucky, Indiana, and Illinois
 
 [^4]: Pronounced Och-et-eeshak-oh-win. 
 
-{{< figure src="/midwest.png" title="A screenshot of the American Midwest from Native-Land.">}}
+{{< figure src="/midwest.png" caption="A screenshot of the American Midwest from Native-Land.ca.">}}
 
 Some of my ancestors arrived to this continent as recently as 150 years ago, from Germany and Sweden. Other Western and Central European forebears came to these lands over the preceding centuries. The settling of my ancestors in lands formerly home to Native nations was part of a centuries long campaign to destroy Native communities that continues to this day.
 
@@ -63,7 +63,7 @@ When my people arrived on this land, they brought others with them. They brought
 
 [^statement]: To be clear, I believe in the possibility of a world without prisons, jails, and police. I believe we must invest in over-policed communities. Black lives matter, full-stop.
 
-{{< figure src="/slave-ship.png" title="Slave ship diagram, first printed as a broadside in England in 1789." >}}
+{{< figure src="/slave-ship.png" caption="Slave ship diagram, first printed as a broadside in England in 1789." >}}
 
 Some of my ancestors lived in the American South back before the Civil War. Various branches of that family "owned" a few enslaved African people, over the course of generations. Since they were not major slaveholders, there are few records to be found. When they moved to southern Illinois, a free state, they likely sold them or gave them away.[^moving]
 

@@ -7,22 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
-    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://natehn.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>How To Follow This Website</title>
-      <link>https://natehn.com/follow/</link>
-      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://natehn.com/follow/</guid>
-      <description>Sign Up for the Newsletter I run a personal email list called Natehn Quarterly, and I would love if you subscribed.
-Click here to sign up!
-It is an equinoctial and solstitial (i.e., quarterly) newsletter with updates such as:
- fun highlights from the blog updates from my personal life (don&amp;rsquo;t worry, nothing too personal) my latest music recommendations and releases (and who knows what else)  Let&amp;rsquo;s envision this&amp;hellip;you click on the link to sign up.</description>
-    </item>
     
     <item>
       <title>Land Acknowledgment</title>
@@ -43,9 +31,21 @@ It is an equinoctial and solstitial (i.e., quarterly) newsletter with updates su
     </item>
     
     <item>
+      <title>How To Follow the Blog</title>
+      <link>https://natehn.com/follow/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/follow/</guid>
+      <description>How will you follow my work if I&amp;rsquo;m not posting it on Facebook (etc)? I&amp;rsquo;ve got three options for you.
+Option 1: Sign Up for the Newsletter Click here to sign up for my equinoctial/solstitial (i.e., quarterly) newsletter.1
+  A screenshot of the newsletter sign-up page superimposed over an image of a person covered in mail.
+  Option 2: Follow Using RSS2 The quickest way to get an update when I post new writings is to follow its RSS feed.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://natehn.com/about/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/about/</guid>
       <description>I am:

@@ -27,7 +27,7 @@ I made a lot of mistakes along the way - mistakes that hopefully you can avoid. 
 ### The Physical Server
 Remember: there's no such thing as "the cloud." There are just a bunch of computers that someone else owns. This one, however, is owned by me. Following the lead of Low←Tech Magazine, I used an [Olimex Lime2](https://www.olimex.com/wiki/A20-OLinuXino-LIME2)[^board info] running on a variant of Debian (itself a distribution of [Linux](https://en.wikipedia.org/wiki/Linux_distribution)) called Armbian. Following Armbian's instructions, I used Balena Etcher to "flash" [the image](https://www.armbian.com/olimex-lime-2/) onto a MicroSD card.
 
-{{< figure src="/server.png" title="My small Olimex server sits amidst my partner's Buddha collection on a bookcase with a LiPo battery zip-tied to the top." >}}
+{{< figure src="/server.png" caption="My small Olimex server sits amidst my partner's Buddha collection on a bookcase with a LiPo battery zip-tied to the top." >}}
 
 [^board info]: I chose this board based on the recommendation of Low←Tech Magazine and, as they mention, because of all the advantages related to how it is powered. It can provide additional information and can connect directly to a LiPo battery. Along with the board itself, I purchased the case they make for the board and the correct power supply. Separately, I also purchased a 3.7V 6600mAh Lithium Ion battery pack with a JST 2-pin cable attached. Although they say it is a genuine JST connector, I still have trouble disconnecting it sometimes. Not a big deal - I  don't plan to disconnect it often.
 
@@ -92,7 +92,7 @@ For putting posts together, I recommend learning a simple plaintext syntax calle
 
 [^support]: [Hugo Markdown Support](https://www.markdownguide.org/tools/hugo/)
 
-{{< figure src="/tasman.png" title="A beautiful sunrise at a campground near Abel Tasman National Park." >}}
+{{< figure src="/tasman.png" caption="A beautiful sunrise at a campground near Abel Tasman National Park." >}}
 
 For focused writing, I use a lightweight plaintext editor called [Left](https://hundredrabbits.itch.io/left), by the awesome sailboatin' folks at HundredRabbits. I also use [FocusWriter](https://gottcode.org/focuswriter/) on occasion. But any plaintext editor will do.
 
