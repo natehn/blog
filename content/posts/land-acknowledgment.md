@@ -67,7 +67,7 @@ When my people arrived on this land, they brought others with them. They brought
 
 Some of my ancestors lived in the American South back before the Civil War. Various branches of that family "owned" a few enslaved African people, over the course of generations. Since they were not major slaveholders, there are few records to be found. When they moved to southern Illinois, a free state, they likely sold them or gave them away.[^moving]
 
-[^moving]: Of course I would like to think that they freed them, but there is no reason to think so. Some of their cousins continued to own slaves after moving to Virginia.
+[^moving]: Of course I would like to think that they freed them, but there is no reason to think so. Some of their cousins continued to own slaves back in Virginia.
 
 It has been 400 years since kidnapped Black people were first brought here. Modern slavery lives on in our prison systems, and systemic injustice is baked into every aspect of modern American life. Police brutality, the most public and violent way in which Black communities are torn apart, is only the tip of the iceberg. 
 
@@ -111,7 +111,7 @@ The [Native-Land](https://native-land.ca/) website is also a great place to star
 
 Change begins with acknowledgment, but it does not stop there. We must stand alongside Native and Black activists and support their movements. We must offer our time, skills, and [resources](https://mannahattafund.org/) to the [Native](https://aich.org/) and [Black](https://actionnetwork.org/fundraising/louisville-community-bail-fund/) organizations in our communities. And we must always continue to learn.
 
-If you aren't sure where to start, start with money. Pay a [land tax](https://resourcegeneration.org/indigenous-land-tax-one-way-that-rg-strives-to-create-policies-that-reflect-our-values/)! Support [Native](https://decolonialatlas.wordpress.com/2020/09/19/indigenous-eateries/) and [Black](https://www.eatokra.com/)-owned businesses! Reparations are not the only answer, but they are a fine place to begin.
+If you aren't sure where to start, start with money. Pay a [land tax](https://resourcegeneration.org/indigenous-land-tax-one-way-that-rg-strives-to-create-policies-that-reflect-our-values/)! Support [Native](https://decolonialatlas.wordpress.com/2020/09/19/indigenous-eateries/) and [Black](https://www.eatokra.com/)-[owned](https://www.afrovegansociety.org/vegan-restaurants) businesses! Reparations are not the only answer, but they are a fine place to begin.
 
 ~
 

@@ -39,7 +39,7 @@
       <description>How will you follow my work if I&amp;rsquo;m not posting it on Facebook (etc)? I&amp;rsquo;ve got three options for you.
 Option 1: Sign Up for the Newsletter Click here to sign up for my equinoctial/solstitial (i.e., quarterly) newsletter.1
   A screenshot of the newsletter sign-up page superimposed over an image of a person covered in mail.
-  Option 2: Follow Using RSS2 The quickest way to get an update when I post new writings is to follow its RSS feed.</description>
+  Option 2: Follow Using RSS The quickest way to get an update when I post new writings is to follow its RSS feed.</description>
     </item>
     
     <item>
@@ -52,6 +52,19 @@ Option 1: Sign Up for the Newsletter Click here to sign up for my equinoctial/so
  ambient musician erstwhile radio deejay nonprofit worker occasional activist habitual researcher amateur technologist athletics aficionado native midwesterner  Feel free to reach out through the channels listed on the Home page. I&amp;rsquo;m also happy to communicate using PGP &amp;lt;3
 ~
 This website is self-hosted on a tiny Linux computer using Hugo and Caddy. I recently experimented with solar powering it but right now it is plugged into the wall.</description>
+    </item>
+    
+    <item>
+      <title>Meme Repository</title>
+      <link>https://natehn.com/memes/</link>
+      <pubDate>Sun, 01 Apr 1990 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/memes/</guid>
+      <description>UNDER CONSTRUCTION.
+This meme repository is presented by&amp;hellip;
+  A meme is an idea. A trend. A &amp;ldquo;unit of cultural information.&amp;rdquo; Some of my favorite memes are tiny, but dense with content - a juxtaposition of surprising and hilarious images and sounds, crammed into just a short span of time and space.
+  Some were never meant to be funny.
+  &amp;hellip;while others build upon found footage to take it to the next level.</description>
     </item>
     
   </channel>
