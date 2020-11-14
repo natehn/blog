@@ -1,9 +1,7 @@
 ---
-title: Meme Repository
-date: 1990-04-01
+title: On Memes
+date: 2020-10-30
 ---
-
-*UNDER CONSTRUCTION.*
 
 This meme repository is presented by...
 
