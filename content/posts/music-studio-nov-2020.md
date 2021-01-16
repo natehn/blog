@@ -1,6 +1,10 @@
 ---
 title: Music Studio (Nov. 2020)
 date: 2020-11-14
+tags: 
+- gear
+- music
+- studio
 ---
 
 *My music studio (i.e., a little corner of our little office) is ever-changing. [Instruments and gear](http://martinyammoller.com/all-interviews/) come and go. Workflows ebb and...flow. This is the first post in a "music studio" series where we check in on what tools I'm currently using for my audio work.*[^bc]
@@ -68,11 +72,11 @@ Sample-wise, I think I'm most excited about a big library of Elektron Machinedru
 
 I am well aware of the limitations of buying music gear, and suspicious of the online culture of "G.A.S." (gear aquisition syndrome) that is encouraged by music tech manufacturers.[^gas] It can be tempting to think that a piece of gear is the only thing that you need to have the "perfect sound." Besides the fact that there is no such thing as perfect, it is also important to remember that no piece of gear will make your music "better." It can make music sound professionally produced...but plenty of professionally-produced music is bad!
 
-At the same time, "haptic feedback" - learning by touch/feel - can be a useful way to engage with music, especially when learning analog synthesis. There is nothing like turning the cutoff knob on an actual synthesizer. The physical exploration of the instrument can help you understand what is happening and allow for more natural exploration than what you experience on a computer.
+At the same time, "haptic feedback" - learning by touch/feel - can be a useful way to engage with music, especially when learning synthesis. There is nothing like turning the cutoff knob on an actual synthesizer. The physical exploration of the instrument can help you understand what is happening and allow for more natural exploration than what you experience on a computer.
 
 After owning several analog synths and other hardware, I have come back around to primarily using software. This is partly because of a lack of space, but also it helps to save money - hardware is expensive! 
 
-From time to time, I run into folks who are purists about some sort of music format. Whether it is Eurorack, tabletop, vintage synths, pure DAw setups, rack gear, or whatever else they come up with, don't follow a standard ot format just "because." Don't think about how your desk is going to look. **Follow the sound.** Focus on the results rather than aesthetics. And please don't be afraid to have a laptop on stage.
+From time to time, I run into folks who are purists about some sort of music format. Whether it is Eurorack, tabletop, vintage synths, pure DAW setups, rack gear, or whatever else they come up with, don't follow a standard or format just "because." Don't think about how your desk is going to look. **Follow the sound.** Focus on the results rather than aesthetics. And please don't be afraid to have a laptop on stage.
 
 [^gas]: It is for this reason that I do not link from this page to any stores or gear sites.
 

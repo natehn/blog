@@ -1,6 +1,11 @@
 ﻿---
 title: Leaving Facebook
 date: 2020-11-09
+tags: 
+- social media
+- technology
+- digital tools
+- the Internet
 ---
 
 {{< figure src="/fb1.png" caption="A photo of me at a bowling alley." >}}

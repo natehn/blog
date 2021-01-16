@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>self-hosting on natehn~</title>
+    <link>https://natehn.com/tags/self-hosting/</link>
+    <description>Recent content in self-hosting on natehn~</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://natehn.com/tags/self-hosting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Website, and How To Build Your Own</title>
+      <link>https://natehn.com/posts/this-website/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/posts/this-website/</guid>
+      <description>Origins This website is just a bunch of little files living on a tiny computer that sits on my living room bookcase. It plugs into the wall and my router, and all it does all day is serve up these website files to whoever requests them. For most servers out there (shared hosting, virtual private servers, and the like), it is a thankless job. But I try to give my little Lime2 single-board computer some attention every so often.</description>
+    </item>
+    
+  </channel>
+</rss>

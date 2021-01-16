@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>memes on natehn~</title>
+    <link>https://natehn.com/tags/memes/</link>
+    <description>Recent content in memes on natehn~</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://natehn.com/tags/memes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Memes</title>
+      <link>https://natehn.com/posts/on-memes/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/posts/on-memes/</guid>
+      <description>This meme repository is presented by&amp;hellip;
+  A meme is an idea. A trend. A &amp;ldquo;unit of cultural information.&amp;rdquo; Some of my favorite memes are tiny, but dense with content - a juxtaposition of surprising and hilarious images and sounds, crammed into just a short span of time and space.
+  Some were never meant to be funny.
+  &amp;hellip;while others build upon found footage to take it to the next level.</description>
+    </item>
+    
+  </channel>
+</rss>

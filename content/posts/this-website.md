@@ -1,6 +1,12 @@
 ---
 title: This Website, and How To Build Your Own
 date: 2020-09-01
+tags:
+- the Internet
+- technology
+- self-hosting
+- decentralization
+- websites
 ---
 
 ## Origins

@@ -1,6 +1,12 @@
 ﻿---
 title: Land Acknowledgment
 date: 2020-09-22
+tags:
+- sovereignty
+- supremacy
+- history
+- culture
+- justice
 ---
 
 ## The Land

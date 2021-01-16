@@ -1,21 +1,13 @@
 ---
-title: How To Follow the Blog
-date: 2020-06-21
+title: Feed
+date: 2020-10-09
 ---
 
-*How will you follow my work if I'm not posting it on Facebook (etc)? I've got three options for you.*
+## RSS
 
-## Option 1: Sign Up for the Newsletter
+The quickest way to get an update when I post new [writings](https://natehn.com/posts) is to follow the **[RSS feed](https://natehn.com/index.xml)**.[^3] 
 
-[Click here](https://buttondown.email/natehn) to sign up for my equinoctial/solstitial (i.e., quarterly) newsletter.[^1]
-
-{{< figure src="/newsletter-signup.png" caption="A screenshot of the newsletter sign-up page superimposed over an image of a person covered in mail." >}}
-
-[^1]: You can also [check out an archive](https://buttondown.email/natehn/archive) of past newsletters or [follow the newsletter via RSS](https://buttondown.email/natehn/rss). In case you are interested, I use a lightweight app called [Buttondown](https://buttondown.email/) to send out the newsletter.
-
-## Option 2: Follow Using RSS
-
-The quickest way to get an update when I post new [writings](https://natehn.com/posts) is to follow its [RSS feed](https://natehn.com/index.xml).[^3] I recommend receiving RSS alerts by email, through a tool like [Blogtrottr](https://blogtrottr.com/).[^4] Or you can add it to an RSS Reader[^2] of your choice! 
+I recommend receiving RSS alerts by email, through a tool like [Blogtrottr](https://blogtrottr.com/).[^4] Or you can add it to an RSS Reader[^2] of your choice! 
 
 [^2]: My favorite is [Feedly](https://feedly.com/), which has a [great iOS app](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556), but there are also plenty of [free](https://alternativeto.net/software/feedly/?license=free) and [open-source](https://alternativeto.net/software/feedly/?license=opensource) options. (Apparently [Microsoft Outlook](https://support.microsoft.com/en-us/office/subscribe-to-an-rss-feed-73c6e717-7815-4594-98e5-81fa369e951c) also has an RSS reading feature.)
 
@@ -23,7 +15,7 @@ The quickest way to get an update when I post new [writings](https://natehn.com/
 
 [^4]: You can also set up more complicated stuff like a [Zapier integration](https://zapier.com/apps/gmail/integrations/rss/9216/get-gmail-emails-for-new-rss-feed-entries) if you like.
 
-## Option 3: Website Monitoring
+## Website Monitoring
 
 An option - other than checking manually - that does not involve RSS is using a web monitoring app to check this website peiodically to see if updates have been made. I recommend [Distill](https://distill.io/), which has a web app and browser extensions, and can do its check using your computer rather than on the cloud.[^5] The app will email you whenever it detects changes. I recommend setting the time interval to at least a few days - don't make a computer use a bunch of energy checking a website every hour just for my sake.
 

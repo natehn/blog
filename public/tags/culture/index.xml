@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>culture on natehn~</title>
+    <link>https://natehn.com/tags/culture/</link>
+    <description>Recent content in culture on natehn~</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://natehn.com/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Memes</title>
+      <link>https://natehn.com/posts/on-memes/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/posts/on-memes/</guid>
+      <description>This meme repository is presented by&amp;hellip;
+  A meme is an idea. A trend. A &amp;ldquo;unit of cultural information.&amp;rdquo; Some of my favorite memes are tiny, but dense with content - a juxtaposition of surprising and hilarious images and sounds, crammed into just a short span of time and space.
+  Some were never meant to be funny.
+  &amp;hellip;while others build upon found footage to take it to the next level.</description>
+    </item>
+    
+    <item>
+      <title>Land Acknowledgment</title>
+      <link>https://natehn.com/posts/land-acknowledgment/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/posts/land-acknowledgment/</guid>
+      <description>The Land One of the things I have been thinking about over the last few years is the politics of the land. I have learned a lot about the way that my society - American society - came to be. I have also started to learn more deeply about the concept of justice. In the history of my people, there is much injustice - and we are the ones who perpetrate it.</description>
+    </item>
+    
+  </channel>
+</rss>

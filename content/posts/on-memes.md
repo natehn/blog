@@ -1,6 +1,11 @@
 ---
 title: On Memes
 date: 2020-10-30
+tags:
+- the Internet
+- memes
+- culture
+- comedy
 ---
 
 This meme repository is presented by...

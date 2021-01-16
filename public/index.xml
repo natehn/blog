@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nathan&#39;s latest</title>
+    <title>natehn~</title>
     <link>https://natehn.com/</link>
-    <description>Recent content on nathan&#39;s latest</description>
+    <description>Recent content on natehn~</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
-    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://natehn.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Connect</title>
+      <link>https://natehn.com/connect/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/connect/</guid>
+      <description>Open Invitation Cold email me! I&amp;rsquo;d love to hear what you have to say. Here are some reasons to reach out to me:
+ To introduce yourself To share something I might be interested in To talk nonprofits, activism, art, music, technology, politics, etc. You loved/hated something I wrote I&amp;rsquo;m wrong, and you&amp;rsquo;re willing to tell me how To notify me of an error You&amp;rsquo;d like to hang if/when I go traveling  Or maybe it is none of these.</description>
+    </item>
     
     <item>
       <title>Music Studio (Nov. 2020)</title>
@@ -45,6 +55,17 @@ Gear Because of the limited space in my NYC apartment, my music studio is relati
     </item>
     
     <item>
+      <title>Feed</title>
+      <link>https://natehn.com/feed/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/feed/</guid>
+      <description>RSS The quickest way to get an update when I post new writings is to follow the RSS feed.1
+I recommend receiving RSS alerts by email, through a tool like Blogtrottr.2 Or you can add it to an RSS Reader3 of your choice!
+Website Monitoring An option - other than checking manually - that does not involve RSS is using a web monitoring app to check this website peiodically to see if updates have been made.</description>
+    </item>
+    
+    <item>
       <title>Land Acknowledgment</title>
       <link>https://natehn.com/posts/land-acknowledgment/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
@@ -63,27 +84,15 @@ Gear Because of the limited space in my NYC apartment, my music studio is relati
     </item>
     
     <item>
-      <title>How To Follow the Blog</title>
-      <link>https://natehn.com/follow/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://natehn.com/follow/</guid>
-      <description>How will you follow my work if I&amp;rsquo;m not posting it on Facebook (etc)? I&amp;rsquo;ve got three options for you.
-Option 1: Sign Up for the Newsletter Click here to sign up for my equinoctial/solstitial (i.e., quarterly) newsletter.1
-  A screenshot of the newsletter sign-up page superimposed over an image of a person covered in mail.
-  Option 2: Follow Using RSS The quickest way to get an update when I post new writings is to follow its RSS feed.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://natehn.com/about/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/about/</guid>
-      <description>I am:
- ambient musician erstwhile radio deejay nonprofit worker occasional activist habitual researcher amateur technologist athletics aficionado native midwesterner  Feel free to reach out through the channels listed on the Home page. I&amp;rsquo;m also happy to communicate using PGP &amp;lt;3
-~
-This website is self-hosted on a tiny Linux computer using Hugo and Caddy. I recently experimented with solar powering it but right now it is plugged into the wall.</description>
+      <description>Hello!   A photo of me.
+  I am an ambient/improvising musician, erstwhile radio deejay, nonprofit worker, occasional activist, habitual researcher, amateur technologist, wannabe photographer, dormant designer, and born-&amp;lsquo;n-raised midwesterner
+I also watch sports, play video games, and hang out with friends - and I regularly frequent the local grocery store. I use he/him pronouns.
+Now (updated 2020-01-15) I&amp;rsquo;m in the midst of year three in NYC. Of course, being the city has been quite different under lockdown - it barely feels like I&amp;rsquo;m in New York!</description>
     </item>
     
   </channel>

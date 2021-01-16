@@ -1,6 +1,6 @@
 baseURL = "https://natehn.com/"
 languageCode = "en-us"
-title = "nathan's latest"
+title = "natehn~"
 theme = "cactus"
 
 copyright = "nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)" # cactus will use title if copyright is not set
@@ -27,8 +27,8 @@ url = "/about"
 weight = 4
 
 [[menu.main]]
-name = "Follow"
-url = "/follow"
+name = "Connect"
+url = "/connect"
 weight = 3
 
 [markup]
@@ -55,10 +55,10 @@ weight = 3
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "natehn = nathan hewitt"
+  description = "Greetings! My name is Nathan Hewitt (he/him), or 'natehn' on the web. This is my tiny little corner of the Internet. What do you wish to know?"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
-  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+  postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
   projectsUrl = "https://natehn.com/" # title link for projects list
