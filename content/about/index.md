@@ -7,8 +7,6 @@ tags:
 
 ### Hello!
 
-{{< figure src="/nathan.png" caption="A photo of me." >}}
-
 I am an [ambient/improvising musician](https://nthnh.bandcamp.com/), [erstwhile radio deejay](https://www.mixcloud.com/nthnh/), [nonprofit worker](https://www.linkedin.com/in/nthnh/), occasional activist, habitual researcher, [amateur technologist](https://github.com/natehn), [wannabe photographer](https://vsco.co/natehnnn/gallery), [dormant designer](https://issuu.com/wrflrifle/docs/summer2015), and [born-'n-raised midwesterner](https://natehn.com/posts/land-acknowledgment/)
 
 I also watch sports, play video games, and hang out with friends - and I regularly frequent the local grocery store. I use he/him pronouns.
@@ -30,6 +28,7 @@ I'm in the midst of year three in NYC. Of course, being the city has been quite 
 
 [^now]: Some examples: [(1)](https://ritualdust.com/about/now/) [(2)](https://sahar.io/now/) [(3)](https://gueorgui.net/now/) [(4)](https://nchrs.xyz/now/)
 
+{{< figure src="/nathan.png" caption="A photo of me." >}}
 
 ~
 

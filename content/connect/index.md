@@ -18,7 +18,7 @@ Cold email me! I'd love to hear what you have to say. Here are some reasons to r
 
 Or maybe it is none of these. If you want to talk to me, then more-than-likely I would love to talk to you. 
 
-Please feel free to send me an email at [nthnhwtt at gmail.com](mailto:nthnhwtt@gmail.com). I'm also happy to communicate using [PGP](https://natehn.com/public-key.asc). I also check [Twitter](https://twitter.com/natehn_) like once a week, but I prefer email. <3
+**Please feel free to send me an email at [nthnhwtt at gmail.com](mailto:nthnhwtt@gmail.com).** I'm also happy to communicate using [PGP](https://natehn.com/public-key.asc). <3
 
 ### Ideas
 Bonus section! I'd also be happy to talk with you about any of the following collaboration ideas:
@@ -27,7 +27,7 @@ Bonus section! I'd also be happy to talk with you about any of the following col
 - Creating a low-cost, low-commitment artist residency model that harnesses technology and a network of hosts to bring artists amazing retreat-like experiences without asking them to go into debt/spend all their savings just for a line on their resume
 - Creating a zine/guide on toxic philanthropy and how to deal with it for fundraising professionals
 - Post-pandemic, create touring networks for independent performers. Weaving rural hosts and venues, college radio stations, etc., so that more experimental artists can still go on tour without breaking the bank
-- ~~Soundcloud cooperative~~ - nvm, check out [Ampled](https://www.ampled.com/)...not quite the same thing, but it is getting there!
+- ~~Soundcloud cooperative~~ - nvm, check out [Ampled](https://www.ampled.com/) ... not quite the same thing, but it is getting there!
 
 ## Personal Newsletter
 
@@ -37,5 +37,7 @@ Bonus section! I'd also be happy to talk with you about any of the following col
 
 [^1]: You can also [check out an archive](https://buttondown.email/natehn/archive) of past newsletters or [follow the newsletter via RSS](https://buttondown.email/natehn/rss). In case you are interested, I use a lightweight app called [Buttondown](https://buttondown.email/) to send out the newsletter.
 
-## Following the Blog
+## Keeping Up
 If you want to know every time I post something on this website, [RSS email alerts and web monitoring via Distill](https://natehn.com/feed) are probably your best options. I'll try to post about once a month - but I'm [not going to pressure myself too much](https://natehn.com/posts/this-website/#writing).
+
+To keep up with my music, I would recommend following me on [Bandcamp](https://nthnh.bandcamp.com/). Most of my music lives there - and buying music there is the best way to support musicians' livelihoods.

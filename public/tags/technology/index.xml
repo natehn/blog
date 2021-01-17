@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
-    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://natehn.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reflecting on 2020</title>
+      <link>https://natehn.com/posts/2020/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/posts/2020/</guid>
+      <description>[Feel free to listen to my most recent mix while reading if you want some background music.]
+Although the beginning and end of the Western calendar year are quite arbitrary, they have become integral to the way that our society thinks about time. For most of 2020, we were complaining about, well, 2020. Beginning with fears of WWIII and wildfires, then a global pandemic and US presidential election, the past year has thrown a lot at us.</description>
+    </item>
     
     <item>
       <title>Leaving Facebook</title>

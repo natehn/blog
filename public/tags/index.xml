@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
-    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://natehn.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>music</title>
+      <link>https://natehn.com/tags/music/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musicmaking</title>
+      <link>https://natehn.com/tags/musicmaking/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/tags/musicmaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reflection</title>
+      <link>https://natehn.com/tags/reflection/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/tags/reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://natehn.com/tags/technology/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>year in review</title>
+      <link>https://natehn.com/tags/year-in-review/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/tags/year-in-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>gear</title>
@@ -18,15 +63,6 @@
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/tags/gear/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>https://natehn.com/tags/music/</link>
-      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://natehn.com/tags/music/</guid>
       <description></description>
     </item>
     
@@ -54,15 +90,6 @@
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/tags/social-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>https://natehn.com/tags/technology/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://natehn.com/tags/technology/</guid>
       <description></description>
     </item>
     
