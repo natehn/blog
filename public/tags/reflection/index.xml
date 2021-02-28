@@ -7,19 +7,180 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
-    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://natehn.com/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://natehn.com/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflecting on 2020</title>
       <link>https://natehn.com/posts/2020/</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/posts/2020/</guid>
-      <description>[Feel free to listen to my most recent mix while reading if you want some background music.]
-Although the beginning and end of the Western calendar year are quite arbitrary, they have become integral to the way that our society thinks about time. For most of 2020, we were complaining about, well, 2020. Beginning with fears of WWIII and wildfires, then a global pandemic and US presidential election, the past year has thrown a lot at us.</description>
+      <description>&lt;p&gt;&lt;em&gt;[Feel free to listen to &lt;a href=&#34;https://www.mixcloud.com/nthnh/jan-2021-mix-w-nathan-hewitt-3/&#34;&gt;my most recent mix&lt;/a&gt; while reading if you want some background music.]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Although the beginning and end of the &lt;a href=&#34;https://decolonialatlas.wordpress.com/2020/12/31/new-years-around-the-world-2021/&#34;&gt;Western&lt;/a&gt; calendar year are quite arbitrary, they have become integral to the way that our society thinks about time. For most of 2020, we were complaining about, well, &lt;em&gt;2020&lt;/em&gt;. Beginning with fears of WWIII and wildfires, then a global pandemic and US presidential election, the past year has thrown a lot at us. Somehow, however, there was an inkling of irrational hope that a new year would bring us a better world.&lt;/p&gt;
+&lt;p&gt;Now we&amp;rsquo;re in 2021, and &amp;ldquo;2020&amp;rdquo; just keeps coming. Obviously, the pandemic is far from over. And politics in America, spurred on by &lt;a href=&#34;https://natehn.com/posts/leaving-facebook/#fn:11&#34;&gt;social media&lt;/a&gt; radicalization, continues to deteriorate. Still, I thought it might be useful - to some degree for people in the present, and perhaps also for folks in the future - to reflect on the past calendar year.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/mask.png&#34;
+         alt=&#34;A disposable mask with a broken ear string.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;A disposable mask with a broken ear string.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;the-world-through-a-screen&#34;&gt;The world, through a screen&lt;/h2&gt;
+&lt;p&gt;How do you even write about something like COVID - something that affects everyone?  Whatever your experience has been, it cannot come anywhere close to capturing the full experience of humanity during this time. The experiences are so different, of course on an individual basis, but also along class and racial lines. I&amp;rsquo;m still employed full-time, while former coworkers and neighbors and friends are without work. I&amp;rsquo;ve not lost anyone I know to the disease, and yet thousands of people have died.&lt;/p&gt;
+&lt;p&gt;As different as all of our lives are, one shared experience for people in the US is an increased reliance on technology. In a recent newsletter, Tech Learning Collective wrote that, &amp;ldquo;2020 was, without a doubt, &lt;strong&gt;the most Cyberpunk-dystopic year in recorded history&lt;/strong&gt;.&amp;rdquo; They continue:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This was the year of Zoom dinner parties, pandemic-fueled bot-powered Instacart panic-buying, and direct-to-streaming Hollywood releases. The Pirate Bay has never had high-quality TV and movie rips indexed so quickly. Installing a bot to snag grocery delivery slots has never been a mode of survival before. This was the year even the tech-averse were forced into cyberspace for virtual concerts, remote learning, an augmented-reality holiday parade, and contactless-everything.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Technology, already an enormous part of modern life, has become our way of engaging with everything during quarantine. And for a brief moment, when the pandemic first arrived in the US, it felt like we were united against something for once - the disease.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/tea.png&#34;
+         alt=&#34;Some tea packets and tags.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Some tea packets and tags.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;That feeling did not last for long. After all, with 24/7 news cycles and social media, we experience life very differently from one another and from humans in times past. Now, far-away events can affect our emotions more than activities close to home. Political affiliation defines our identity; the global is personal. And as Internet use increased during lockdown, our slowly diverging realities pulled apart even further and at a greater rate.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;During this year, I came to realize the degree to which we no longer have a shared reality. I&amp;rsquo;m not just talking about politics. We see different memes and content; we hear about different celebrities; we see different kinds of social media posts; we read different blogs. Sure, we&amp;rsquo;ve all always had our own lives and experiences. What is different is that, for many people, their reality is now organized for the profit of Silicon Valley venture capitalists and NYSE investors who profit from algorithmically cultivating these realities - competing visions for how the world actually works.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;At first, when the pandemic hit, I dove into Facebook, seeking socialization. I was particularly active after the killing of George Floyd in late May. But over time, as the intensity of these diverging realities started to grow - and my attempts to connect with other people saw little assistance from the algorithms - I realized that there wasn&amp;rsquo;t much for me to accomplish on the platform itself. Rather than socialization and connection, my social media experience was one of visceral and vicarious chaos.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/banjo1.png&#34;
+         alt=&#34;Some banjo picks.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Some banjo picks.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I shifted my attention toward the ways I, myself, was interacting with technology. Although I have always used the computer a lot, I was now at a desk more than ever before. I started to reconsider the way I approach the Internet&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; and took on a number of related projects:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Building this low-energy, self-hosted website.&lt;/li&gt;
+&lt;li&gt;Attempting to solar-power it - but I didn&amp;rsquo;t quite get the right equipment, and our apartment doesn&amp;rsquo;t get enough sunlight anyway. I learned a lot, but eventually decided to give up for now.&lt;/li&gt;
+&lt;li&gt;Stopping using Facebook and Instagram - I hadn&amp;rsquo;t decided to leave yet.&lt;/li&gt;
+&lt;li&gt;Going through the many linked articles and content I had collected over the years. Some of it I threw away, and the rest I rearranged so that it would be more useful for me. (This is a work in progress. More on this in a future post.)&lt;/li&gt;
+&lt;li&gt;Cleaning out my Google Drive, moving a bunch of old stuff to offline storage.&lt;/li&gt;
+&lt;li&gt;Deciding to re-start my personal newsletter, this time having folks to opt in rather than importing an email list.&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Learning a bunch from Tech Learning Collective about technology and security.&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Starting to think a lot more about the ways that I keep in touch with people. Who facilitates my communications? Do I trust them with my personal information?&lt;/li&gt;
+&lt;li&gt;Committing to &lt;a href=&#34;https://natehn.com/posts/leaving-facebook/&#34;&gt;leaving Facebook and Instagram&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As I continue to engage with technology, using more open source tools, relying less on big business and more on myself and online communities, I hope I can also inspire others to do the same.&lt;/p&gt;
+&lt;p&gt;Technology is not going anywhere, and it is amazing how little most of us know about how the Internet, for instance, actually works. Not everyone needs to be a developer, but I believe that if we all had a better understanding of the apps and programs we use, we would be a lot better at fixing the broken systems we&amp;rsquo;re contending with right now. As we move into 2021, I&amp;rsquo;m feeling more confident, and more competent. I&amp;rsquo;m no code whiz, but I know my way around a bit better. I plan to continue to learn and grow in the new year.&lt;/p&gt;
+&lt;h2 id=&#34;making-music-in-the-middle-of-all-this&#34;&gt;Making music in the middle of all this&lt;/h2&gt;
+&lt;p&gt;One of the tensions at the heart of my musicmaking practice has been the push and pull of professional and personal. My background in music in the classical world always emphasized the professional aspects of sound, but during college, studying free improvisation with Rui Li was an entry point into more intimate ways of engaging with my instruments. Since I graduated music school and started making electronic music, that push and pull has remained.&lt;/p&gt;
+&lt;h3 id=&#34;music-for-fifteen-emails&#34;&gt;Music for Fifteen Emails&lt;/h3&gt;
+&lt;p&gt;When the pandemic first shut things down in mid-March, I threw myself into the professional side of my work. I had been listening to a great deal of &lt;a href=&#34;https://www.factmag.com/2018/01/14/japanese-ambient-hiroshi-yoshimora-midori-takada/&#34;&gt;environmental music&lt;/a&gt;, especially the work of Hiroshi Yoshimura. I had also been recording a lot with one of the instruments Hiroshi used, the &lt;a href=&#34;https://natehn.com/posts/music-studio-nov-2020/&#34;&gt;Yamaha FB-01&lt;/a&gt;. Without really thinking about it too much, I instinctively seized on the opportunity to work on something I had wanted to work on for a while: a new album.&lt;/p&gt;
+&lt;p&gt;My connection with environmental music only increased as it soothed me during a time of extreme change. I put in several hours per day after work, racing through it because I really felt it was the right music for the right time. (I have heard from friends that I was right - it did fit the time. And depending on how your life is now, &lt;a href=&#34;https://nthnh.bandcamp.com/album/music-for-fifteen-emails-part-one&#34;&gt;it still might be&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://nthnh.bandcamp.com/album/music-for-fifteen-emails-part-one&#34;&gt;[Listen to Part One]&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;With &lt;em&gt;Music for Fifteen Emails&lt;/em&gt;, I chose to experiment in a lot of different ways - I had not done anything like it before, in terms of genre, in terms of making music on a grid (sort-of) in terms of getting serious about mixing, and mastering myself (paying monthly for a mastering suite via Splice) rather than paying someone else. The album burgeoned into a double-album and I released it in April, after about a month of quarantine-fueled labor.&lt;/p&gt;
+&lt;p&gt;I decided that this time I would spend more time exploring promotion and distribution. I switched from Distrokid to CDBaby since CDBaby is a single payment and allows multiple artists. I also used SubmitHub to try and bring attention to my music - a first for me. It resulted in a few playlistings and blog reviews - more attention than my releases usually get - but not as much as I had hoped. I also used my personal Instagram more than I ever had before, and even paid for an ad on that platform for the first time (this is before I decided to leave Instagram).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://nthnh.bandcamp.com/album/music-for-fifteen-emails-part-two&#34;&gt;[Listen to Part Two]&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I don&amp;rsquo;t know if the promotional work can be characterized as a success, but it was a useful experiment. The feedback that brings me the most joy is that of my friends who have enjoyed it the most and shared with me how they continue to listen to it to this day: A.M., J.W., L.V., and L.R.&lt;/p&gt;
+&lt;h3 id=&#34;music-for-self-reflection&#34;&gt;Music for self-reflection&lt;/h3&gt;
+&lt;p&gt;I recognize now that putting all of that time into the album was a coping mechanism. After I released and promoted &lt;em&gt;Music for Fifteen Emails&lt;/em&gt;, for a while, I didn&amp;rsquo;t work on music very much, and I started to get swept away by the news cycle and social media. After all, with the complete collapse of the performing arts, there weren&amp;rsquo;t really any opportunities to perform live, and I wasn&amp;rsquo;t sure that I really felt like it anyway.&lt;/p&gt;
+&lt;p&gt;Still, I continued to make music just for myself - the personal side of my music practice. At one point in late spring, my partner and I ran across a snail moving alongside the sidewalk in the park. I decided to play a little song to go along with the video footage we collected:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/fJFOMbbDGCE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For a while in late spring, the social uprising and Black Lives Matter movement occupied my mind and time (well, it still does) to a degree that there was not space in my life for musicmaking. I also realized during that time that COVID was not ending anytime soon. The weight of that realization, combined with police brutality and the onset of the general election season in June/July, meant that I did not really &lt;em&gt;feel&lt;/em&gt; musical. Instead, I distracted myself with basketball, and with cooking, and with building a home routine with my partner.&lt;/p&gt;
+&lt;p&gt;Eventually, however, I started to feel the need to make music again. Music helps me to process the world around me, and the emotions within me, and my relationships and experiences. I was overwhelmed, but as I adapted to the situation we were in in fall 2020 - as humans do - I started to try and process those experiences. Sometimes, I just improvised on my keyboard - letting it all out. Other times, I tried to approach the instrument with more intention.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/banjo2.png&#34;
+         alt=&#34;More banjo picks.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;More banjo picks.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As the year went on, I moved farther and farther into quiet. My recordings were peppered with longer tones and deconstructed melodies. Improvisations, rather than compositions - perhaps because my ability to create order felt like it was slipping away in all of the chaos surrounding us.&lt;/p&gt;
+&lt;p&gt;In September, I went on a walk to a nearby grocery store and pulled out my phone to record the trip. When I got back, I decided to record over it - &lt;a href=&#34;https://nthnh.bandcamp.com/track/in-the-middle-of-all-this&#34;&gt;a single long improvisation&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Here is what I later wrote about the piece, entitled &lt;em&gt;In the Middle of All This&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Popular music, especially in the age of the Digital Audio Workstation, is constructed almost 1 millisecond at a time. Every note, every harmony, every effect is dissected and reconstructed over and over again until is is absolutely perfect. Live performances are often filtered and shaped to resemble that magical &amp;ldquo;take.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In the Middle of All This &lt;em&gt;is a piece that rejects the impulse to finish. It rejects, even, the impulse to edit (beyond matching levels and removing loud pops). It consists of two field recordings, digitally scotch-taped together to resemble just one (they were separated in reality by a 20 minute grocery run), with a later improvisation recorded over the field recording(s). It is a simple diorama - nothing sophisticated.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The improvisations take the form of deconstructed musical ideas, sometimes taking cues from the field recording, sometimes coming from within the performer himself (a white dude sitting in his apartment in West Harlem in the middle of a pandemic). If you played them on top of one another, they could almost make a song. But they don&amp;rsquo;t.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The world feels just a little bit like it is coming apart. I&amp;rsquo;m not sure if &amp;ldquo;deconstructed&amp;rdquo; is the right word for the way I think about it - that feels somehow to purposeful. But as a musician, I didn&amp;rsquo;t feel like I would be reflecting the world I see by putting together a cohesive musical unit. I&amp;rsquo;m not sure if I had the emotional strength to offer one either. The best I could do was these almost-but-not-quite-hopeful motives.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;(I&amp;rsquo;m super excited for this piece to be included in &lt;a href=&#34;https://www.artwithjip.com/&#34;&gt;Jip Gallery&lt;/a&gt;&amp;lsquo;s next exhibition.)&lt;/p&gt;
+&lt;p&gt;A month later, I decided to sit down and record a drone EP, &lt;em&gt;&lt;a href=&#34;https://nthnh.bandcamp.com/album/in-those-places-we-are-the-ghosts&#34;&gt;In those places, we are the ghosts.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I&amp;rsquo;d been wanting to make some drone for a while, but I never felt fully inspired to do so until October 2020. Perhaps it had to do with the darkness of the year, or the spooky Halloween vibes that felt so right, but I wanted to make something a bit grungier, a bit darker, and a bit more indulgent.&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;music--tech&#34;&gt;Music + tech&lt;/h3&gt;
+&lt;p&gt;During the last couple months of the year, I have entered into another period of technical experimentation. I&amp;rsquo;m playing with beatmaking, various livecoding languages, Max MSP, 3D spatial audio, and video synthesis.&lt;/p&gt;
+&lt;p&gt;When you are put under stress, sometimes you find out what matters most to you. No matter what happens, or where my career takes me, or how much money I have, music will always be an important part of my life. It&amp;rsquo;s magic. Whether I am the listener, curator, or performer, active engagement with sound rarely fails to restore me.&lt;/p&gt;
+&lt;h2 id=&#34;quarantine-lifestyle-log&#34;&gt;Quarantine lifestyle log&lt;/h2&gt;
+&lt;h3 id=&#34;spring&#34;&gt;Spring&lt;/h3&gt;
+&lt;p&gt;I have been super fortunate: no deaths in my immediate extended family, not fired/furloughed/laid off, no COVID - or at least no symptoms and no positive tests. The reality is, the biggest impacts on me, personally, were on my lifestyle.&lt;/p&gt;
+&lt;p&gt;Although I&amp;rsquo;ve always been partial to just staying at home on the weekends, there were always things that drew me out of the apartment. Whether it was the 50th-anniversary gala I was working on at the time, museum ethics organizing, or climate activism,&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; my life changed dramatically when the world ground to a halt - and I know I&amp;rsquo;m hardly unique in that.&lt;/p&gt;
+&lt;p&gt;My work life, however, continued on, at least initially unchanged. I already worked from home on the Fractured Atlas team. Eventually, Fractured Atlas would be affected greatly by COVID, due to layoffs and the great challenges that our member artists faced, but at first, I felt lucky that we didn&amp;rsquo;t have to changing our protocols very much.&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Early on, I began to engage in mutual aid where I could. I supported a few individuals directly and also started delivering groceries on a regular basis. As you may remember, the initial spike in NYC was intense, and groups like Invisible Hands mobilized to support at-risk folks in our communities. When we thought it was only going to last a short time, we also took on some classic stuck-at-home activities: puzzles and board games.&lt;/p&gt;
+&lt;p&gt;One time, when my partner and I were sitting around in quarantine, maybe a month-and-a-half in, we decided to make a zine as a way off remembering that strange time. We gathered various items from our pandemic experience - Cheddar Sour Cream Ruffles bags, Chinese take-out sauce packets, banjo picks, and, of course, disposable masks, and arranged them on my flatbed scanner.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/takeout.png&#34;
+         alt=&#34;A bunch of unused Chinese takeout sauce packets.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;A bunch of unused Chinese takeout sauce packets.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Naturally, that idea died away pretty quickly once we realized that the pandemic was not going to be over anytime soon. But that was my first realization that these times should be documented - the first, in a way, of many attempts to write about 2020. The scans from that evening are the images you see spread throughout this post.&lt;/p&gt;
+&lt;h3 id=&#34;summer&#34;&gt;Summer&lt;/h3&gt;
+&lt;p&gt;While people on short-term leases and those with means left the city, we decided to stay. Eventually, my partner and I settled into a rhythm: working during the day, taking turns cooking&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; and doing the dishes, daily walks, watching road cycling or maybe The Last Airbender, playing Overwatch, my partner playing banjo, weekly family chats, takeout once per week (occasionally cheating and picking up a pizza), and reading together in the evenings. We also started indoor composting, added some house plants, and did some virtual game nights. None of it particularly notable, except for how damn &lt;em&gt;reliable&lt;/em&gt; it was.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/OT40Rmjwd-Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;When George Floyd was killed, like many others, we sprung into action and marched the streets, probably two out of every three days. We decided to chance the subways and, other than delivering groceries, it was probably the most we were outside the entire year. Once the uprising started to die down, things for us, strangely, got back to &amp;ldquo;normal.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Journal, 08/19/2020, 1:36am&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I have this nagging feeling that I am not doing something that I am supposed to be doing. But there isn&amp;rsquo;t anything. It&amp;rsquo;s strange. Hopefully, it&amp;rsquo;s just cabin fever. I guess I should just go to sleep.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;autumn&#34;&gt;Autumn&lt;/h3&gt;
+&lt;p&gt;Looking back at the year, the autumn is almost a blank spot in my memory. To some degree, every day was the same. I went to the Socrates Sculpture Park for a masked and socially-distanced hang with a couple of friends, and was blown away by the simple pleasure of it all. There were a couple short trips upstate, and one longer one to the Adirondacks that helped my partner and I to recharge. I started to look for a new job, and in the process joined the team part-time at &lt;a href=&#34;https://opencollective.com/&#34;&gt;Open Collective&lt;/a&gt;. Eventually, at the end of the year, I left Fractured Atlas and joined &lt;a href=&#34;https://donorly.com/&#34;&gt;Donorly&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/ruffles.png&#34;
+         alt=&#34;A scan of a Cheddar Sour Cream Ruffles bag.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;A scan of a Cheddar Sour Cream Ruffles bag.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;One of the most difficult parts of the lockdown for us was being away from our families for so long. With both of us having at-risk people in our family bubbles, we had to proceed with extreme care. We eventually decided to take a six-week trip at the end of the year to see our folks in the Midwest - three weeks each - and due to our precautions no one got sick.&lt;/p&gt;
+&lt;p&gt;The weird part about writing about pandemic life right now is that it hasn&amp;rsquo;t ended. We&amp;rsquo;re back in the city and have many of the same patterns. It seems like the vaccine will make 2021 a better year than 2020. But if this year has taught me anything, it&amp;rsquo;s to take nothing for granted. Come what may - after 2020, I&amp;rsquo;m ready for anything.&lt;/p&gt;
+&lt;h2 id=&#34;feelings&#34;&gt;Feelings&lt;/h2&gt;
+&lt;p&gt;The year 2020 was filled with emotions. Anger at injustices like police brutality, government mishandling of COVID, fellow citizens&amp;rsquo; lack of care for the broader community, various politicians, and, you know, everything. Sadness for colleagues and friends whose lives were uprooted. Loneliness.&lt;/p&gt;
+&lt;p&gt;Sometimes I felt like I was floating through time - simultaneously untethered from reality and stuck in the same place. At other times, I was just bored. There were moments of fear as well, especially in the midst of great uncertainty. Fear of the future. Fear of death.&lt;/p&gt;
+&lt;p&gt;But there were also moments of great joy and brilliance. Though they were often overshadowed, those moments are the ones I cling to. I hope that you can do the same.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Yes, to some degree people have always chosen news based on their viewpoint. But the niche-enabling dynamics of cable TV made being different profitable. On the Internet, it&amp;rsquo;s cable times a million. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Note: this is different from having conflicting opinions. We don&amp;rsquo;t even share the same basic facts about what &lt;em&gt;IS&lt;/em&gt; on a basic level vs what &lt;em&gt;IS NOT&lt;/em&gt;. Let alone what &lt;em&gt;ought&lt;/em&gt; to be. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;One of the coolest groups I&amp;rsquo;ve started to follow in the tech world is &lt;a href=&#34;https://100r.co/site/home.html&#34;&gt;Hundred Rabbits&lt;/a&gt;. They traverse the world on their sailboat, making amazing tools like ORCA and Left and just generally inspire people to engage with technology differently. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;A couple of years ago, I became impatient with social media, emailed a bunch of contacts, and accidentally broken some international data privacy laws in the process - whoops! I did a better job this time. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I also taught a class on digital security basics for beginners in the audio production/journalism world. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I mean, most people want a song with a beat that lasts no more than five minutes. &lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Prior to the onset of the COVID-19 shutdown in New York, I was able to complete a few of my goals for the first half of 2020. For instance, in January, I created an &lt;a href=&#34;https://natehn.com/bibliography.pdf&#34;&gt;overview of critical external feedback&lt;/a&gt; for Extinction Rebellion, which was distributed to members of the NYC group. I also made my own trail mix for the first time. &lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;By the end of 2020, the team was cut almost in half. &lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;One of my goals for the first half of 2020 was to cook at least four new types of fish or meat substitutes. I accomplished that and much more, including my &lt;em&gt;pièce de résistance&lt;/em&gt;, a meatless edition of Scotch Eggs. &lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
     </item>
     
   </channel>

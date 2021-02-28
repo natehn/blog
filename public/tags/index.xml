@@ -7,10 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
-    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://natehn.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>information</title>
+      <link>https://natehn.com/tags/information/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/tags/information/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://natehn.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>knowledge</title>
+      <link>https://natehn.com/tags/knowledge/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/tags/knowledge/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>links</title>
+      <link>https://natehn.com/tags/links/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/tags/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>references</title>
+      <link>https://natehn.com/tags/references/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/tags/references/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>https://natehn.com/tags/tools/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/tags/tools/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>music</title>

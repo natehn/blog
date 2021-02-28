@@ -7,19 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
-    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://natehn.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://natehn.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Music Studio (Nov. 2020)</title>
       <link>https://natehn.com/posts/music-studio-nov-2020/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/posts/music-studio-nov-2020/</guid>
-      <description>My music studio (i.e., a little corner of our little office) is ever-changing. Instruments and gear come and go. Workflows ebb and&amp;hellip;flow. This is the first post in a &amp;ldquo;music studio&amp;rdquo; series where we check in on what tools I&amp;rsquo;m currently using for my audio work.1
-Gear Because of the limited space in my NYC apartment, my music studio is relatively small, occupying just 1/3 of the space in the &amp;ldquo;office&amp;rdquo; of our 2BR living space.</description>
+      <description>&lt;p&gt;&lt;em&gt;My music studio (i.e., a little corner of our little office) is ever-changing. &lt;a href=&#34;http://martinyammoller.com/all-interviews/&#34;&gt;Instruments and gear&lt;/a&gt; come and go. Workflows ebb and&amp;hellip;flow. This is the first post in a &amp;ldquo;music studio&amp;rdquo; series where we check in on what tools I&amp;rsquo;m currently using for my audio work.&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;gear&#34;&gt;Gear&lt;/h2&gt;
+&lt;p&gt;Because of the limited space in my NYC apartment, my music studio is relatively small, occupying just 1/3 of the space in the &amp;ldquo;office&amp;rdquo; of our 2BR living space.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/studio.png&#34;
+         alt=&#34;A photo of my music studio, described below.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;A photo of my music studio, described below.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a list of the gear in the set-up shown above:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Elektron Digitakt drum computer/sampler&lt;/li&gt;
+&lt;li&gt;DIY-built Monome Norns sound computer&lt;/li&gt;
+&lt;li&gt;Yamaha FB-01 half-rack 4-operator FM synth module&lt;/li&gt;
+&lt;li&gt;Arturia Keystep midi keyboard/sequencer&lt;/li&gt;
+&lt;li&gt;Focusrite Saffire 4i4 (3rd gen) audio interface/sound card&lt;/li&gt;
+&lt;li&gt;Mackie 1202-VLZ3 12-channel analog mixer&lt;/li&gt;
+&lt;li&gt;a pair of JBL LSR305 powered monitors (speakers)&lt;/li&gt;
+&lt;li&gt;Zoom H1n audio recorder&lt;/li&gt;
+&lt;li&gt;cheap Samson SR850 headphones&lt;/li&gt;
+&lt;li&gt;Laptop, monitor, laptop stand, milk crate, powered USB hub, keyboard, mouse&lt;/li&gt;
+&lt;li&gt;A bunch of audio cables&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With the exception of the DIY Monome Norns, which I bought a kit for and assembled myself, and little things like the keyboard, mouse and USB hub, this equipment was bought used online. I&amp;rsquo;ve done a lot of buying and selling, going back to Spring 2017.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; The FB-01, although it has some noise issues, has been a real treat, and it is currently the only vintage gear in my workflow. The Norns adds some flexibility/mystery/inspiration to the setup, since it can serve many different purposes depending on what program it is running. The laptop is the core of the setup, and rest of the equipment is mostly functional.&lt;/p&gt;
+&lt;h2 id=&#34;routing&#34;&gt;Routing&lt;/h2&gt;
+&lt;h3 id=&#34;audio&#34;&gt;Audio&lt;/h3&gt;
+&lt;p&gt;The center hub of audio routing is the 12-channel mixer (1202). The best thing about this particular mixer - other than the fact that it fits inside the milk crate &lt;em&gt;perfectly&lt;/em&gt; - is its flexible routing features that allow me to route signals to multiple sources.&lt;/p&gt;
+&lt;p&gt;To start, the external sources, in this case the Norns and FB-01, send audio into the mixer. I can play them without my laptop by sending their audio into the main outs of the mixer, which in turn sends audio out to the monitors/speakers and Zoom audio recorder. The 1202’s mute buttons also allow me to send thse external signals to an alternate bus that goes through the audio interface to my computer/DAW. This allows for a pseudo cue system, of sorts. I then have the outputs running from my computer, through the interface, back into the main mixer.&lt;/p&gt;
+&lt;p&gt;Additionally, I can send audio out to the Norns (and other hardware effects I use from time to time) using the two FX sends on the mixer. Rather than using the mixer&amp;rsquo;s stereo returns, I prefer to use a regular input channel for each FX return, for maximum flexibility and control.&lt;/p&gt;
+&lt;h3 id=&#34;midi&#34;&gt;MIDI&lt;/h3&gt;
+&lt;p&gt;My main MIDI controller is the Keystep. I usually have it running via USB into my computer. I also connect it via a standard 5-pin MIDI cable to the Yamaha FB-01. Occasionally, I will connect it to the Norns via USB instead.&lt;/p&gt;
+&lt;p&gt;The other important MIDI connection is the Sevilla host-to-host USB MIDI daptor, which allows me to send messages between the Norns (which is itself a computer/MIDI host) and my laptop. This is really useful for integrating the Norns into my setup.&lt;/p&gt;
+&lt;p&gt;The Digitakt can also do some MIDI stuff, but I am not currently using it in that capacity. Something to explore later!&lt;/p&gt;
+&lt;h2 id=&#34;computer-programs&#34;&gt;Computer Programs&lt;/h2&gt;
+&lt;p&gt;My Windows laptop is at the heart of the setup. At the moment, I am still most comfortable using audio, MIDI, and virtual instruments/plugins in my DAW, Ableton Live 10, but I recently took a class on 3D immersive sound design using Unity and FMod. I&amp;rsquo;m quite intrigued and will probably look more into this over the coming months as an interesting delivery method/venue for my music. I have also been learning the very basics of Max 8 and a little bit of SuperCollider. We will see where all this leads!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve collected a lot of VSTs over the years, and it is not worth listing them all here. Instead, I&amp;rsquo;ll list some of the plugins and instruments I&amp;rsquo;ve been using the most lately:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Felt Instruments Lekko and Jasno&lt;/li&gt;
+&lt;li&gt;a PureData emulation of the Lyra-8&lt;/li&gt;
+&lt;li&gt;Valhalla plugins&lt;/li&gt;
+&lt;li&gt;Arturia V Collection 7&lt;/li&gt;
+&lt;li&gt;various Airwindows plugins&lt;/li&gt;
+&lt;li&gt;Full Bucket Korg emulation VSTs&lt;/li&gt;
+&lt;li&gt;Amazing Noises Granular Mirror Maze&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sample-wise, I think I&amp;rsquo;m most excited about a big library of Elektron Machinedrum samples I recently downloaded. I&amp;rsquo;m also looking forward to exploring some vintage MFB drum samples as well.&lt;/p&gt;
+&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
+&lt;p&gt;I am well aware of the limitations of buying music gear, and suspicious of the online culture of &amp;ldquo;G.A.S.&amp;rdquo; (gear aquisition syndrome) that is encouraged by music tech manufacturers.&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; It can be tempting to think that a piece of gear is the only thing that you need to have the &amp;ldquo;perfect sound.&amp;rdquo; Besides the fact that there is no such thing as perfect, it is also important to remember that no piece of gear will make your music &amp;ldquo;better.&amp;rdquo; It can make music sound professionally produced&amp;hellip;but plenty of professionally-produced music is bad!&lt;/p&gt;
+&lt;p&gt;At the same time, &amp;ldquo;haptic feedback&amp;rdquo; - learning by touch/feel - can be a useful way to engage with music, especially when learning synthesis. There is nothing like turning the cutoff knob on an actual synthesizer. The physical exploration of the instrument can help you understand what is happening and allow for more natural exploration than what you experience on a computer.&lt;/p&gt;
+&lt;p&gt;After owning several analog synths and other hardware, I have come back around to primarily using software. This is partly because of a lack of space, but also it helps to save money - hardware is expensive!&lt;/p&gt;
+&lt;p&gt;From time to time, I run into folks who are purists about some sort of music format. Whether it is Eurorack, tabletop, vintage synths, pure DAW setups, rack gear, or whatever else they come up with, don&amp;rsquo;t follow a standard or format just &amp;ldquo;because.&amp;rdquo; Don&amp;rsquo;t think about how your desk is going to look. &lt;strong&gt;Follow the sound.&lt;/strong&gt; Focus on the results rather than aesthetics. And please don&amp;rsquo;t be afraid to have a laptop on stage.&lt;/p&gt;
+&lt;p&gt;~&lt;/p&gt;
+&lt;p&gt;If you want to chat about music tech and gear, &lt;a href=&#34;mailto:nathan@omg.lol&#34;&gt;hit me up&lt;/a&gt;! I would love to talk about the highs and lows of building a productive music studio.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;More interested in the results? Check out my &lt;a href=&#34;https://nthnh.bandcamp.com/&#34;&gt;Bandcamp page&lt;/a&gt;. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;At some point on this website I&amp;rsquo;ll have to reflect on some of my favorites that I had to let go, like the Behringer SH-101 clone and Korg MS-20 mini that I just simply do not have space for. The Behringer rack reverb I used to have was also great. These have been replaced by VSTs from folks like Valhalla and Full Bucket. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;It is for this reason that I do not link from this page to any stores or gear sites. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
     </item>
     
   </channel>

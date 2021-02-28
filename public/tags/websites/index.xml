@@ -7,18 +7,96 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
-    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://natehn.com/tags/websites/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://natehn.com/tags/websites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This Website, and How To Build Your Own</title>
       <link>https://natehn.com/posts/this-website/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/posts/this-website/</guid>
-      <description>Origins This website is just a bunch of little files living on a tiny computer that sits on my living room bookcase. It plugs into the wall and my router, and all it does all day is serve up these website files to whoever requests them. For most servers out there (shared hosting, virtual private servers, and the like), it is a thankless job. But I try to give my little Lime2 single-board computer some attention every so often.</description>
+      <description>&lt;h2 id=&#34;origins&#34;&gt;Origins&lt;/h2&gt;
+&lt;p&gt;This website is just a bunch of little files living on a tiny computer that sits on my living room bookcase. It plugs into the wall and my router, and all it does all day is serve up these website files to whoever requests them. For most servers out there (shared hosting, virtual private servers, and the like), it is a thankless job. But I try to give my little Lime2 single-board computer some attention every so often. A little bit of gratitude can go a long way.&lt;/p&gt;
+&lt;p&gt;Over the years, I&amp;rsquo;ve built a few different personal websites. First, there was the college résumé site, &lt;a href=&#34;https://natehn.com/posts/this-website/#origins&#34;&gt;nathanhewitt.net&lt;/a&gt;. Then there were other short-lived iterations: the music-focused &lt;a href=&#34;https://natehn.com/posts/this-website/#origins&#34;&gt;auohm.us&lt;/a&gt; (before I stopped using the moniker AUOHM), the simplistic &lt;a href=&#34;https://natehn.com/posts/this-website/#origins&#34;&gt;nthnh.co&lt;/a&gt;, and the Web 1.0 &lt;a href=&#34;https://natehn.com/posts/this-website/#origins&#34;&gt;omg.lol/nathan&lt;/a&gt;. On the backend, I tried Wordpress, Squarespace, Wix, and others. I also put together plenty of simple, WYSIWYG websites when I was doing freelance graphic design in college.&lt;/p&gt;
+&lt;p&gt;For this website, I originally wanted to self-host in order to learn &lt;em&gt;how&lt;/em&gt;. As I built the site, however, I started to come up with other reasons. Over time, a constellation of motivations started to form:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My desire to learn basic Linux programming (&lt;code&gt;bash&lt;/code&gt;) and related technology&lt;/li&gt;
+&lt;li&gt;Trying to get away from corporate-owned social media platforms&lt;/li&gt;
+&lt;li&gt;Finding my written voice again&lt;/li&gt;
+&lt;li&gt;Experimenting with solar power&lt;/li&gt;
+&lt;li&gt;Sharing what I have learned; sharing what I am learning&lt;/li&gt;
+&lt;li&gt;Having a home on the web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;ldquo;Natehn&amp;rdquo; is a new online moniker that mixes three letters of my first and last names. I feel that, as my public engagement with the Internet begins to change, a new name will help to separate the new from the old. (The similarity to &lt;a href=&#34;https://github.com/tehn&#34;&gt;Brian Crabtree&amp;rsquo;s moniker&lt;/a&gt; is purely coincidental.)&lt;/p&gt;
+&lt;h2 id=&#34;building-your-own&#34;&gt;Building Your Own&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in building and hosting your own website the way I did, I would be &lt;a href=&#34;mailto:nthnhwtt@gmail.com&#34;&gt;happy to help&lt;/a&gt;. Some basic directions are below. As you go, be sure to also check in on the core documentation for &lt;a href=&#34;https://docs.armbian.com/&#34;&gt;Armbian&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;Hugo&lt;/a&gt;. You may also want to learn the basics of &lt;a href=&#34;https://techlearningcollective.com/foundations/&#34;&gt;the command line&lt;/a&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=4d77bxpgB5c&#34;&gt;bash&lt;/a&gt;. Finally, I recommend checking out the guides at &lt;a href=&#34;https://homebrewserver.club/&#34;&gt;the homebrewserver.club&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I made a lot of mistakes along the way - mistakes that hopefully you can avoid. Because of various unforced errors, I ended up trying out three different web server programs (Nginx and Apache, before settling on Caddy) and three different static website builders (Pelican and Jekyll, settling on Hugo). When I was at my wit&amp;rsquo;s end, all I had to do was &lt;a href=&#34;https://stackoverflow.com/questions/63351978/css-not-loading-for-self-hosted-nginx-with-jekyll-hugo-site/63359674&#34;&gt;ask for help&lt;/a&gt;. (Thank you @randomsock!)&lt;/p&gt;
+&lt;h3 id=&#34;the-physical-server&#34;&gt;The Physical Server&lt;/h3&gt;
+&lt;p&gt;Remember: there&amp;rsquo;s no such thing as &amp;ldquo;the cloud.&amp;rdquo; There are just a bunch of computers that someone else owns. This one, however, is owned by me. Following the lead of Low←Tech Magazine, I used an &lt;a href=&#34;https://www.olimex.com/wiki/A20-OLinuXino-LIME2&#34;&gt;Olimex Lime2&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; running on a variant of Debian (itself a distribution of &lt;a href=&#34;https://en.wikipedia.org/wiki/Linux_distribution&#34;&gt;Linux&lt;/a&gt;) called Armbian. Following Armbian&amp;rsquo;s instructions, I used Balena Etcher to &amp;ldquo;flash&amp;rdquo; &lt;a href=&#34;https://www.armbian.com/olimex-lime-2/&#34;&gt;the image&lt;/a&gt; onto a MicroSD card.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/server.png&#34;
+         alt=&#34;My small Olimex server sits amidst my partner&amp;amp;rsquo;s Buddha collection on a bookcase with a LiPo battery zip-tied to the top.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;My small Olimex server sits amidst my partner&amp;rsquo;s Buddha collection on a bookcase with a LiPo battery zip-tied to the top.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Insert the MicroSD card, plug in your power adapter, connect it your router with an ethernet cable, connect mouse, keyboard, and HDMI, and you&amp;rsquo;re up and running! After my initial configuration (see below) I always connected to the server via SSH, so there was no need to keep it connected to mouse, keyboard, or monitor.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;My basic configuration of the server included logging in as root (pw: 1234) and updating its password, creating a username and password for myself with &lt;code&gt;sudo&lt;/code&gt; admin permissions, logging in, and then making sure everything was up to date via &lt;code&gt;sudo apt-get update &amp;amp;&amp;amp; sudo apt-get upgrade&lt;/code&gt;. I then went ahead and &lt;a href=&#34;https://linuxconfig.org/how-to-setup-a-static-ip-address-on-debian-linux&#34;&gt;set a Static IP (LAN) address&lt;/a&gt; for the Lime2&amp;rsquo;s ethernet port so that it would always be accessible at the same address. I also installed a firewall called UFW and configured it to allow SSH, HTTP, and HTTPS through (&lt;code&gt;sudo ufw allow 22 80 443&lt;/code&gt;). We&amp;rsquo;ll get into more of the networking stuff a little bit later.&lt;/p&gt;
+&lt;h3 id=&#34;the-static-website&#34;&gt;The Static Website&lt;/h3&gt;
+&lt;p&gt;Setting up Hugo was simple as could be. I followed &lt;a href=&#34;https://gohugo.io/getting-started/installing#debian-and-ubuntu&#34;&gt;their directions&lt;/a&gt; to install (&lt;code&gt;sudo apt-get install hugo&lt;/code&gt;). Then I used the Quick Start documentation, creating a directory for my site (&lt;code&gt;mkdir&lt;/code&gt;), &lt;code&gt;cd&lt;/code&gt;-ed into that directory, and created the site using &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site&#34;&gt;&lt;code&gt;hugo new site quickstart&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For a theme, I am using a &lt;a href=&#34;https://github.com/natehn/blog-theme&#34;&gt;lightly-modified&lt;/a&gt; version of &lt;a href=&#34;https://github.com/monkeyWzr/hugo-theme-cactus&#34;&gt;Cactus&lt;/a&gt;. Hugo has &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;plenty of themes available&lt;/a&gt;, as well as information on &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/#step-3-add-a-theme&#34;&gt;how to install them&lt;/a&gt;. All my modifications were done in true amateur fashion - trial and error.&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Hugo has plenty more information in their Quick Start guide. Once the site was ready, I ran &lt;code&gt;hugo&lt;/code&gt; in the main directory to build the site in a directory called &lt;code&gt;public&lt;/code&gt;. If you&amp;rsquo;ve been following along, your root directory will probably something like &lt;code&gt;home/user/blogfolder/public&lt;/code&gt;. You&amp;rsquo;ll need that info when you set up your webserver.&lt;/p&gt;
+&lt;h3 id=&#34;networking&#34;&gt;Networking&lt;/h3&gt;
+&lt;p&gt;To make sure that you are ready to receive external traffic, you will need to set up a DCHP reservation and port forwarding (ports 80 and 443) in your router. This basically ensures that folks who connect to your router for the purpose of getting to your website will be directed by the router to your server. The specific process for this will depend on your router and Internet Service Provider.&lt;/p&gt;
+&lt;p&gt;While doing this, go ahead and make a note of the WAN IP Address for your router. You will need this when pointing your domain name at your server. Be aware, unless you set a Static WAN IP address through your Internet Service Provider, it is possible for your WAN address to change. If your website goes down, that could be one of the first things to check.&lt;/p&gt;
+&lt;h3 id=&#34;your-domain-name&#34;&gt;Your Domain Name&lt;/h3&gt;
+&lt;p&gt;First, of course, you should buy a domain name. Then with your domain name registrar, or wherever you manage the DNS records for your domain, make an A record (a.k.a. &amp;ldquo;address&amp;rdquo; record) pointing to the WAN IP address of your router. The process for doing this depends on your provider. If you are using the same configuration as me, you should also create a URL Redirect record with the hostname &amp;ldquo;www&amp;rdquo; redirecting to the non-www URL of your website (e.g., &lt;a href=&#34;https://example.com&#34;&gt;https://example.com&lt;/a&gt;). It can then take 24-48 hours for your new DNS settings to &amp;ldquo;propogate&amp;rdquo; and go into effect.&lt;/p&gt;
+&lt;h3 id=&#34;the-webserver&#34;&gt;The Webserver&lt;/h3&gt;
+&lt;p&gt;Caddy will be our webserver. To set up Caddy, we will follow the installation directions for Debian put together by &lt;a href=&#34;https://www.tecmint.com/install-caddy-web-server-in-centos-ubuntu/&#34;&gt;TecMint&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Install Caddy:&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;echo &amp;quot;deb [trusted=yes] https://apt.fury.io/caddy/ /&amp;quot; \
+    | sudo tee -a /etc/apt/sources.list.d/caddy-fury.list
+sudo apt update
+sudo apt install caddy
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Start Caddy:&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;systemctl start caddy
+systemctl enable caddy
+systemctl status caddy
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Configure Caddy:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open up the configuration file at &lt;code&gt;/etc/caddy/Caddyfile&lt;/code&gt; with your favorite text editor (e.g., vim, nano). Change &lt;code&gt;:80&lt;/code&gt; to your domain (&lt;code&gt;natehn.com&lt;/code&gt; for example) and the root to the root of your public site, such as &lt;code&gt;home/user/blogfolder/public&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Restart Caddy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Restart Caddy with this new configuration via &lt;code&gt;systemctl reload caddy&lt;/code&gt;. Your website should be up and running!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note Regarding SSL Certificates&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Caddy should take care of your SSL certificate, which is used for HTTPS, automatically on your behalf. If you have trouble with it, check out &lt;a href=&#34;https://certbot.eff.org/lets-encrypt/debianbuster-other&#34;&gt;these instructions from Certbot&lt;/a&gt;. (I did this out of order and got a certificate back when I was using Nginx as my webserver.)&lt;/p&gt;
+&lt;h2 id=&#34;writing&#34;&gt;Writing&lt;/h2&gt;
+&lt;p&gt;For putting posts together, I recommend learning a simple plaintext syntax called Markdown. Hugo uses Markdown to turn plaintext into html.&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; It makes writing up an article so much easier. Posts composed using &lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34;&gt;Markdown&amp;rsquo;s easy syntax&lt;/a&gt; and dropped into blog&amp;rsquo;s directory will become low-weight html pages on your static website. Hugo also has a handy &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;&gt;&lt;code&gt;figure&lt;/code&gt; shortcode&lt;/a&gt; to help you insert images.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/tasman.png&#34;
+         alt=&#34;A beautiful sunrise at a campground near Abel Tasman National Park.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;A beautiful sunrise at a campground near Abel Tasman National Park.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For focused writing, I use a lightweight plaintext editor called &lt;a href=&#34;https://hundredrabbits.itch.io/left&#34;&gt;Left&lt;/a&gt;, by the awesome sailboatin&amp;rsquo; folks at HundredRabbits. I also use &lt;a href=&#34;https://gottcode.org/focuswriter/&#34;&gt;FocusWriter&lt;/a&gt; on occasion. But any plaintext editor will do.&lt;/p&gt;
+&lt;p&gt;Once you have a website up and running, you&amp;rsquo;re at the last step: content. In our modern capitalist internet, the content mills never stop running. Blog posts of a certain length, with certain keywords (and questionable value), are used to optimize companies&amp;rsquo; search engine position (the proverbial neverending scramble for &amp;ldquo;SEO&amp;rdquo;). And in this side-hustle culture, it sometimes feels like you have to compete to survive. (I&amp;rsquo;ve certainly felt the pressure before!)&lt;/p&gt;
+&lt;p&gt;It doesn&amp;rsquo;t have to be like this. This site is a start. It is a forum: not content, but discussion - even if it is one-way. A place that is open and honest, especially about imperfections and mistakes. Let&amp;rsquo;s see where it leads.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I chose this board based on the recommendation of Low←Tech Magazine and, as they mention, because of all the advantages related to how it is powered. It can provide additional information and can connect directly to a LiPo battery. Along with the board itself, I purchased the case they make for the board and the correct power supply. Separately, I also purchased a 3.7V 6600mAh Lithium Ion battery pack with a JST 2-pin cable attached. Although they say it is a genuine JST connector, I still have trouble disconnecting it sometimes. Not a big deal - I  don&amp;rsquo;t plan to disconnect it often. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;On my Windows machine, I use Putty and WinSCP to connect to the Lime2 wirelessly from my computer. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;It is just simple stuff like changing the copyright line to allow for a Creative Commons license and changing the favicon and logo. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org/tools/hugo/&#34;&gt;Hugo Markdown Support&lt;/a&gt; &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
     </item>
     
   </channel>

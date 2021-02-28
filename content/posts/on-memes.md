@@ -68,12 +68,4 @@ And classics that make you crack up EVERY SINGLE TIME.
 
 {{< youtube EShUeudtaFg >}}
 
-(Thanks for coming to my TED Talk.)
-
-
-
-
-
-
-
-
+(Thanks for coming to my TED Talk. For more meme content, check out [my friend Cody's compilation](https://palmsandpowerlines.substack.com/p/all-star-by-smash-mouth-but-its-my). You'll never know if you don't  go.)
