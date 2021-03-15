@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security on natehn~</title>
+    <link>https://natehn.com/tags/security/</link>
+    <description>Recent content in security on natehn~</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
+    <lastBuildDate>Sat, 13 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://natehn.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Activist iPhone Security Guide</title>
+      <link>https://natehn.com/posts/iphone-security/</link>
+      <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/posts/iphone-security/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/phones.png&#34;
+         alt=&#34;Three protesters hold their phones up above a crowd.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Three protesters hold their phones up above a crowd.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;When you attend a protest, particularly one which which might garner the attention of the authorities, it&amp;rsquo;s a good practice to limit the amount of data being sent out by your phone as much as possible. To start, here are things you should have set up in your phone at all times:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Limit ad tracking:&lt;/strong&gt; open the &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Privacy&lt;/code&gt;; scroll down to the bottom of the Privacy settings; &lt;code&gt;Advertising&lt;/code&gt;; toggle ON &lt;code&gt;Limit Ad Tracking&lt;/code&gt; (you can also hit &lt;code&gt;Reset Advertising Identifier&lt;/code&gt; every once in a while)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Block analytics tracking:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Privacy&lt;/code&gt;; scroll down to the bottom of the Privacy settings; &lt;code&gt;Analytics &amp;amp; Improvements&lt;/code&gt;; toggle OFF &lt;code&gt;Share iPhone Analytics&lt;/code&gt;,&lt;code&gt;Improve Sire &amp;amp; Dictation&lt;/code&gt;, and &lt;code&gt;Share iCloud Analytics&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Block location-based analytics:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Privacy&lt;/code&gt;; &lt;code&gt;Location Services&lt;/code&gt;; &lt;code&gt;System Services&lt;/code&gt;; toggle OFF &lt;code&gt;iPhone Analytics&lt;/code&gt;, &lt;code&gt;Popular Near Me&lt;/code&gt;, and &lt;code&gt;Routing &amp;amp; Traffic&lt;/code&gt; (also feel free to toggle OFF as many of the things in this list and the &lt;code&gt;Location Services&lt;/code&gt; app list as you feel comfortable with)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Change your iPhone name&lt;/strong&gt;: &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;General&lt;/code&gt;; &lt;code&gt;About&lt;/code&gt;; &lt;code&gt;Name&lt;/code&gt;; change to something that provides no identifying information (including names, iPhone model, phone number, etc.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use a strong passcode:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Touch ID &amp;amp; Passcode&lt;/code&gt;; &lt;code&gt;Change Passcode&lt;/code&gt; (I recommend &lt;a href=&#34;https://www.useapassphrase.com/&#34;&gt;using a strong passphrase&lt;/a&gt; as your passcode to ensure that it is memorable but resistant to brute force attacks. You passcode should be alphanumeric at &lt;em&gt;least&lt;/em&gt; 10 digits long)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off Siri:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Siri &amp;amp; Search&lt;/code&gt;; toggle OFF all options&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off dictation:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;General&lt;/code&gt;; &lt;code&gt;Keyboards&lt;/code&gt;; toggle OFF &lt;code&gt;Enable Dictation&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off background app refresh for most apps:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;General&lt;/code&gt;; &lt;code&gt;Background App Refresh&lt;/code&gt;; toggle OFF all apps that are not secure/necessary&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off Game Center&amp;rsquo;s location access:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Game Center&lt;/code&gt;; toggle OFF &lt;code&gt;Game Center&lt;/code&gt;, or at least toggle OFF &lt;code&gt;Nearby Players&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Audit your apps&amp;rsquo; access:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Privacy&lt;/code&gt;; check through this list and ensure that apps have no more access to your data than they need&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Harden  the default Safari browser:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Safari&lt;/code&gt;; set &lt;code&gt;Search Engine&lt;/code&gt; to &lt;code&gt;DuckDuckGo&lt;/code&gt;, toggle OFF &lt;code&gt;Search Engine Suggestions&lt;/code&gt;, &lt;code&gt;Safari Suggestions&lt;/code&gt;, &lt;code&gt;Preload Top Hit&lt;/code&gt;, and &lt;code&gt;Frequently Visited Sites&lt;/code&gt;; toggle ON &lt;code&gt;Block Pop-ups&lt;/code&gt;, &lt;code&gt;Prevent Cross-Site Tracking&lt;/code&gt;, &lt;code&gt;Block All Cookies&lt;/code&gt;, and &lt;code&gt;Fraudulent Website Warning&lt;/code&gt;; toggle OFF &lt;code&gt;Camera &amp;amp; Microphone Access&lt;/code&gt; and &lt;code&gt;Check for Apple Pay&lt;/code&gt;; select &lt;code&gt;Advanced&lt;/code&gt;; toggle OFF &lt;code&gt;Javascript&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You should also keep your phone updated at all times (check in the &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;General&lt;/code&gt;; &lt;code&gt;Software Update&lt;/code&gt;)&lt;/p&gt;
+&lt;p&gt;Before you head out to a protest, do the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Back up your phone:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; your name at the top; &lt;code&gt;iCloud&lt;/code&gt;; &lt;code&gt;iCloud Backup&lt;/code&gt;; toggle it ON if not on already; select &lt;code&gt;Back Up Now&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn on Low Power Mode:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Battery&lt;/code&gt;; toggle ON &lt;code&gt;Low Power Mode&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off Touch ID and access to phone functions while locked:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Touch ID &amp;amp; Passcode&lt;/code&gt;; type passcode; toggle &lt;code&gt;iPhone Unlock&lt;/code&gt; to OFF (you can be coerced into putting your thumb on your phone); set &lt;code&gt;Require Passcode&lt;/code&gt; to &lt;code&gt;Immediately&lt;/code&gt;; toggle &lt;code&gt;Voice Dial&lt;/code&gt; OFF; toggle all options under &lt;code&gt;Allow access while locked&lt;/code&gt; to OFF; at the bottom, toggle ON wiping your phone after 10 failed attempts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Set a quicker auto-lock:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Display &amp;amp; Brightness&lt;/code&gt;; &lt;code&gt;Auto-Lock&lt;/code&gt;; &lt;code&gt;30 seconds&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off methods for connecting to your device:&lt;/strong&gt; open the &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;General&lt;/code&gt;; set &lt;code&gt;Airdrop&lt;/code&gt; to &lt;code&gt;Receiving off&lt;/code&gt;; set &lt;code&gt;Handoff&lt;/code&gt; to OFF&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off Wi-Fi&lt;/strong&gt;: &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Wi-Fi&lt;/code&gt;; toggle OFF&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off your GPS:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Privacy&lt;/code&gt;; &lt;code&gt;Location Services&lt;/code&gt;; toggle OFF at the top - if you cannot to this, then at least turn it off for most apps and toggle OFF &lt;code&gt;Share My Location&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off fitness tracking:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Privacy&lt;/code&gt;; &lt;code&gt;Motion &amp;amp; Fitness&lt;/code&gt;; toggle OFF &lt;code&gt;Fitness Tracking&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off Bluetooth:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Bluetooth&lt;/code&gt;; set to OFF (unless you need it for what you are doing)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off notification previews&lt;/strong&gt;: &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Notifications&lt;/code&gt;; &lt;code&gt;Show Previews&lt;/code&gt;; select &lt;code&gt;Never&lt;/code&gt;; then go through each app in the list and toggle OFF &lt;code&gt;Show on Lock Screen&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turn off automatic (non-encrypted) SMS messages:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Messages&lt;/code&gt;; toggle &lt;code&gt;Send as SMS&lt;/code&gt; OFF (&lt;em&gt;note&lt;/em&gt;: this doesn&amp;rsquo;t completely turn off SMS, so you&amp;rsquo;ll still need to use &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Keep in mind that turning off your phone is an option, as is turning it to airplane mode, or even leaving it at home - but communication is key when you are out on the streets, so I don&amp;rsquo;t recommend it.&lt;/p&gt;
+&lt;p&gt;While you are out and about, use &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt; for your communications and &lt;a href=&#34;https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337&#34;&gt;Firefox Focus&lt;/a&gt; or &lt;a href=&#34;https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175&#34;&gt;Brave&lt;/a&gt; for browsing. Another good idea is to download maps onto your phone ahead of time so that you don&amp;rsquo;t need to use location services on your GPS/maps app.&lt;/p&gt;
+&lt;p&gt;When livestreaming, avoid showing fellow protesters&amp;rsquo; faces, particularly if they are doing something that would garner the authorities&amp;rsquo; attention. If you post videos or photos afterward, make sure to blur out faces and potentially identifying details of fellow activists.&lt;/p&gt;
+&lt;p&gt;Missing something? &lt;a href=&#34;https://natehn.com/connect/&#34;&gt;Let me know&lt;/a&gt;. I&amp;rsquo;ll be following up soon with &lt;a href=&#34;https://natehn.com/posts/digital-security/&#34;&gt;an article on digital security more generally&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

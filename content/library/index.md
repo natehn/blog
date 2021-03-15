@@ -65,11 +65,18 @@ Donate:
 
 ## Artmaking
 
+Communities
+- [Ampled](https://www.ampled.com/)
+- [scanlines](https://scanlines.xyz/)
+- [lines](https://llllllll.co/)
+
 Tools:
 - [ORCA](https://github.com/hundredrabbits/Orca) ([learn](https://metasyn.github.io/learn-orca/))
+- [Sonobus](https://sonobus.net/)
 
 Follow:
 - [Palms and Powerlines](https://palmsandpowerlines.substack.com/)
+- [beehype](https://beehy.pe/)
 
 ## Fiction
 

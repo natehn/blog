@@ -7,7 +7,7 @@ tags:
 
 ### Hello!
 
-I am an [ambient/improvising musician](https://nthnh.bandcamp.com/), [erstwhile radio deejay](https://www.mixcloud.com/nthnh/), [nonprofit worker](https://www.linkedin.com/in/nthnh/), occasional activist, habitual researcher, [lay open-source tech enthusiast](https://github.com/natehn), [wannabe photographer](https://vsco.co/natehnnn/gallery), [dormant designer](https://issuu.com/wrflrifle/docs/summer2015), and [born-'n-raised midwesterner](https://natehn.com/posts/land-acknowledgment/)
+I am an [ambient/improvising musician](https://nthnh.bandcamp.com/), [erstwhile radio deejay](https://www.mixcloud.com/nthnh/), [nonprofit worker](https://www.linkedin.com/in/nthnh/), occasional activist, habitual researcher, [open-source fan](https://github.com/natehn), [wannabe photographer](https://vsco.co/natehnnn/gallery), [dormant designer](https://issuu.com/wrflrifle/docs/summer2015), and [born-'n-raised midwesterner](https://natehn.com/posts/land-acknowledgment/)
 
 I also watch sports, play video games, and hang out with friends - and I regularly frequent the local grocery store. I use he/him pronouns.
 

@@ -7,7 +7,133 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>nathan hewitt Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</copyright>
-    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://natehn.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://natehn.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on Digital Security</title>
+      <link>https://natehn.com/posts/digital-security/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/posts/digital-security/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/abstract-projection-1.png&#34;
+         alt=&#34;An abstract video still projected onto my kitchen cabinets.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;An abstract video still projected onto my kitchen cabinets.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;Over the &lt;a href=&#34;https://natehn.com/posts/2020/#the-world-through-a-screen&#34;&gt;last year and a half&lt;/a&gt; or so I&amp;rsquo;ve learned quite a bit about online security. My interest was sparked by participation with a few different activist groups in 2019-2020 and amazing classes put together by &lt;a href=&#34;https://techlearningcollective.com/&#34;&gt;Tech Learning Collective&lt;/a&gt;, which in turn led to a pretty significant amount of independent research. Along the way I&amp;rsquo;ve had the opportunity to share the basics of what I&amp;rsquo;ve learned through a &lt;a href=&#34;https://blog.fracturedatlas.org/security-privacy-tools-artistic-collaboration&#34;&gt;blog post&lt;/a&gt; that &lt;a href=&#34;https://www.artistsguide.to/so-long-substack-and-thanks-for-all/&#34;&gt;flew pretty far&lt;/a&gt; and eventually led to an opportunity to teach an introductory class for &lt;a href=&#34;https://airmedia.org/tools/digital-security-virtual-collaboration-concepts-tools-and-techniques-modern-creative&#34;&gt;folks in independent radio&lt;/a&gt;. These notes are nowhere near an &lt;a href=&#34;https://mshelton.medium.com/current-digital-security-resources-5c88ba40ce5c&#34;&gt;exhaustive list of what&amp;rsquo;s out there&lt;/a&gt;, but I wanted to share some of the knowledge I&amp;rsquo;ve gathered thus far.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;~&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;No app is perfect, and everyone&amp;rsquo;s individual situation is different. That&amp;rsquo;s where &lt;a href=&#34;https://en.wikipedia.org/wiki/Threat_model&#34;&gt;threat modeling&lt;/a&gt; comes in. &lt;a href=&#34;https://ssd.eff.org/en/module/your-security-plan&#34;&gt;Everyone will make different choices&lt;/a&gt; based on &lt;a href=&#34;https://www.accessnow.org/cms/assets/uploads/2020/10/A-first-look-at-digital-security-OCT2020.pdf&#34;&gt;the threats they face&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;For example, if I&amp;rsquo;m all about security and privacy, why I am I &lt;a href=&#34;https://natehn.com/posts/2020/&#34;&gt;writing all about my life&lt;/a&gt; on a website and sharing about my life via &lt;a href=&#34;https://buttondown.email/natehn&#34;&gt;a newsletter&lt;/a&gt;? It has to do with my own personal situation - I&amp;rsquo;m not a core organizer. I do not hold sensitive information about activist activities at this point. But I do try and keep my data out of Facebook&amp;rsquo;s hands.&lt;/li&gt;
+&lt;li&gt;A threat that all people in our interconnected global world face is &lt;a href=&#34;https://en.wikipedia.org/wiki/Surveillance_capitalism&#34;&gt;surveillance capitalism&lt;/a&gt;. Shoshana Zuboff&amp;rsquo;s interviews with &lt;em&gt;&lt;a href=&#34;https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook&#34;&gt;The Guardian&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;&lt;a href=&#34;https://www.getrevue.co/profile/themarkup/issues/understanding-the-threat-of-surveillance-capitalism-350921&#34;&gt;The Markup&lt;/a&gt;&lt;/em&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=hIXhnWUmMvw&#34;&gt;VPRO&lt;/a&gt; are a great place to start for information on the topic if you aren&amp;rsquo;t familiar. (Surveillance capitalism &lt;a href=&#34;https://lifehacker.com/everyones-trying-to-track-what-you-do-on-the-web-heres-5887140&#34;&gt;is nothing new&lt;/a&gt;.)&lt;/li&gt;
+&lt;li&gt;Surveillance capitalism not only undermines personal privacy, but challenges democratic government at its core.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;Data is content, and metadata is context. Metadata can be much more revealing than data, especially when collected in the aggregate.&amp;rdquo; - Bruce Schneier&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Metadata is the &amp;ldquo;surplus&amp;rdquo; data that Google built itself upon and that fuels surveillance capitalism. The Markup&amp;rsquo;s &lt;a href=&#34;https://themarkup.org/blacklight&#34;&gt;Blacklight&lt;/a&gt; and EFF&amp;rsquo;s &lt;a href=&#34;https://coveryourtracks.eff.org/&#34;&gt;Cover Your Tracks&lt;/a&gt; can show you the alarming amount of data that companies are collecting about your online activity.&lt;/li&gt;
+&lt;li&gt;As a result, the fact that you might feel &amp;ldquo;anonymous&amp;rdquo; - perhaps you used a fake name when signing up for a forum - does not mean you your activities are private. or secure.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;The idea that there are tools that would always work for everyone, everywhere; require no extra knowledge and zero additional infrastructure; are fair and just, and protect users at all times, is a dream that has not yet come true.&amp;rdquo; - &lt;a href=&#34;https://tacticaltech.org/#/news/technology-is-stupid&#34;&gt;Tactical Tech&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;If you want to limit surveillance capitalists&amp;rsquo; influence on your life, start by using &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt; (or if a novice Chrome user, &lt;a href=&#34;https://brave.com/&#34;&gt;Brave&lt;/a&gt;) rather than Google Chrome. Google was the original surveillance capitalist company. Then add in the &lt;a href=&#34;https://github.com/gorhill/uBlock/&#34;&gt;uBlock Origin&lt;/a&gt;, &lt;a href=&#34;https://privacybadger.org/&#34;&gt;Privacy Badger&lt;/a&gt;, and &lt;a href=&#34;https://decentraleyes.org/&#34;&gt;Decentraleyes&lt;/a&gt; browser add-ons. Make sure to also use &lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; rather than Google Search, and consider &lt;a href=&#34;https://natehn.com/posts/leaving-facebook/&#34;&gt;leaving corporate social media&lt;/a&gt; altogether. (I&amp;rsquo;m partway through my own journey, but there is still work (especially de-Google-ing) to be done.)&lt;/li&gt;
+&lt;li&gt;Because of advanced &lt;a href=&#34;https://coveryourtracks.eff.org/learn&#34;&gt;fingerprinting&lt;/a&gt; techniques, there&amp;rsquo;s no real perfect system for avoiding trackers. &lt;a href=&#34;https://www.torproject.org/&#34;&gt;Tor&lt;/a&gt; might be your best option if a stronger form of anonymity is required.&lt;/li&gt;
+&lt;li&gt;Here are a few resources I use to choose my apps and tools, for both secure and open source alternatives:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.privacytools.io/&#34;&gt;PrivacyTools.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prism-break.org/en/&#34;&gt;Prism Break&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alternativeto.net/&#34;&gt;AlternativeTo.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://switching.software/&#34;&gt;switching.software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AnarchoTechNYC/awesome-social-distancing/blob/master/README.md&#34;&gt;Awesome Social Distancing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://list.romainaubert.com/&#34;&gt;Romain Aubert&amp;rsquo;s list of great tools&lt;/a&gt; and &lt;a href=&#34;https://romainaubert.com/privacy-alternatives-to-google&#34;&gt;Google Alternatives&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ssd.eff.org/en/module-categories/tool-guides&#34;&gt;EFF&amp;rsquo;s Tool Guides&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;When thinking about companies/apps themselves, the ideal of privacy is inverted - instead of privacy, we seek transparency. That&amp;rsquo;s why going with open-source, decentralized,  and/or audited tools is recommended where possible.&lt;/li&gt;
+&lt;li&gt;Decentralization distributes power. Consequently, trust is distributed among multiple parties, allowing for less of a dependence on a central node but a larger number of potential fail points.&lt;/li&gt;
+&lt;li&gt;One of the challenges in talking about digital security broadly and to a variety of different people is that there are many different potential threats, and they do not affect all of us equally. The digital world is not always safe for &lt;a href=&#34;https://loomio-uploads.s3.amazonaws.com/documents/files/000/209/867/original/nypdzine.pdf&#34;&gt;overpoliced&lt;/a&gt; &lt;a href=&#34;https://www.getrevue.co/profile/themarkup/issues/the-rise-and-the-recurring-bias-of-risk-assessment-algorithms-418128&#34;&gt;Black&lt;/a&gt; &lt;a href=&#34;https://www.theguardian.com/inequality/2017/aug/08/rise-of-the-racist-robots-how-ai-is-learning-all-our-worst-impulses&#34;&gt;folks&lt;/a&gt; or &lt;a href=&#34;https://www.takebackthetech.net/know-more/extortion&#34;&gt;non&lt;/a&gt;-&lt;a href=&#34;https://www.takebackthetech.net/know-more/cyberstalking&#34;&gt;cis&lt;/a&gt;-&lt;a href=&#34;https://www.cnet.com/news/cameras-surveillance-and-the-sinister-tech-behind-domestic-abuse/&#34;&gt;men&lt;/a&gt;, and sometimes makes stuff like &lt;a href=&#34;https://www.eff.org/wp/digital-privacy-us-border-2017&#34;&gt;racism&lt;/a&gt; and &lt;a href=&#34;https://onlinesafety.feministfrequency.com/en/&#34;&gt;sexism&lt;/a&gt; and &lt;a href=&#34;https://hackblossom.org/domestic-violence/&#34;&gt;domestic violence&lt;/a&gt; even worse. White men like me need to remember that we do not face the same challenges as &lt;a href=&#34;https://hackblossom.org/cybersecurity/&#34;&gt;others&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;At the same time, the truth is that everyone has &lt;a href=&#34;https://www.privacytools.io/#sponsors&#34;&gt;something to hide&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;Saying that you don&amp;rsquo;t need or want privacy because you have nothing to hide is to assume that no one should have, or could have, to hide anything - including their immigration status, unemployment history, financial history, and health records. You&amp;rsquo;re assuming that no one, including yourself, might object to revealing to anyone information about their religious beliefs, political affiliations, and sexual activities, as casually as some choose to reveal their movie and music tastes and reading preferences.&amp;rdquo; - Edward Snowden&lt;/p&gt;
+&lt;ol start=&#34;14&#34;&gt;
+&lt;li&gt;Security is protection against threats. One way to talk about digital security is via the &lt;a href=&#34;https://www.forcepoint.com/cyber-edu/cia-triad&#34;&gt;CIA triad&lt;/a&gt;: confidentiality (who has access, a.k.a. privacy), integrity (protecting data), and availability (the system still works for authorized users).&lt;/li&gt;
+&lt;li&gt;In most cases you &lt;a href=&#34;https://www.pcworld.com/article/3434097/why-you-can-stop-paying-for-antivirus-software.html&#34;&gt;probably don&amp;rsquo;t&lt;/a&gt; &lt;a href=&#34;https://www.nytimes.com/wirecutter/blog/best-antivirus/&#34;&gt;need to&lt;/a&gt; &lt;a href=&#34;https://linuxhint.com/why_no_antivirus_linux/&#34;&gt;buy any&lt;/a&gt; anti-virus software. Just set up your system to be as safe as possible using the tools it provides.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/abstract-projection-2.png&#34;
+         alt=&#34;Another abstract projection in my kitchen.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Another abstract projection in my kitchen.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ol start=&#34;16&#34;&gt;
+&lt;li&gt;There is a lot for you to do, however, to keep yourself secure online. Firstly, use a &lt;a href=&#34;https://www.privacytools.io/software/passwords/&#34;&gt;password manager&lt;/a&gt; and enable two-factor authentication on your accounts. Make sure to vary both your usernames and passwords (if you need to remember a particular password, try &lt;a href=&#34;https://www.useapassphrase.com/&#34;&gt;using a passphrase&lt;/a&gt;. You can even draw the passphrase words out of a hat or something. You should also add &lt;a href=&#34;https://www.eff.org/https-everywhere&#34;&gt;HTTPS Everywhere&lt;/a&gt; to your browser to ensure your browsing activity is encrypted through HTTPS.&lt;/li&gt;
+&lt;li&gt;Mathematically scrambling data - encryption - is one of the most powerful tools we have for maintaining digital security. &lt;a href=&#34;https://ssd.eff.org/en/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work&#34;&gt;End-to-end (E2E) encrypted&lt;/a&gt; apps like &lt;a href=&#34;https://www.signal.org/&#34;&gt;Signal&lt;/a&gt; are particularly important and useful. Most people don&amp;rsquo;t realize that they use encryption every day through &lt;a href=&#34;https://en.wikipedia.org/wiki/HTTPS&#34;&gt;HTTPS&lt;/a&gt; and core Internet protocols like TLS and S/MIME.&lt;/li&gt;
+&lt;li&gt;Make sure to &lt;a href=&#34;https://spreadprivacy.com/how-to-encrypt-devices/&#34;&gt;encrypt your computer(s) and phone(s)&lt;/a&gt; as well.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.privacytools.io/providers/vpn/&#34;&gt;Using a VPN is not enough&lt;/a&gt; if you want to keep your activities secure and private - try &lt;a href=&#34;https://www.torproject.org/&#34;&gt;Tor&lt;/a&gt;, and &lt;a href=&#34;https://www.signal.org/&#34;&gt;Signal&lt;/a&gt; instead (or in addition to a vetted VPN like &lt;a href=&#34;https://protonvpn.com/&#34;&gt;ProtonVPN&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;You must also stay vigilant. Sophisticated &lt;a href=&#34;https://www.merriam-webster.com/dictionary/phishing&#34;&gt;phishing&lt;/a&gt; attacks are something that you - and anyone known to be associated with you - will need to be careful of. These aren&amp;rsquo;t your average spam messages. These are often meant specifically for you, replicating emails and websites that you might use in order to try to get your passwords or personal information. It could look like an email with a link from your bank, email, or social media account, for example - and the link will send you to a site run by the hacker(s). To defend yourself, first &lt;a href=&#34;https://youtu.be/u9dBGWVwMMA?t=60&#34;&gt;educate yourself on phishing techniques&lt;/a&gt;. Then turn on &lt;a href=&#34;https://www.csoonline.com/article/3239144/2fa-explained-how-to-enable-it-and-how-it-works.html&#34;&gt;two-factor authentication&lt;/a&gt; for all of your accounts, preferably either through an &lt;a href=&#34;https://www.nytimes.com/wirecutter/reviews/best-two-factor-authentication-app/&#34;&gt;authenticator app&lt;/a&gt; or even a &lt;a href=&#34;https://www.nytimes.com/wirecutter/reviews/best-security-keys/&#34;&gt;physical security key&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ldquo;In a world where millions of digital communications are silently intercepted, collected, and stored every day, how do activists effectively say &amp;lsquo;I do not consent to this search?&amp;rsquo; As in a physical encounter with law enforcement, we must be proactive. Online, this means using encryption along with other privacy-protecting and autonomy-preserving tools.&amp;rdquo; - &lt;a href=&#34;https://cldc.org/&#34;&gt;Civil Liberties Defense Center&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;21&#34;&gt;
+&lt;li&gt;Going to a protest? See the &lt;a href=&#34;https://natehn.com/posts/iphone-security/&#34;&gt;iPhone Security Guide&lt;/a&gt; I put together a few days ago.&lt;/li&gt;
+&lt;li&gt;Organizers who seek to change the world face unique challenges that other folks do not need to deal with. Recent examples, like the &lt;a href=&#34;https://hongkongfp.com/2020/09/18/anonymous-site-ramps-up-doxxing-campaign-against-hong-kong-activists/&#34;&gt;doxing of pro-democracy activists&lt;/a&gt; in Hong Kong and revelations of &lt;a href=&#34;https://theintercept.com/2020/10/10/new-documents-reveal-how-the-animal-agriculture-industry-surveils-and-punishes-critics/&#34;&gt;private surveillance of animal rights groups and activists&lt;/a&gt;, not to mention movies like &lt;a href=&#34;https://www.imdb.com/title/tt9784798/&#34;&gt;&lt;em&gt;Judas and the Black Messiah&lt;/em&gt;&lt;/a&gt;, are reminders of the importance of &lt;a href=&#34;https://www.are.na/librarians-on-are-na/opsec-for-activists&#34;&gt;OPSEC for activists&lt;/a&gt; when dealing with &lt;a href=&#34;https://github.com/AnarchoTechNYC/meta/wiki/Persona-based-training-matrix#the-matrix&#34;&gt;&amp;ldquo;assholes with resources&amp;rdquo; or even governmental entities&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Organizers are not only responsible for their personal security, but the security of their team and their activities. They also face greater risk and exposure due to their prominence within the group.&lt;/li&gt;
+&lt;li&gt;When it comes to setting standards for a small group or even an entire organization, we have to talk about &lt;strong&gt;security culture&lt;/strong&gt;. This goes way beyond choosing the &amp;ldquo;right&amp;rdquo; tools like &lt;a href=&#34;https://meet.jit.si/&#34;&gt;Jitsi&lt;/a&gt;, &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;, and &lt;a href=&#34;https://www.etesync.com/&#34;&gt;EteSync&lt;/a&gt; (etc).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Security culture&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Regardless of your personal risk level, defaulting to tools that are private and/or secure is the easiest way to maintain a culture that keeps its people safe from online surveillance. The focus on culture, rather than just implementing policy or focusing on individual actions, is something that - funnily enough - I have only run into in two places: the corporate world and the activist world.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;At a company like AT&amp;amp;T, security culture is focused on employees shared attitudes and actions related to corporate security policy and the way that affects their overall success. In their own words, security culture requires an &amp;ldquo;investment&amp;rdquo; of time and energy.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;For organizers, security culture is “&lt;a href=&#34;https://crimethinc.com/2004/11/01/what-is-security-culture&#34;&gt;a set of customs shared by a community whose members may be targeted, designed to minimize risk&lt;/a&gt;.” You should use secure practices from the beginning so that you don’t have to come up with security measures over and over again. It&amp;rsquo;s a form of collective care as well - a defense against racist tech, doxing, and the far-right.  and limiting the amount people know to only what they &lt;em&gt;need&lt;/em&gt; to know is a great way to deal with issues like &lt;a href=&#34;http://undercoverresearch.net/1260-2/&#34;&gt;undercover surveillance&lt;/a&gt; and &lt;a href=&#34;https://twincitiesgdc.org/badjacketing/&#34;&gt;badjacketing&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;For both organizers and corporations, the focus is on culture, not protocol. The focus is on habits, not rules. They use different terms, but the core is the same: security culture is about making security the default - for everything. Security culture is a framework to center when working with others in an activist space. The best way to keep each other safe is to engage in secure practices at all times, not just by using particular tools, but by creating a culture of security.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ol start=&#34;25&#34;&gt;
+&lt;li&gt;One concern for organizers (along with journalists and politicians) is &lt;a href=&#34;https://en.wikipedia.org/wiki/Doxing&#34;&gt;doxing&lt;/a&gt;. One preventative steps is to remove as much of your information from data brokers as possible. &lt;a href=&#34;https://www.propublica.org/article/privacy-tools-opting-out-from-data-brokers&#34;&gt;Here&lt;/a&gt; &lt;a href=&#34;https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954&#34;&gt;are&lt;/a&gt; a &lt;a href=&#34;http://www.crashoverridenetwork.com/preventingdoxing.html&#34;&gt;few&lt;/a&gt; useful guides. If you are doxed, see &lt;a href=&#34;https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c&#34;&gt;Equality Labs&amp;rsquo; guide&lt;/a&gt; for next steps, and seek out help. Cyber Civil Rights Initiative also has an &lt;a href=&#34;https://www.cybercivilrights.org/online-removal/&#34;&gt;online removal guide&lt;/a&gt;. Another potential layer of protection is to use a post office box or service like &lt;a href=&#34;https://www.virtualpostmail.com/&#34;&gt;VirtualPostMail&lt;/a&gt; so that you don&amp;rsquo;t have to include your residential address on public documents. (If you own your property, however, there may be no way to avoid it.)&lt;/li&gt;
+&lt;li&gt;One of the most useful tools for organizers is &lt;a href=&#34;https://www.torproject.org/&#34;&gt;Tor&lt;/a&gt;. Tor harnesses decentralization and encryption to create anonymity. But make sure to sign into accounts you set up on Tor &lt;em&gt;on Tor&lt;/em&gt; - never deanonymize yourself by logging in to an anonymous account through a regular browser. (&lt;a href=&#34;https://youtu.be/J1q4Ir2J8P8?t=698&#34;&gt;Don&amp;rsquo;t F it up!&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Another useful tool built upon Tor is &lt;a href=&#34;https://onionshare.org/&#34;&gt;OnionShare&lt;/a&gt;, developed by &lt;a href=&#34;https://twitter.com/micahflee&#34;&gt;Micah Lee&lt;/a&gt; of &lt;em&gt;The Intercept&lt;/em&gt;, which can be used to share files and host .onion hidden services. Micah recently wrote up &lt;a href=&#34;https://micahflee.com/2021/02/onionshare-anonymous-dropbox-raspberry-pi/&#34;&gt;instructions&lt;/a&gt; for how to set up an anonymous dropbox on a Raspberry Pi.&lt;/li&gt;
+&lt;li&gt;Many people who use Signal all the time do not take advantage of all of its security features. Make sure to &lt;a href=&#34;https://support.signal.org/hc/en-us/articles/360007060632-What-is-a-safety-number-and-why-do-I-see-that-it-changed-&#34;&gt;compare safety numbers&lt;/a&gt; with people you are in contact with to avoid man-in-the-middle attacks and other vulnerabilities - preferably in an audible manner, on video chat, or in some non-Signal, offline way.&lt;/li&gt;
+&lt;li&gt;To give out your Signal number without publicizing your personal number, see &lt;em&gt;The Intercept&lt;/em&gt;&amp;lsquo;s &lt;a href=&#34;https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/&#34;&gt;guide to using a different phone number&lt;/a&gt; on Signal. Make sure to also &lt;a href=&#34;https://theintercept.com/2020/09/25/surveillance-sim-cloning-protests-protect-phone/&#34;&gt;add a carrier pin to your phone(s)&lt;/a&gt;. And if you are prominent organizer, having &lt;a href=&#34;https://theintercept.com/2020/06/15/protest-tech-safety-burner-phone/&#34;&gt;burner&lt;/a&gt; &lt;a href=&#34;https://blog.filippo.io/securing-a-travel-iphone/&#34;&gt;phones&lt;/a&gt; is probably not a bad idea. Services like &lt;a href=&#34;https://mysudo.com/&#34;&gt;MySudo&lt;/a&gt; can be an option, but they will be tied to your payment method. (My &lt;a href=&#34;https://natehn.com/posts/iphone-security/&#34;&gt;protester iPhone guide&lt;/a&gt; is probably also relevant.)&lt;/li&gt;
+&lt;li&gt;A tool built upon Signal that will be useful to many organizers is &lt;a href=&#34;https://signalboost.info/&#34;&gt;Signalboost&lt;/a&gt;. Check it out.&lt;/li&gt;
+&lt;li&gt;If you need a &amp;ldquo;burner&amp;rdquo; email address, your best option is probably &lt;a href=&#34;https://protonmail.com/&#34;&gt;ProtonMail&lt;/a&gt;, since they don&amp;rsquo;t require you to connect an existing email address or phone number. Make sure to set it up through Tor and only access it through Tor. Be careful when &lt;a href=&#34;https://protonmail.com/support/knowledge-base/what-is-encrypted/&#34;&gt;using ProtonMail&lt;/a&gt; - just using the service is not enough to fully secure your communications with PGP encryption. If you just need a disposable address, try &lt;a href=&#34;https://maildrop.cc/&#34;&gt;Maildrop&lt;/a&gt; or &lt;a href=&#34;https://33mail.com/&#34;&gt;33mail&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;PGP (a.k.a. GPG) is an important and widely-used encryption tool. But its &lt;a href=&#34;https://secushare.org/PGP&#34;&gt;issues&lt;/a&gt; &lt;a href=&#34;https://latacora.micro.blog/2019/07/16/the-pgp-problem.html&#34;&gt;are&lt;/a&gt; &lt;a href=&#34;https://www.reddit.com/r/crypto/comments/cgty98/alternatives_to_pgp/&#34;&gt;well&lt;/a&gt;-&lt;a href=&#34;https://blog.gtank.cc/modern-alternatives-to-pgp/&#34;&gt;documented&lt;/a&gt;. Make sure you &lt;a href=&#34;https://riseup.net/en/security/message-security&#34;&gt;read up&lt;/a&gt; before using it, and remember, only the body of the message is encrypted. &lt;a href=&#34;https://www.mailvelope.com/en/&#34;&gt;Mailvelope&lt;/a&gt; is the most user-friendly PGP client I&amp;rsquo;ve encountered. But skipping PGP and just using Signal is probably your best option.&lt;/li&gt;
+&lt;li&gt;When using Firefox, consider using an enhanced privacy configuration like &lt;a href=&#34;https://github.com/arkenfox/user.js&#34;&gt;the arkenfox user.js&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;And even after all this, there are also physical-world threats that intersect with digital security. Some relevant tools include &lt;a href=&#34;https://guardianproject.github.io/haven/&#34;&gt;Haven&lt;/a&gt; and RF-shielded (a.k.a. Faraday) bags. There are also &lt;a href=&#34;https://www.privacytools.io/operating-systems/&#34;&gt;alternative operating systems&lt;/a&gt; appropriate for high-level security.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://natehn.com/abstract-projection-3.png&#34;
+         alt=&#34;A third abstract video projected onto my kitchen wall.&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;A third abstract video projected onto my kitchen wall.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;One of the challenges with digital security is that it is constantly shifting and changing as new apps are created, new threats are discovered, and they way we engage with technology and the Internet continues to evolve. But seeking to learn how the technological systems we rely on actually work, and taking control of the ways we engage with them, is a political act.&lt;/p&gt;
+&lt;p&gt;There is so much to say on this topic - I haven&amp;rsquo;t even scratched the surface. Here are a few more resources to dig into to learn more:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://riseup.net/en/security&#34;&gt;RiseUp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AnarchoTechNYC/meta/wiki&#34;&gt;AnarchoTechNYC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ssd.eff.org/&#34;&gt;Surveillance Self Defense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ourdataourselves.tacticaltech.org/posts/the-organisers-activity-book/&#34;&gt;The Organiser&amp;rsquo;s Activity Book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://securityinabox.org/en/&#34;&gt;Security in a Box&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;“If we want to see change in our lives, we have to change things ourselves.”  - Grace Lee Boggs&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Library</title>
       <link>https://natehn.com/library/</link>
@@ -69,13 +195,21 @@
 &lt;li&gt;&lt;a href=&#34;https://archive.org/donate/?origin=iawww-TopNavDonateButton&#34;&gt;Internet Archive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;artmaking&#34;&gt;Artmaking&lt;/h2&gt;
+&lt;p&gt;Communities&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ampled.com/&#34;&gt;Ampled&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scanlines.xyz/&#34;&gt;scanlines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://llllllll.co/&#34;&gt;lines&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Tools:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hundredrabbits/Orca&#34;&gt;ORCA&lt;/a&gt; (&lt;a href=&#34;https://metasyn.github.io/learn-orca/&#34;&gt;learn&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sonobus.net/&#34;&gt;Sonobus&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Follow:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://palmsandpowerlines.substack.com/&#34;&gt;Palms and Powerlines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://beehy.pe/&#34;&gt;beehype&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;fiction&#34;&gt;Fiction&lt;/h2&gt;
 &lt;ul&gt;
