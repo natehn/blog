@@ -70,7 +70,7 @@ Sharing memes | [Check it out](https://natehn.com/posts/on-memes/)
 Keeping up with the news | Using an RSS reader[^rss] - just news, no comments section
 Database of people | Making my own database on [Airtable](https://airtable.com/)[^AT]
 Sharing artistic photos, sometimes | [VSCO](https://vsco.co/natehnnn/gallery)
-My personal photos[^tags] with friends and family | [Google Photos](https://photos.google.com/) and a good 'ol [SSD](https://en.wikipedia.org/wiki/Solid-state_drive)[^photos]
+My personal photos[^tags] with friends and family | I originally moved these to [Google Photos](https://photos.google.com/) and a good 'ol [SSD](https://en.wikipedia.org/wiki/Solid-state_drive).[^photos] But moving them to Google was a mistake - they are the original surveillance capitlist! They are now housed on private file storage.
 Hosting Events[^events] | Email invitations, using my new people database! And maybe an online form for RSVPs
 Birthdays | Added the most important ones to my calendar, yearly recurring
 [Saved](https://www.facebook.com/saved/) posts and links | I already tend to a vibrant lists ecosystem[^links]
@@ -93,7 +93,7 @@ For another guide on leaving and/or limiting social media, check out [this one](
 
 [^tags]: One thing to note is that downloading your data does not download other people's photos that you are tagged in, and might not download photos that are in private events. Downloading public videos you are tagged in [is easy](https://fbdown.net/), but private videos [require a special technique](https://www.techgyd.com/download-private-facebook-videos/40841/). I went through and downloaded each one, one at a time! I'm a digital packrat, don't @ me.
 
-[^photos]: The big-tech program, [Data Transfer Project](https://datatransferproject.dev/) (which to some degree entrenches these companies, by the way), was very convenient. I was able to transfer photos directly from Facebook to Google. I am not sharing photos and tagging people on Facebook the way I used to, so Google Photos covers my needs. I keep them for myself, and back them up on the SSD, and Google Photos lets me share the photos with folks if needed. I know Google has plenty of issues as well...but I'm taking all this one step at a time.
+[^photos]: The big-tech program, [Data Transfer Project](https://datatransferproject.dev/) (which to some degree entrenches these companies, by the way), was very convenient. I was able to transfer photos directly from Facebook to Google. I am not sharing photos and tagging people on Facebook the way I used to, so Google Photos was sure to cover my needs. (I was not thinking, when I wrote this, about surveillance capitalism.) I keep them for myself, and back them up on the SSD, and I can share them with folks from my file storage if needed. 
 
 [^events]: For those of you who remember the old Housewarming parties, don't worry, I screenshot all of those event pages for posterity. I also saved the full list of events that I attended or was "interested" in (yuck!) for my own records.
 

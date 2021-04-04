@@ -62,6 +62,7 @@ Donate:
 - [Electronic Frontier Foundation](https://supporters.eff.org/donate/)
 - [Signal](https://signal.org/donate/)
 - [Internet Archive](https://archive.org/donate/?origin=iawww-TopNavDonateButton)
+- [Wikimedia Foundation](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en)
 
 ## Artmaking
 
@@ -75,6 +76,7 @@ Tools:
 - [Sonobus](https://sonobus.net/)
 
 Follow:
+- [Hainbach](https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g)
 - [Palms and Powerlines](https://palmsandpowerlines.substack.com/)
 - [beehype](https://beehy.pe/)
 

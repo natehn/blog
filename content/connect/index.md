@@ -18,7 +18,7 @@ Cold email me! I'd love to hear what you have to say. Here are some reasons to r
 
 Or maybe it is none of these. If you want to talk to me, then more-than-likely I would love to talk to you. 
 
-**Please feel free to send me an email at [nthnhwtt at gmail.com](mailto:nthnhwtt@gmail.com).** I'm also happy to communicate using [PGP](https://natehn.com/public-key.asc). <3
+**Please feel free to send me an email at [nh at natehn.com](mailto:nh@natehn.com).** I'm also happy to communicate using [PGP](https://natehn.com/public-key.asc). <3
 
 ### Ideas
 Bonus section! I'd also be happy to talk with you about any of the following collaboration ideas:
