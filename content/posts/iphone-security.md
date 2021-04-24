@@ -22,6 +22,7 @@ When you attend a protest, particularly one which which might garner the attenti
 9. **Turn off Game Center's location access:** `Settings` app; `Game Center`; toggle OFF `Game Center`, or at least toggle OFF `Nearby Players`
 10. **Audit your apps' access:** `Settings` app; `Privacy`; check through this list and ensure that apps have no more access to your data than they need
 11. **Harden  the default Safari browser:** `Settings` app; `Safari`; set `Search Engine` to `DuckDuckGo`, toggle OFF `Search Engine Suggestions`, `Safari Suggestions`, `Preload Top Hit`, and `Frequently Visited Sites`; toggle ON `Block Pop-ups`, `Prevent Cross-Site Tracking`, `Block All Cookies`, and `Fraudulent Website Warning`; toggle OFF `Camera & Microphone Access` and `Check for Apple Pay`; select `Advanced`; toggle OFF `Javascript`
+12. **Limit your message storage to 30 days:** `Settings` app; `Messages`; select `Keep Messages` and choose `30 Days`
 
 You should also keep your phone updated at all times (check in the `Settings` app; `General`; `Software Update`)
 

@@ -53,6 +53,9 @@ Donate:
 Read:
 - [Technology is Stupid](https://tacticaltech.org/#/news/technology-is-stupid), by by Marek Tuszynski, Tactical Tech (2020)
 
+Learn
+- [Tech Learning Collective](https://techlearningcollective.com/)
+
 Follow:
 - [Hundred Rabbits](https://100r.co/site/home.html), [XXIIVV](https://wiki.xxiivv.com/site/home.html), and [Rekka Bellum](https://kokorobot.ca/site/home.html)
 - [an artist's guide to computation](https://www.artistsguide.to/)
@@ -74,6 +77,7 @@ Communities
 Tools:
 - [ORCA](https://github.com/hundredrabbits/Orca) ([learn](https://metasyn.github.io/learn-orca/))
 - [Sonobus](https://sonobus.net/)
+- [Airwindows](http://www.airwindows.com/)
 
 Follow:
 - [Hainbach](https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g)
@@ -85,7 +89,3 @@ Follow:
 - [*Parable of the Sower*](https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)), by Octavia Butler (1993)
 - [*The Malazan Book of the Fallen*](https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen), by Steven Erikson and Ian Cameron Esslemont (1999-present)
 - N.K. Jemesin's [*Broken Earth* series](https://en.wikipedia.org/wiki/N._K._Jemisin#Broken_Earth_series)
-
-## Fun
-
-- [scroll](https://yukisusumisariyuki.tumblr.com/scroll)

@@ -73,14 +73,14 @@
 &lt;li&gt;Mathematically scrambling data - encryption - is one of the most powerful tools we have for maintaining digital security. &lt;a href=&#34;https://ssd.eff.org/en/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work&#34;&gt;End-to-end (E2E) encrypted&lt;/a&gt; apps like &lt;a href=&#34;https://www.signal.org/&#34;&gt;Signal&lt;/a&gt; are particularly important and useful. Most people don&amp;rsquo;t realize that they use encryption every day through &lt;a href=&#34;https://en.wikipedia.org/wiki/HTTPS&#34;&gt;HTTPS&lt;/a&gt; and core Internet protocols like TLS and S/MIME.&lt;/li&gt;
 &lt;li&gt;Make sure to &lt;a href=&#34;https://spreadprivacy.com/how-to-encrypt-devices/&#34;&gt;encrypt your computer(s) and phone(s)&lt;/a&gt; as well.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.privacytools.io/providers/vpn/&#34;&gt;Using a VPN is not enough&lt;/a&gt; if you want to keep your activities secure and private - try &lt;a href=&#34;https://www.torproject.org/&#34;&gt;Tor&lt;/a&gt;, and &lt;a href=&#34;https://www.signal.org/&#34;&gt;Signal&lt;/a&gt; instead (or in addition to a vetted VPN like &lt;a href=&#34;https://protonvpn.com/&#34;&gt;ProtonVPN&lt;/a&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;notes-for-organizers-and-activists&#34;&gt;Notes for organizers and activists&lt;/h3&gt;
+&lt;ol start=&#34;20&#34;&gt;
 &lt;li&gt;You must also stay vigilant. Sophisticated &lt;a href=&#34;https://www.merriam-webster.com/dictionary/phishing&#34;&gt;phishing&lt;/a&gt; attacks are something that you - and anyone known to be associated with you - will need to be careful of. These aren&amp;rsquo;t your average spam messages. These are often meant specifically for you, replicating emails and websites that you might use in order to try to get your passwords or personal information. It could look like an email with a link from your bank, email, or social media account, for example - and the link will send you to a site run by the hacker(s). To defend yourself, first &lt;a href=&#34;https://youtu.be/u9dBGWVwMMA?t=60&#34;&gt;educate yourself on phishing techniques&lt;/a&gt;. Then turn on &lt;a href=&#34;https://www.csoonline.com/article/3239144/2fa-explained-how-to-enable-it-and-how-it-works.html&#34;&gt;two-factor authentication&lt;/a&gt; for all of your accounts, preferably either through an &lt;a href=&#34;https://www.nytimes.com/wirecutter/reviews/best-two-factor-authentication-app/&#34;&gt;authenticator app&lt;/a&gt; or even a &lt;a href=&#34;https://www.nytimes.com/wirecutter/reviews/best-security-keys/&#34;&gt;physical security key&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&amp;ldquo;In a world where millions of digital communications are silently intercepted, collected, and stored every day, how do activists effectively say &amp;lsquo;I do not consent to this search?&amp;rsquo; As in a physical encounter with law enforcement, we must be proactive. Online, this means using encryption along with other privacy-protecting and autonomy-preserving tools.&amp;rdquo; - &lt;a href=&#34;https://cldc.org/&#34;&gt;Civil Liberties Defense Center&lt;/a&gt;&lt;/p&gt;
 &lt;ol start=&#34;21&#34;&gt;
 &lt;li&gt;Going to a protest? See the &lt;a href=&#34;https://natehn.com/posts/iphone-security/&#34;&gt;iPhone Security Guide&lt;/a&gt; I put together a few days ago.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;notes-for-organizers-and-activists&#34;&gt;Notes for organizers and activists&lt;/h3&gt;
-&lt;ol start=&#34;22&#34;&gt;
 &lt;li&gt;Organizers who seek to change the world face unique challenges that other folks do not need to deal with. Recent examples, like the &lt;a href=&#34;https://hongkongfp.com/2020/09/18/anonymous-site-ramps-up-doxxing-campaign-against-hong-kong-activists/&#34;&gt;doxing of pro-democracy activists&lt;/a&gt; in Hong Kong and revelations of &lt;a href=&#34;https://theintercept.com/2020/10/10/new-documents-reveal-how-the-animal-agriculture-industry-surveils-and-punishes-critics/&#34;&gt;private surveillance of animal rights groups and activists&lt;/a&gt;, not to mention movies like &lt;a href=&#34;https://www.imdb.com/title/tt9784798/&#34;&gt;&lt;em&gt;Judas and the Black Messiah&lt;/em&gt;&lt;/a&gt;, are reminders of the importance of &lt;a href=&#34;https://www.are.na/librarians-on-are-na/opsec-for-activists&#34;&gt;OPSEC for activists&lt;/a&gt; when dealing with &lt;a href=&#34;https://github.com/AnarchoTechNYC/meta/wiki/Persona-based-training-matrix#the-matrix&#34;&gt;&amp;ldquo;assholes with resources&amp;rdquo; or even governmental entities&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Organizers are not only responsible for their personal security, but the security of their team and their activities. They also face greater risk and exposure due to their prominence within the group.&lt;/li&gt;
 &lt;li&gt;When it comes to setting standards for a small group or even an entire organization, we have to talk about &lt;strong&gt;security culture&lt;/strong&gt;. This goes way beyond choosing the &amp;ldquo;right&amp;rdquo; tools like &lt;a href=&#34;https://meet.jit.si/&#34;&gt;Jitsi&lt;/a&gt;, &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;, and &lt;a href=&#34;https://www.etesync.com/&#34;&gt;EteSync&lt;/a&gt; (etc).&lt;/li&gt;
@@ -164,6 +164,7 @@
 &lt;li&gt;&lt;strong&gt;Turn off Game Center&amp;rsquo;s location access:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Game Center&lt;/code&gt;; toggle OFF &lt;code&gt;Game Center&lt;/code&gt;, or at least toggle OFF &lt;code&gt;Nearby Players&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Audit your apps&amp;rsquo; access:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Privacy&lt;/code&gt;; check through this list and ensure that apps have no more access to your data than they need&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Harden  the default Safari browser:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Safari&lt;/code&gt;; set &lt;code&gt;Search Engine&lt;/code&gt; to &lt;code&gt;DuckDuckGo&lt;/code&gt;, toggle OFF &lt;code&gt;Search Engine Suggestions&lt;/code&gt;, &lt;code&gt;Safari Suggestions&lt;/code&gt;, &lt;code&gt;Preload Top Hit&lt;/code&gt;, and &lt;code&gt;Frequently Visited Sites&lt;/code&gt;; toggle ON &lt;code&gt;Block Pop-ups&lt;/code&gt;, &lt;code&gt;Prevent Cross-Site Tracking&lt;/code&gt;, &lt;code&gt;Block All Cookies&lt;/code&gt;, and &lt;code&gt;Fraudulent Website Warning&lt;/code&gt;; toggle OFF &lt;code&gt;Camera &amp;amp; Microphone Access&lt;/code&gt; and &lt;code&gt;Check for Apple Pay&lt;/code&gt;; select &lt;code&gt;Advanced&lt;/code&gt;; toggle OFF &lt;code&gt;Javascript&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Limit your message storage to 30 days:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Messages&lt;/code&gt;; select &lt;code&gt;Keep Messages&lt;/code&gt; and choose &lt;code&gt;30 Days&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;You should also keep your phone updated at all times (check in the &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;General&lt;/code&gt;; &lt;code&gt;Software Update&lt;/code&gt;)&lt;/p&gt;
 &lt;p&gt;Before you head out to a protest, do the following:&lt;/p&gt;
@@ -235,6 +236,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://tacticaltech.org/#/news/technology-is-stupid&#34;&gt;Technology is Stupid&lt;/a&gt;, by by Marek Tuszynski, Tactical Tech (2020)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Learn&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://techlearningcollective.com/&#34;&gt;Tech Learning Collective&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Follow:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://100r.co/site/home.html&#34;&gt;Hundred Rabbits&lt;/a&gt;, &lt;a href=&#34;https://wiki.xxiivv.com/site/home.html&#34;&gt;XXIIVV&lt;/a&gt;, and &lt;a href=&#34;https://kokorobot.ca/site/home.html&#34;&gt;Rekka Bellum&lt;/a&gt;&lt;/li&gt;
@@ -259,6 +264,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hundredrabbits/Orca&#34;&gt;ORCA&lt;/a&gt; (&lt;a href=&#34;https://metasyn.github.io/learn-orca/&#34;&gt;learn&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sonobus.net/&#34;&gt;Sonobus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.airwindows.com/&#34;&gt;Airwindows&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Follow:&lt;/p&gt;
 &lt;ul&gt;
@@ -271,10 +277,6 @@
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)&#34;&gt;&lt;em&gt;Parable of the Sower&lt;/em&gt;&lt;/a&gt;, by Octavia Butler (1993)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen&#34;&gt;&lt;em&gt;The Malazan Book of the Fallen&lt;/em&gt;&lt;/a&gt;, by Steven Erikson and Ian Cameron Esslemont (1999-present)&lt;/li&gt;
 &lt;li&gt;N.K. Jemesin&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/N._K._Jemisin#Broken_Earth_series&#34;&gt;&lt;em&gt;Broken Earth&lt;/em&gt; series&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;fun&#34;&gt;Fun&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://yukisusumisariyuki.tumblr.com/scroll&#34;&gt;scroll&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
@@ -484,7 +486,7 @@
 &lt;li&gt;You&amp;rsquo;d like to hang if/when I go traveling&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Or maybe it is none of these. If you want to talk to me, then more-than-likely I would love to talk to you.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Please feel free to send me an email at &lt;a href=&#34;mailto:nh@natehn.com&#34;&gt;nh at natehn.com&lt;/a&gt;.&lt;/strong&gt; I&amp;rsquo;m also happy to communicate using &lt;a href=&#34;https://natehn.com/public-key.asc&#34;&gt;PGP&lt;/a&gt;. &amp;lt;3&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please feel free to send me an email at &lt;a href=&#34;mailto:nh@natehn.com&#34;&gt;nh at natehn.com&lt;/a&gt;.&lt;/strong&gt; I&amp;rsquo;m also happy to communicate using &lt;a href=&#34;https://natehn.com/publickey.nh@natehn.com-117996770f8b42bd6a1fff940e1562087d8b4490.asc&#34;&gt;PGP&lt;/a&gt;. &amp;lt;3&lt;/p&gt;
 &lt;h3 id=&#34;ideas&#34;&gt;Ideas&lt;/h3&gt;
 &lt;p&gt;Bonus section! I&amp;rsquo;d also be happy to talk with you about any of the following collaboration ideas:&lt;/p&gt;
 &lt;ul&gt;
