@@ -55,7 +55,7 @@ weight = 3
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Greetings! My name is Nathan Hewitt (he/him), or 'natehn' on the web. This is my tiny little corner of the Internet. What do you wish to know?"
+  description = "Greetings! My name is nathan (he/him), or 'natehn' on the web. This is my tiny little corner of the Internet. What do you wish to know?"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true

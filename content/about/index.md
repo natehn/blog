@@ -1,8 +1,7 @@
 ---
 title: About
 date: 2020-08-14
-tags:
-- vcard
+rss_ignore: true
 ---
 
 ### Hello!
@@ -11,7 +10,7 @@ I am an [ambient/improvising musician](https://nthnh.bandcamp.com/), [erstwhile 
 
 I also watch sports, play video games, and hang out with friends - and I regularly frequent the local grocery store. I use he/him pronouns.
 
-#### Now (updated 2020-03-29)
+### Now
 
 I've been in NYC for almost three years, but it feels more like 2 due to the virus. Here's what I'm working on right now:
 
@@ -23,7 +22,7 @@ I've been in NYC for almost three years, but it feels more like 2 due to the vir
 - re-reading the Malazan Book of the Fallen
 - figuring out how to deal with surveillance capitalism
 
-(This is kind-of like a [Now page](https://nownownow.com/about).[^now])
+(This is kind-of like a [Now page](https://nownownow.com/about).[^now] Last updated 2020-03-29.)
 
 [^now]: Some examples: [(1)](https://ritualdust.com/about/now/) [(2)](https://sahar.io/now/) [(3)](https://gueorgui.net/now/) [(4)](https://nchrs.xyz/now/)
 

@@ -30,12 +30,22 @@
 &lt;li&gt;A threat that all people in our interconnected global world face is &lt;a href=&#34;https://en.wikipedia.org/wiki/Surveillance_capitalism&#34;&gt;surveillance capitalism&lt;/a&gt;. Shoshana Zuboff&amp;rsquo;s interviews with &lt;em&gt;&lt;a href=&#34;https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook&#34;&gt;The Guardian&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;&lt;a href=&#34;https://www.getrevue.co/profile/themarkup/issues/understanding-the-threat-of-surveillance-capitalism-350921&#34;&gt;The Markup&lt;/a&gt;&lt;/em&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=hIXhnWUmMvw&#34;&gt;VPRO&lt;/a&gt; are a great place to start for information on the topic if you aren&amp;rsquo;t familiar. (Surveillance capitalism &lt;a href=&#34;https://lifehacker.com/everyones-trying-to-track-what-you-do-on-the-web-heres-5887140&#34;&gt;is nothing new&lt;/a&gt;.)&lt;/li&gt;
 &lt;li&gt;Surveillance capitalism not only undermines personal privacy, but challenges democratic government at its core.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;ldquo;Data is content, and metadata is context. Metadata can be much more revealing than data, especially when collected in the aggregate.&amp;rdquo; - Bruce Schneier&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Data is content, and metadata is context. Metadata can be much more revealing than data, especially when collected in the aggregate.
+
+&lt;br&gt;&amp;nbsp;&amp;ndash; 
+ &lt;em&gt;Bruce Schneier&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ol start=&#34;5&#34;&gt;
 &lt;li&gt;Metadata is the &amp;ldquo;surplus&amp;rdquo; data that Google built itself upon and that fuels surveillance capitalism. The Markup&amp;rsquo;s &lt;a href=&#34;https://themarkup.org/blacklight&#34;&gt;Blacklight&lt;/a&gt; and EFF&amp;rsquo;s &lt;a href=&#34;https://coveryourtracks.eff.org/&#34;&gt;Cover Your Tracks&lt;/a&gt; can show you the alarming amount of data that companies are collecting about your online activity.&lt;/li&gt;
 &lt;li&gt;As a result, the fact that you might feel &amp;ldquo;anonymous&amp;rdquo; - perhaps you used a fake name when signing up for a forum - does not mean you your activities are private or secure.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;ldquo;The idea that there are tools that would always work for everyone, everywhere; require no extra knowledge and zero additional infrastructure; are fair and just, and protect users at all times, is a dream that has not yet come true.&amp;rdquo; - &lt;a href=&#34;https://tacticaltech.org/#/news/technology-is-stupid&#34;&gt;Tactical Tech&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The idea that there are tools that would always work for everyone, everywhere; require no extra knowledge and zero additional infrastructure; are fair and just, and protect users at all times, is a dream that has not yet come true.
+
+&lt;br&gt;&amp;nbsp;&amp;ndash; 
+ &lt;em&gt;&lt;a href=&#34;https://tacticaltech.org/#/news/technology-is-stupid&#34;&gt;Tactical Tech&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ol start=&#34;7&#34;&gt;
 &lt;li&gt;If you want to limit surveillance capitalists&amp;rsquo; influence on your life, start by using &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt; (or if a novice Chrome user, &lt;a href=&#34;https://brave.com/&#34;&gt;Brave&lt;/a&gt;) rather than Google Chrome. Google was the original surveillance capitalist company. Then add in the &lt;a href=&#34;https://github.com/gorhill/uBlock/&#34;&gt;uBlock Origin&lt;/a&gt;, &lt;a href=&#34;https://privacybadger.org/&#34;&gt;Privacy Badger&lt;/a&gt;, and &lt;a href=&#34;https://decentraleyes.org/&#34;&gt;Decentraleyes&lt;/a&gt; browser add-ons. Make sure to also use &lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; rather than Google Search, and consider &lt;a href=&#34;https://natehn.com/posts/leaving-facebook/&#34;&gt;leaving corporate social media&lt;/a&gt; altogether. (I&amp;rsquo;m partway through my own journey, but there is still work (especially de-Google-ing) to be done.)&lt;/li&gt;
 &lt;li&gt;Because of advanced &lt;a href=&#34;https://coveryourtracks.eff.org/learn&#34;&gt;fingerprinting&lt;/a&gt; techniques, there&amp;rsquo;s no real perfect system for avoiding trackers. &lt;a href=&#34;https://www.torproject.org/&#34;&gt;Tor&lt;/a&gt; might be your best option if a stronger form of anonymity is required.&lt;/li&gt;
@@ -56,7 +66,12 @@
 &lt;li&gt;One of the challenges in talking about digital security broadly and to a variety of different people is that there are many different potential threats, and they do not affect all of us equally. The digital world is not always safe for &lt;a href=&#34;https://loomio-uploads.s3.amazonaws.com/documents/files/000/209/867/original/nypdzine.pdf&#34;&gt;overpoliced&lt;/a&gt; &lt;a href=&#34;https://www.getrevue.co/profile/themarkup/issues/the-rise-and-the-recurring-bias-of-risk-assessment-algorithms-418128&#34;&gt;Black&lt;/a&gt; &lt;a href=&#34;https://www.theguardian.com/inequality/2017/aug/08/rise-of-the-racist-robots-how-ai-is-learning-all-our-worst-impulses&#34;&gt;folks&lt;/a&gt; or &lt;a href=&#34;https://www.takebackthetech.net/know-more/extortion&#34;&gt;non&lt;/a&gt;-&lt;a href=&#34;https://www.takebackthetech.net/know-more/cyberstalking&#34;&gt;cis&lt;/a&gt;-&lt;a href=&#34;https://www.cnet.com/news/cameras-surveillance-and-the-sinister-tech-behind-domestic-abuse/&#34;&gt;men&lt;/a&gt;, and sometimes makes stuff like &lt;a href=&#34;https://www.eff.org/wp/digital-privacy-us-border-2017&#34;&gt;racism&lt;/a&gt; and &lt;a href=&#34;https://onlinesafety.feministfrequency.com/en/&#34;&gt;sexism&lt;/a&gt; and &lt;a href=&#34;https://hackblossom.org/domestic-violence/&#34;&gt;domestic violence&lt;/a&gt; even worse. White men like me need to remember that we do not face the same challenges as &lt;a href=&#34;https://hackblossom.org/cybersecurity/&#34;&gt;others&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;At the same time, the truth is that everyone has &lt;a href=&#34;https://www.privacytools.io/#sponsors&#34;&gt;something to hide&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;ldquo;Saying that you don&amp;rsquo;t need or want privacy because you have nothing to hide is to assume that no one should have, or could have, to hide anything - including their immigration status, unemployment history, financial history, and health records. You&amp;rsquo;re assuming that no one, including yourself, might object to revealing to anyone information about their religious beliefs, political affiliations, and sexual activities, as casually as some choose to reveal their movie and music tastes and reading preferences.&amp;rdquo; - Edward Snowden&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Saying that you don&amp;rsquo;t need or want privacy because you have nothing to hide is to assume that no one should have, or could have, to hide anything - including their immigration status, unemployment history, financial history, and health records. You&amp;rsquo;re assuming that no one, including yourself, might object to revealing to anyone information about their religious beliefs, political affiliations, and sexual activities, as casually as some choose to reveal their movie and music tastes and reading preferences.
+
+&lt;br&gt;&amp;nbsp;&amp;ndash; 
+ &lt;em&gt;Edward Snowden&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ol start=&#34;14&#34;&gt;
 &lt;li&gt;Security is protection against threats. One way to talk about digital security is via the &lt;a href=&#34;https://www.forcepoint.com/cyber-edu/cia-triad&#34;&gt;CIA triad&lt;/a&gt;: confidentiality (who has access, a.k.a. privacy), integrity (protecting data), and availability (the system still works for authorized users).&lt;/li&gt;
 &lt;li&gt;In most cases you &lt;a href=&#34;https://www.pcworld.com/article/3434097/why-you-can-stop-paying-for-antivirus-software.html&#34;&gt;probably don&amp;rsquo;t&lt;/a&gt; &lt;a href=&#34;https://www.nytimes.com/wirecutter/blog/best-antivirus/&#34;&gt;need to&lt;/a&gt; &lt;a href=&#34;https://linuxhint.com/why_no_antivirus_linux/&#34;&gt;buy any&lt;/a&gt; anti-virus software. Just set up your system to be as safe as possible using the tools it provides.&lt;/li&gt;
@@ -78,7 +93,12 @@
 &lt;ol start=&#34;20&#34;&gt;
 &lt;li&gt;You must also stay vigilant. Sophisticated &lt;a href=&#34;https://www.merriam-webster.com/dictionary/phishing&#34;&gt;phishing&lt;/a&gt; attacks are something that you - and anyone known to be associated with you - will need to be careful of. These aren&amp;rsquo;t your average spam messages. These are often meant specifically for you, replicating emails and websites that you might use in order to try to get your passwords or personal information. It could look like an email with a link from your bank, email, or social media account, for example - and the link will send you to a site run by the hacker(s). To defend yourself, first &lt;a href=&#34;https://youtu.be/u9dBGWVwMMA?t=60&#34;&gt;educate yourself on phishing techniques&lt;/a&gt;. Then turn on &lt;a href=&#34;https://www.csoonline.com/article/3239144/2fa-explained-how-to-enable-it-and-how-it-works.html&#34;&gt;two-factor authentication&lt;/a&gt; for all of your accounts, preferably either through an &lt;a href=&#34;https://www.nytimes.com/wirecutter/reviews/best-two-factor-authentication-app/&#34;&gt;authenticator app&lt;/a&gt; or even a &lt;a href=&#34;https://www.nytimes.com/wirecutter/reviews/best-security-keys/&#34;&gt;physical security key&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;ldquo;In a world where millions of digital communications are silently intercepted, collected, and stored every day, how do activists effectively say &amp;lsquo;I do not consent to this search?&amp;rsquo; As in a physical encounter with law enforcement, we must be proactive. Online, this means using encryption along with other privacy-protecting and autonomy-preserving tools.&amp;rdquo; - &lt;a href=&#34;https://cldc.org/&#34;&gt;Civil Liberties Defense Center&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In a world where millions of digital communications are silently intercepted, collected, and stored every day, how do activists effectively say &amp;lsquo;I do not consent to this search?&amp;rsquo; As in a physical encounter with law enforcement, we must be proactive. Online, this means using encryption along with other privacy-protecting and autonomy-preserving tools.
+
+&lt;br&gt;&amp;nbsp;&amp;ndash; 
+ &lt;em&gt;&lt;a href=&#34;https://cldc.org/&#34;&gt;Civil Liberties Defense Center&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ol start=&#34;21&#34;&gt;
 &lt;li&gt;Going to a protest? See the &lt;a href=&#34;https://natehn.com/posts/iphone-security/&#34;&gt;iPhone Security Guide&lt;/a&gt; I put together a few days ago.&lt;/li&gt;
 &lt;li&gt;Organizers who seek to change the world face unique challenges that other folks do not need to deal with. Recent examples, like the &lt;a href=&#34;https://hongkongfp.com/2020/09/18/anonymous-site-ramps-up-doxxing-campaign-against-hong-kong-activists/&#34;&gt;doxing of pro-democracy activists&lt;/a&gt; in Hong Kong and revelations of &lt;a href=&#34;https://theintercept.com/2020/10/10/new-documents-reveal-how-the-animal-agriculture-industry-surveils-and-punishes-critics/&#34;&gt;private surveillance of animal rights groups and activists&lt;/a&gt;, not to mention movies like &lt;a href=&#34;https://www.imdb.com/title/tt9784798/&#34;&gt;&lt;em&gt;Judas and the Black Messiah&lt;/em&gt;&lt;/a&gt;, are reminders of the importance of &lt;a href=&#34;https://www.are.na/librarians-on-are-na/opsec-for-activists&#34;&gt;OPSEC for activists&lt;/a&gt; when dealing with &lt;a href=&#34;https://github.com/AnarchoTechNYC/meta/wiki/Persona-based-training-matrix#the-matrix&#34;&gt;&amp;ldquo;assholes with resources&amp;rdquo; or even governmental entities&lt;/a&gt;.&lt;/li&gt;
@@ -134,108 +154,12 @@
 &lt;li&gt;&lt;a href=&#34;https://ourdataourselves.tacticaltech.org/posts/the-organisers-activity-book/&#34;&gt;The Organiser&amp;rsquo;s Activity Book&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://securityinabox.org/en/&#34;&gt;Security in a Box&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;“If we want to see change in our lives, we have to change things ourselves.”  - Grace Lee Boggs&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Library</title>
-      <link>https://natehn.com/library/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://natehn.com/library/</guid>
-      <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
-&lt;p&gt;This is my personal library. You can also think of it as a:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;blogroll&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;link/resource/reference list&lt;/li&gt;
-&lt;li&gt;bibliography&lt;/li&gt;
-&lt;li&gt;card catalog&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The purpose is to share resources that I think are valuable with the rest of the world - no strings attached. It&amp;rsquo;s an alternative to corporate algorithms and a way of building our own online networks of information, complementing the &lt;a href=&#34;https://webring.xxiivv.com/&#34;&gt;XXIIVV webring&lt;/a&gt;, which you should also explore.&lt;/p&gt;
-&lt;p&gt;The content was first published on February 28, 2021, but will be updated on a regular basis. It is forever incomplete!&lt;/p&gt;
-&lt;h2 id=&#34;wtf-is-going-on&#34;&gt;WTF is going on&lt;/h2&gt;
-&lt;p&gt;Watch:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=krfcq5pF8u8&#34;&gt;13th&lt;/a&gt;&lt;/em&gt;, by Ava DuVernay (2016, 1h 40m)&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=hIXhnWUmMvw&#34;&gt;Shoshana Zuboff on surveillance capitalism&lt;/a&gt;&amp;rdquo; (2019, 50m)&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=IP7HajXJD3s&#34;&gt;The Thriving World, The Wilting World, &amp;amp; You&lt;/a&gt;,&amp;rdquo; by Anand Giridharadas (2015, 30m)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://thoughtmaybe.com/hypernormalisation/&#34;&gt;Hypernormalisation&lt;/a&gt;&lt;/em&gt;, by Adam Curtis (2016, 2h 47m)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://archive.org/details/the-social-dilemma-2020&#34;&gt;The Social Dilemma&lt;/a&gt;&lt;/em&gt; (2020, 1h 35m - skip the dramatizations!)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Read:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Citizen:_An_American_Lyric&#34;&gt;Citizen: An American Lyric&lt;/a&gt;&lt;/em&gt;, by Claudia Rankine (2014)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Winners_Take_All:_The_Elite_Charade_of_Changing_the_World&#34;&gt;Winners Take All&lt;/a&gt;&lt;/em&gt;, by Anand Giridharadas (2018)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook&#34;&gt;Shoshana Zuboff&amp;rsquo;s interview with &lt;em&gt;The Guardian&lt;/em&gt;&lt;/a&gt; (2019)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism&#34;&gt;The Age of Surveillance Capitalism&lt;/a&gt;&lt;/em&gt;, by Shoshana Zuboff (2019)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://nativevoicesbooks.com/content/basic-call-consciousness&#34;&gt;Basic Call to Consciousness&lt;/a&gt;&lt;/em&gt; (&lt;a href=&#34;https://ratical.org/many_worlds/6Nations/6nations1.html&#34;&gt;excerpts&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Follow:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://adriennemareebrown.net/&#34;&gt;adrienne maree brown&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Donate:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://mannahattafund.org/&#34;&gt;American Indian Community House&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://secure.actblue.com/donate/ms_blm_homepage_2019&#34;&gt;Black Lives Matter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://movement.vote/how-to-donate&#34;&gt;Movement Voter Project&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;technology&#34;&gt;Technology&lt;/h2&gt;
-&lt;p&gt;Read:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://tacticaltech.org/#/news/technology-is-stupid&#34;&gt;Technology is Stupid&lt;/a&gt;, by by Marek Tuszynski, Tactical Tech (2020)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Learn&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://techlearningcollective.com/&#34;&gt;Tech Learning Collective&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Follow:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://100r.co/site/home.html&#34;&gt;Hundred Rabbits&lt;/a&gt;, &lt;a href=&#34;https://wiki.xxiivv.com/site/home.html&#34;&gt;XXIIVV&lt;/a&gt;, and &lt;a href=&#34;https://kokorobot.ca/site/home.html&#34;&gt;Rekka Bellum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.artistsguide.to/&#34;&gt;an artist&amp;rsquo;s guide to computation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stratechery.com/&#34;&gt;Stratechery&lt;/a&gt; (the weekly newsletter is free; I don&amp;rsquo;t always agree, but the coverage is enlightening)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Donate:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://supporters.eff.org/donate/&#34;&gt;Electronic Frontier Foundation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://signal.org/donate/&#34;&gt;Signal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://archive.org/donate/?origin=iawww-TopNavDonateButton&#34;&gt;Internet Archive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&amp;amp;country=US&amp;amp;uselang=en&#34;&gt;Wikimedia Foundation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;artmaking&#34;&gt;Artmaking&lt;/h2&gt;
-&lt;p&gt;Communities&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ampled.com/&#34;&gt;Ampled&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scanlines.xyz/&#34;&gt;scanlines&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://llllllll.co/&#34;&gt;lines&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Tools:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hundredrabbits/Orca&#34;&gt;ORCA&lt;/a&gt; (&lt;a href=&#34;https://metasyn.github.io/learn-orca/&#34;&gt;learn&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sonobus.net/&#34;&gt;Sonobus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.airwindows.com/&#34;&gt;Airwindows&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Follow:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g&#34;&gt;Hainbach&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://palmsandpowerlines.substack.com/&#34;&gt;Palms and Powerlines&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://beehy.pe/&#34;&gt;beehype&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;fiction&#34;&gt;Fiction&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)&#34;&gt;&lt;em&gt;Parable of the Sower&lt;/em&gt;&lt;/a&gt;, by Octavia Butler (1993)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Malazan_Book_of_the_Fallen&#34;&gt;&lt;em&gt;The Malazan Book of the Fallen&lt;/em&gt;&lt;/a&gt;, by Steven Erikson and Ian Cameron Esslemont (1999-present)&lt;/li&gt;
-&lt;li&gt;N.K. Jemesin&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/N._K._Jemisin#Broken_Earth_series&#34;&gt;&lt;em&gt;Broken Earth&lt;/em&gt; series&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;For the record, there is no unspoken expectation that anyone listed link back to this site. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If we want to see change in our lives, we have to change things ourselves.
+
+&lt;br&gt;&amp;nbsp;&amp;ndash; 
+ &lt;em&gt;Grace Lee Boggs&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

@@ -1,6 +1,7 @@
 ---
 title: Feed
 date: 2020-10-09
+rss_ignore: true
 ---
 
 ## RSS

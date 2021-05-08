@@ -1,12 +1,7 @@
 ---
 title: Library
 date: 2021-02-28
-tags:
-- links
-- tools
-- references
-- knowledge
-- information
+rss_ignore: true
 ---
 
 ## Welcome
@@ -83,6 +78,7 @@ Follow:
 - [Hainbach](https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g)
 - [Palms and Powerlines](https://palmsandpowerlines.substack.com/)
 - [beehype](https://beehy.pe/)
+- [W.A.G.E.](https://wageforwork.com)
 
 ## Fiction
 

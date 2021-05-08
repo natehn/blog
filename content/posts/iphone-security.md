@@ -9,6 +9,8 @@ tags:
 
 {{< figure src="/phones.png" caption="Three protesters hold their phones up above a crowd." >}}
 
+*(as of iOS 12)*
+
 When you attend a protest, particularly one which which might garner the attention of the authorities, it's a good practice to limit the amount of data being sent out by your phone as much as possible. To start, here are things you should have set up in your phone at all times:
 
 1. **Limit ad tracking:** open the `Settings` app; `Privacy`; scroll down to the bottom of the Privacy settings; `Advertising`; toggle ON `Limit Ad Tracking` (you can also hit `Reset Advertising Identifier` every once in a while)
@@ -42,7 +44,7 @@ Before you head out to a protest, do the following:
 
 Keep in mind that turning off your phone is an option, as is turning it to airplane mode, or even leaving it at home - but communication is key when you are out on the streets, so I don't recommend it.
 
-While you are out and about, use [Signal](https://signal.org/) for your communications and [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175) for browsing. Another good idea is to download maps onto your phone ahead of time so that you don't need to use location services on your GPS/maps app. 
+While you are out and about, use [Signal](https://signal.org/) for your communications and [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175) for browsing. I recommend using [ProtonVPN](https://apps.apple.com/us/app/protonvpn-fast-secure-vpn/id1437005085) on a regular basis. Another good idea is to download maps onto your phone ahead of time so that you don't need to use location services on your GPS/maps app. 
 
 When livestreaming, avoid showing fellow protesters' faces, particularly if they are doing something that would garner the authorities' attention. If you post videos or photos afterward, make sure to blur out faces and potentially identifying details of fellow activists.
 

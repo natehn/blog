@@ -1,6 +1,7 @@
 ---
 title: Connect
 date: 2021-01-10
+rss_ignore: true
 ---
 
 {{< figure src="/hello.png" >}}

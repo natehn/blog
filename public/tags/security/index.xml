@@ -21,6 +21,7 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;p&gt;&lt;em&gt;(as of iOS 12)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;When you attend a protest, particularly one which which might garner the attention of the authorities, it&amp;rsquo;s a good practice to limit the amount of data being sent out by your phone as much as possible. To start, here are things you should have set up in your phone at all times:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Limit ad tracking:&lt;/strong&gt; open the &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Privacy&lt;/code&gt;; scroll down to the bottom of the Privacy settings; &lt;code&gt;Advertising&lt;/code&gt;; toggle ON &lt;code&gt;Limit Ad Tracking&lt;/code&gt; (you can also hit &lt;code&gt;Reset Advertising Identifier&lt;/code&gt; every once in a while)&lt;/li&gt;
@@ -52,7 +53,7 @@
 &lt;li&gt;&lt;strong&gt;Turn off automatic (non-encrypted) SMS messages:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Messages&lt;/code&gt;; toggle &lt;code&gt;Send as SMS&lt;/code&gt; OFF (&lt;em&gt;note&lt;/em&gt;: this doesn&amp;rsquo;t completely turn off SMS, so you&amp;rsquo;ll still need to use &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Keep in mind that turning off your phone is an option, as is turning it to airplane mode, or even leaving it at home - but communication is key when you are out on the streets, so I don&amp;rsquo;t recommend it.&lt;/p&gt;
-&lt;p&gt;While you are out and about, use &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt; for your communications and &lt;a href=&#34;https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337&#34;&gt;Firefox Focus&lt;/a&gt; or &lt;a href=&#34;https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175&#34;&gt;Brave&lt;/a&gt; for browsing. Another good idea is to download maps onto your phone ahead of time so that you don&amp;rsquo;t need to use location services on your GPS/maps app.&lt;/p&gt;
+&lt;p&gt;While you are out and about, use &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt; for your communications and &lt;a href=&#34;https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337&#34;&gt;Firefox Focus&lt;/a&gt; or &lt;a href=&#34;https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175&#34;&gt;Brave&lt;/a&gt; for browsing. I recommend using &lt;a href=&#34;https://apps.apple.com/us/app/protonvpn-fast-secure-vpn/id1437005085&#34;&gt;ProtonVPN&lt;/a&gt; on a regular basis. Another good idea is to download maps onto your phone ahead of time so that you don&amp;rsquo;t need to use location services on your GPS/maps app.&lt;/p&gt;
 &lt;p&gt;When livestreaming, avoid showing fellow protesters&amp;rsquo; faces, particularly if they are doing something that would garner the authorities&amp;rsquo; attention. If you post videos or photos afterward, make sure to blur out faces and potentially identifying details of fellow activists.&lt;/p&gt;
 &lt;p&gt;Missing something? &lt;a href=&#34;https://natehn.com/connect/&#34;&gt;Let me know&lt;/a&gt;. I&amp;rsquo;ll be following up soon with &lt;a href=&#34;https://natehn.com/posts/digital-security/&#34;&gt;an article on digital security more generally&lt;/a&gt;.&lt;/p&gt;
 </description>

@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title> This Website, and How To Build Your Own </title>
-  <meta name="description" content="Greetings! My name is Nathan Hewitt (he/him), or &#39;natehn&#39; on the web. This is my tiny little corner of the Internet. What do you wish to know?">
+  <meta name="description" content="Greetings! My name is nathan (he/him), or &#39;natehn&#39; on the web. This is my tiny little corner of the Internet. What do you wish to know?">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
@@ -45,7 +45,7 @@
   <div id="header-post">
   <a id="menu-icon" href="#"><i class="fas fa-bars fa-lg"></i></a>
   <a id="menu-icon-tablet" href="#"><i class="fas fa-bars fa-lg"></i></a>
-  <a id="top-icon-tablet" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;"><i class="fas fa-chevron-up fa-lg"></i></a>
+  <a id="top-icon-tablet" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;" aria-label="Top of Page"><i class="fas fa-chevron-up fa-lg"></i></a>
   <span id="menu">
     <span id="nav">
       <ul>
@@ -64,26 +64,20 @@
     <span id="actions">
       <ul>
         
-        <li>
-          <a class="icon" href=" https://natehn.com/about/">
-            <i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i>
-          </a>
-        </li>
-        
         
         <li>
-          <a class="icon" href="https://natehn.com/posts/land-acknowledgment/">
+          <a class="icon" href="https://natehn.com/posts/land-acknowledgment/" aria-label="Next">
             <i class="fas fa-chevron-right" aria-hidden="true" onmouseover="$('#i-next').toggle();" onmouseout="$('#i-next').toggle();"></i>
           </a>
         </li>
         
         <li>
-          <a class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');">
+          <a class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" aria-label="Top of Page">
             <i class="fas fa-chevron-up" aria-hidden="true" onmouseover="$('#i-top').toggle();" onmouseout="$('#i-top').toggle();"></i>
           </a>
         </li>
         <li>
-          <a class="icon" href="#">
+          <a class="icon" href="#" aria-label="Share">
             <i class="fas fa-share-alt" aria-hidden="true" onmouseover="$('#i-share').toggle();" onmouseout="$('#i-share').toggle();" onclick="$('#share').toggle();return false;"></i>
           </a>
         </li>
@@ -103,37 +97,37 @@
   
   
   <li>
-    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&text=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own">
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&text=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own" aria-label="Twitter">
       <i class="fab fa-twitter " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own">
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own" aria-label="LinkedIn">
       <i class="fab fa-linkedin " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="mailto:?subject=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own&body=Check out this article: https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f">
+    <a class="icon" href="mailto:?subject=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own&body=Check out this article: https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f" aria-label="email">
       <i class="fas fa-envelope " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own">
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own" aria-label="Pocket">
       <i class="fab fa-get-pocket " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own">
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own" aria-label="Reddit">
       <i class="fab fa-reddit " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&name=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own&description=Origins%20This%20website%20is%20just%20a%20bunch%20of%20little%20files%20living%20on%20a%20tiny%20computer%20that%20sits%20on%20my%20living%20room%20bookcase.%20It%20plugs%20into%20the%20wall%20and%20my%20router%2c%20and%20all%20it%20does%20all%20day%20is%20serve%20up%20these%20website%20files%20to%20whoever%20requests%20them.%20For%20most%20servers%20out%20there%20%28shared%20hosting%2c%20virtual%20private%20servers%2c%20and%20the%20like%29%2c%20it%20is%20a%20thankless%20job.%20But%20I%20try%20to%20give%20my%20little%20Lime2%20single-board%20computer%20some%20attention%20every%20so%20often.">
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&name=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own&description=Origins%20This%20website%20is%20just%20a%20bunch%20of%20little%20files%20living%20on%20a%20tiny%20computer%20that%20sits%20on%20my%20living%20room%20bookcase.%20It%20plugs%20into%20the%20wall%20and%20my%20router%2c%20and%20all%20it%20does%20all%20day%20is%20serve%20up%20these%20website%20files%20to%20whoever%20requests%20them.%20For%20most%20servers%20out%20there%20%28shared%20hosting%2c%20virtual%20private%20servers%2c%20and%20the%20like%29%2c%20it%20is%20a%20thankless%20job.%20But%20I%20try%20to%20give%20my%20little%20Lime2%20single-board%20computer%20some%20attention%20every%20so%20often." aria-label="Tumblr">
       <i class="fab fa-tumblr " aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&t=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own">
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&t=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own" aria-label="Hacker News">
       <i class="fab fa-hacker-news " aria-hidden="true"></i>
     </a>
   </li>
@@ -184,16 +178,16 @@
             
             <a class="tag-link" href="/tags/the-internet" rel="tag">the Internet</a>
             
-             , 
+             • 
             <a class="tag-link" href="/tags/technology" rel="tag">technology</a>
             
-             , 
+             • 
             <a class="tag-link" href="/tags/self-hosting" rel="tag">self-hosting</a>
             
-             , 
+             • 
             <a class="tag-link" href="/tags/decentralization" rel="tag">decentralization</a>
             
-             , 
+             • 
             <a class="tag-link" href="/tags/websites" rel="tag">websites</a>
             
         </div>
@@ -340,37 +334,37 @@ systemctl status caddy
   
   
   <li>
-    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&text=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own">
+    <a class="icon" href="https://twitter.com/share?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&text=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own" aria-label="Twitter">
       <i class="fab fa-twitter fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own">
+    <a class="icon" href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own" aria-label="LinkedIn">
       <i class="fab fa-linkedin fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="mailto:?subject=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own&body=Check out this article: https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f">
+    <a class="icon" href="mailto:?subject=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own&body=Check out this article: https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f" aria-label="email">
       <i class="fas fa-envelope fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own">
+    <a class="icon" href="https://getpocket.com/save?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own" aria-label="Pocket">
       <i class="fab fa-get-pocket fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own">
+    <a class="icon" href="http://reddit.com/submit?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&title=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own" aria-label="Reddit">
       <i class="fab fa-reddit fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&name=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own&description=Origins%20This%20website%20is%20just%20a%20bunch%20of%20little%20files%20living%20on%20a%20tiny%20computer%20that%20sits%20on%20my%20living%20room%20bookcase.%20It%20plugs%20into%20the%20wall%20and%20my%20router%2c%20and%20all%20it%20does%20all%20day%20is%20serve%20up%20these%20website%20files%20to%20whoever%20requests%20them.%20For%20most%20servers%20out%20there%20%28shared%20hosting%2c%20virtual%20private%20servers%2c%20and%20the%20like%29%2c%20it%20is%20a%20thankless%20job.%20But%20I%20try%20to%20give%20my%20little%20Lime2%20single-board%20computer%20some%20attention%20every%20so%20often.">
+    <a class="icon" href="http://www.tumblr.com/share/link?url=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&name=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own&description=Origins%20This%20website%20is%20just%20a%20bunch%20of%20little%20files%20living%20on%20a%20tiny%20computer%20that%20sits%20on%20my%20living%20room%20bookcase.%20It%20plugs%20into%20the%20wall%20and%20my%20router%2c%20and%20all%20it%20does%20all%20day%20is%20serve%20up%20these%20website%20files%20to%20whoever%20requests%20them.%20For%20most%20servers%20out%20there%20%28shared%20hosting%2c%20virtual%20private%20servers%2c%20and%20the%20like%29%2c%20it%20is%20a%20thankless%20job.%20But%20I%20try%20to%20give%20my%20little%20Lime2%20single-board%20computer%20some%20attention%20every%20so%20often." aria-label="Tumblr">
       <i class="fab fa-tumblr fa-lg" aria-hidden="true"></i>
     </a>
   </li>
   <li>
-    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&t=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own">
+    <a class="icon" href="https://news.ycombinator.com/submitlink?u=https%3a%2f%2fnatehn.com%2fposts%2fthis-website%2f&t=This%20Website%2c%20and%20How%20To%20Build%20Your%20Own" aria-label="Hacker News">
       <i class="fab fa-hacker-news fa-lg" aria-hidden="true"></i>
     </a>
   </li>
@@ -380,13 +374,13 @@ systemctl status caddy
 
     <div id="actions-footer">
       
-        <a id="menu" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;">
+        <a id="menu-toggle" class="icon" href="#" onclick="$('#nav-footer').toggle();return false;" aria-label="Menu">
           <i class="fas fa-bars fa-lg" aria-hidden="true"></i> Menu</a>
-        <a id="toc" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;">
+        <a id="toc-toggle" class="icon" href="#" onclick="$('#toc-footer').toggle();return false;" aria-label="Table of Contents">
           <i class="fas fa-list fa-lg" aria-hidden="true"></i> TOC</a>
-        <a id="share" class="icon" href="#" onclick="$('#share-footer').toggle();return false;">
+        <a id="share-toggle" class="icon" href="#" onclick="$('#share-footer').toggle();return false;" aria-label="Share">
           <i class="fas fa-share-alt fa-lg" aria-hidden="true"></i> share</a>
-        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');">
+        <a id="top" style="display:none" class="icon" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" aria-label="Top of Page">
           <i class="fas fa-chevron-up fa-lg" aria-hidden="true"></i> Top</a>
     </div>
 

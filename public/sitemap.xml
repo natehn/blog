@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://natehn.com/404/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://natehn.com/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://natehn.com/tags/activism/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url>
@@ -63,32 +73,7 @@
   </url>
   
   <url>
-    <loc>https://natehn.com/tags/information/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natehn.com/tags/knowledge/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://natehn.com/library/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natehn.com/tags/links/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natehn.com/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natehn.com/tags/references/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -234,11 +219,6 @@
   
   <url>
     <loc>https://natehn.com/about/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natehn.com/tags/vcard/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url>
   

@@ -30,12 +30,22 @@
 &lt;li&gt;A threat that all people in our interconnected global world face is &lt;a href=&#34;https://en.wikipedia.org/wiki/Surveillance_capitalism&#34;&gt;surveillance capitalism&lt;/a&gt;. Shoshana Zuboff&amp;rsquo;s interviews with &lt;em&gt;&lt;a href=&#34;https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook&#34;&gt;The Guardian&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;&lt;a href=&#34;https://www.getrevue.co/profile/themarkup/issues/understanding-the-threat-of-surveillance-capitalism-350921&#34;&gt;The Markup&lt;/a&gt;&lt;/em&gt; and &lt;a href=&#34;https://www.youtube.com/watch?v=hIXhnWUmMvw&#34;&gt;VPRO&lt;/a&gt; are a great place to start for information on the topic if you aren&amp;rsquo;t familiar. (Surveillance capitalism &lt;a href=&#34;https://lifehacker.com/everyones-trying-to-track-what-you-do-on-the-web-heres-5887140&#34;&gt;is nothing new&lt;/a&gt;.)&lt;/li&gt;
 &lt;li&gt;Surveillance capitalism not only undermines personal privacy, but challenges democratic government at its core.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;ldquo;Data is content, and metadata is context. Metadata can be much more revealing than data, especially when collected in the aggregate.&amp;rdquo; - Bruce Schneier&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Data is content, and metadata is context. Metadata can be much more revealing than data, especially when collected in the aggregate.
+
+&lt;br&gt;&amp;nbsp;&amp;ndash; 
+ &lt;em&gt;Bruce Schneier&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ol start=&#34;5&#34;&gt;
 &lt;li&gt;Metadata is the &amp;ldquo;surplus&amp;rdquo; data that Google built itself upon and that fuels surveillance capitalism. The Markup&amp;rsquo;s &lt;a href=&#34;https://themarkup.org/blacklight&#34;&gt;Blacklight&lt;/a&gt; and EFF&amp;rsquo;s &lt;a href=&#34;https://coveryourtracks.eff.org/&#34;&gt;Cover Your Tracks&lt;/a&gt; can show you the alarming amount of data that companies are collecting about your online activity.&lt;/li&gt;
 &lt;li&gt;As a result, the fact that you might feel &amp;ldquo;anonymous&amp;rdquo; - perhaps you used a fake name when signing up for a forum - does not mean you your activities are private or secure.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;ldquo;The idea that there are tools that would always work for everyone, everywhere; require no extra knowledge and zero additional infrastructure; are fair and just, and protect users at all times, is a dream that has not yet come true.&amp;rdquo; - &lt;a href=&#34;https://tacticaltech.org/#/news/technology-is-stupid&#34;&gt;Tactical Tech&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The idea that there are tools that would always work for everyone, everywhere; require no extra knowledge and zero additional infrastructure; are fair and just, and protect users at all times, is a dream that has not yet come true.
+
+&lt;br&gt;&amp;nbsp;&amp;ndash; 
+ &lt;em&gt;&lt;a href=&#34;https://tacticaltech.org/#/news/technology-is-stupid&#34;&gt;Tactical Tech&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ol start=&#34;7&#34;&gt;
 &lt;li&gt;If you want to limit surveillance capitalists&amp;rsquo; influence on your life, start by using &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt; (or if a novice Chrome user, &lt;a href=&#34;https://brave.com/&#34;&gt;Brave&lt;/a&gt;) rather than Google Chrome. Google was the original surveillance capitalist company. Then add in the &lt;a href=&#34;https://github.com/gorhill/uBlock/&#34;&gt;uBlock Origin&lt;/a&gt;, &lt;a href=&#34;https://privacybadger.org/&#34;&gt;Privacy Badger&lt;/a&gt;, and &lt;a href=&#34;https://decentraleyes.org/&#34;&gt;Decentraleyes&lt;/a&gt; browser add-ons. Make sure to also use &lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; rather than Google Search, and consider &lt;a href=&#34;https://natehn.com/posts/leaving-facebook/&#34;&gt;leaving corporate social media&lt;/a&gt; altogether. (I&amp;rsquo;m partway through my own journey, but there is still work (especially de-Google-ing) to be done.)&lt;/li&gt;
 &lt;li&gt;Because of advanced &lt;a href=&#34;https://coveryourtracks.eff.org/learn&#34;&gt;fingerprinting&lt;/a&gt; techniques, there&amp;rsquo;s no real perfect system for avoiding trackers. &lt;a href=&#34;https://www.torproject.org/&#34;&gt;Tor&lt;/a&gt; might be your best option if a stronger form of anonymity is required.&lt;/li&gt;
@@ -56,7 +66,12 @@
 &lt;li&gt;One of the challenges in talking about digital security broadly and to a variety of different people is that there are many different potential threats, and they do not affect all of us equally. The digital world is not always safe for &lt;a href=&#34;https://loomio-uploads.s3.amazonaws.com/documents/files/000/209/867/original/nypdzine.pdf&#34;&gt;overpoliced&lt;/a&gt; &lt;a href=&#34;https://www.getrevue.co/profile/themarkup/issues/the-rise-and-the-recurring-bias-of-risk-assessment-algorithms-418128&#34;&gt;Black&lt;/a&gt; &lt;a href=&#34;https://www.theguardian.com/inequality/2017/aug/08/rise-of-the-racist-robots-how-ai-is-learning-all-our-worst-impulses&#34;&gt;folks&lt;/a&gt; or &lt;a href=&#34;https://www.takebackthetech.net/know-more/extortion&#34;&gt;non&lt;/a&gt;-&lt;a href=&#34;https://www.takebackthetech.net/know-more/cyberstalking&#34;&gt;cis&lt;/a&gt;-&lt;a href=&#34;https://www.cnet.com/news/cameras-surveillance-and-the-sinister-tech-behind-domestic-abuse/&#34;&gt;men&lt;/a&gt;, and sometimes makes stuff like &lt;a href=&#34;https://www.eff.org/wp/digital-privacy-us-border-2017&#34;&gt;racism&lt;/a&gt; and &lt;a href=&#34;https://onlinesafety.feministfrequency.com/en/&#34;&gt;sexism&lt;/a&gt; and &lt;a href=&#34;https://hackblossom.org/domestic-violence/&#34;&gt;domestic violence&lt;/a&gt; even worse. White men like me need to remember that we do not face the same challenges as &lt;a href=&#34;https://hackblossom.org/cybersecurity/&#34;&gt;others&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;At the same time, the truth is that everyone has &lt;a href=&#34;https://www.privacytools.io/#sponsors&#34;&gt;something to hide&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;ldquo;Saying that you don&amp;rsquo;t need or want privacy because you have nothing to hide is to assume that no one should have, or could have, to hide anything - including their immigration status, unemployment history, financial history, and health records. You&amp;rsquo;re assuming that no one, including yourself, might object to revealing to anyone information about their religious beliefs, political affiliations, and sexual activities, as casually as some choose to reveal their movie and music tastes and reading preferences.&amp;rdquo; - Edward Snowden&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Saying that you don&amp;rsquo;t need or want privacy because you have nothing to hide is to assume that no one should have, or could have, to hide anything - including their immigration status, unemployment history, financial history, and health records. You&amp;rsquo;re assuming that no one, including yourself, might object to revealing to anyone information about their religious beliefs, political affiliations, and sexual activities, as casually as some choose to reveal their movie and music tastes and reading preferences.
+
+&lt;br&gt;&amp;nbsp;&amp;ndash; 
+ &lt;em&gt;Edward Snowden&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ol start=&#34;14&#34;&gt;
 &lt;li&gt;Security is protection against threats. One way to talk about digital security is via the &lt;a href=&#34;https://www.forcepoint.com/cyber-edu/cia-triad&#34;&gt;CIA triad&lt;/a&gt;: confidentiality (who has access, a.k.a. privacy), integrity (protecting data), and availability (the system still works for authorized users).&lt;/li&gt;
 &lt;li&gt;In most cases you &lt;a href=&#34;https://www.pcworld.com/article/3434097/why-you-can-stop-paying-for-antivirus-software.html&#34;&gt;probably don&amp;rsquo;t&lt;/a&gt; &lt;a href=&#34;https://www.nytimes.com/wirecutter/blog/best-antivirus/&#34;&gt;need to&lt;/a&gt; &lt;a href=&#34;https://linuxhint.com/why_no_antivirus_linux/&#34;&gt;buy any&lt;/a&gt; anti-virus software. Just set up your system to be as safe as possible using the tools it provides.&lt;/li&gt;
@@ -78,7 +93,12 @@
 &lt;ol start=&#34;20&#34;&gt;
 &lt;li&gt;You must also stay vigilant. Sophisticated &lt;a href=&#34;https://www.merriam-webster.com/dictionary/phishing&#34;&gt;phishing&lt;/a&gt; attacks are something that you - and anyone known to be associated with you - will need to be careful of. These aren&amp;rsquo;t your average spam messages. These are often meant specifically for you, replicating emails and websites that you might use in order to try to get your passwords or personal information. It could look like an email with a link from your bank, email, or social media account, for example - and the link will send you to a site run by the hacker(s). To defend yourself, first &lt;a href=&#34;https://youtu.be/u9dBGWVwMMA?t=60&#34;&gt;educate yourself on phishing techniques&lt;/a&gt;. Then turn on &lt;a href=&#34;https://www.csoonline.com/article/3239144/2fa-explained-how-to-enable-it-and-how-it-works.html&#34;&gt;two-factor authentication&lt;/a&gt; for all of your accounts, preferably either through an &lt;a href=&#34;https://www.nytimes.com/wirecutter/reviews/best-two-factor-authentication-app/&#34;&gt;authenticator app&lt;/a&gt; or even a &lt;a href=&#34;https://www.nytimes.com/wirecutter/reviews/best-security-keys/&#34;&gt;physical security key&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;ldquo;In a world where millions of digital communications are silently intercepted, collected, and stored every day, how do activists effectively say &amp;lsquo;I do not consent to this search?&amp;rsquo; As in a physical encounter with law enforcement, we must be proactive. Online, this means using encryption along with other privacy-protecting and autonomy-preserving tools.&amp;rdquo; - &lt;a href=&#34;https://cldc.org/&#34;&gt;Civil Liberties Defense Center&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In a world where millions of digital communications are silently intercepted, collected, and stored every day, how do activists effectively say &amp;lsquo;I do not consent to this search?&amp;rsquo; As in a physical encounter with law enforcement, we must be proactive. Online, this means using encryption along with other privacy-protecting and autonomy-preserving tools.
+
+&lt;br&gt;&amp;nbsp;&amp;ndash; 
+ &lt;em&gt;&lt;a href=&#34;https://cldc.org/&#34;&gt;Civil Liberties Defense Center&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ol start=&#34;21&#34;&gt;
 &lt;li&gt;Going to a protest? See the &lt;a href=&#34;https://natehn.com/posts/iphone-security/&#34;&gt;iPhone Security Guide&lt;/a&gt; I put together a few days ago.&lt;/li&gt;
 &lt;li&gt;Organizers who seek to change the world face unique challenges that other folks do not need to deal with. Recent examples, like the &lt;a href=&#34;https://hongkongfp.com/2020/09/18/anonymous-site-ramps-up-doxxing-campaign-against-hong-kong-activists/&#34;&gt;doxing of pro-democracy activists&lt;/a&gt; in Hong Kong and revelations of &lt;a href=&#34;https://theintercept.com/2020/10/10/new-documents-reveal-how-the-animal-agriculture-industry-surveils-and-punishes-critics/&#34;&gt;private surveillance of animal rights groups and activists&lt;/a&gt;, not to mention movies like &lt;a href=&#34;https://www.imdb.com/title/tt9784798/&#34;&gt;&lt;em&gt;Judas and the Black Messiah&lt;/em&gt;&lt;/a&gt;, are reminders of the importance of &lt;a href=&#34;https://www.are.na/librarians-on-are-na/opsec-for-activists&#34;&gt;OPSEC for activists&lt;/a&gt; when dealing with &lt;a href=&#34;https://github.com/AnarchoTechNYC/meta/wiki/Persona-based-training-matrix#the-matrix&#34;&gt;&amp;ldquo;assholes with resources&amp;rdquo; or even governmental entities&lt;/a&gt;.&lt;/li&gt;
@@ -134,7 +154,12 @@
 &lt;li&gt;&lt;a href=&#34;https://ourdataourselves.tacticaltech.org/posts/the-organisers-activity-book/&#34;&gt;The Organiser&amp;rsquo;s Activity Book&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://securityinabox.org/en/&#34;&gt;Security in a Box&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;“If we want to see change in our lives, we have to change things ourselves.”  - Grace Lee Boggs&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If we want to see change in our lives, we have to change things ourselves.
+
+&lt;br&gt;&amp;nbsp;&amp;ndash; 
+ &lt;em&gt;Grace Lee Boggs&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -151,6 +176,7 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;p&gt;&lt;em&gt;(as of iOS 12)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;When you attend a protest, particularly one which which might garner the attention of the authorities, it&amp;rsquo;s a good practice to limit the amount of data being sent out by your phone as much as possible. To start, here are things you should have set up in your phone at all times:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Limit ad tracking:&lt;/strong&gt; open the &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Privacy&lt;/code&gt;; scroll down to the bottom of the Privacy settings; &lt;code&gt;Advertising&lt;/code&gt;; toggle ON &lt;code&gt;Limit Ad Tracking&lt;/code&gt; (you can also hit &lt;code&gt;Reset Advertising Identifier&lt;/code&gt; every once in a while)&lt;/li&gt;
@@ -182,7 +208,7 @@
 &lt;li&gt;&lt;strong&gt;Turn off automatic (non-encrypted) SMS messages:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Messages&lt;/code&gt;; toggle &lt;code&gt;Send as SMS&lt;/code&gt; OFF (&lt;em&gt;note&lt;/em&gt;: this doesn&amp;rsquo;t completely turn off SMS, so you&amp;rsquo;ll still need to use &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Keep in mind that turning off your phone is an option, as is turning it to airplane mode, or even leaving it at home - but communication is key when you are out on the streets, so I don&amp;rsquo;t recommend it.&lt;/p&gt;
-&lt;p&gt;While you are out and about, use &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt; for your communications and &lt;a href=&#34;https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337&#34;&gt;Firefox Focus&lt;/a&gt; or &lt;a href=&#34;https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175&#34;&gt;Brave&lt;/a&gt; for browsing. Another good idea is to download maps onto your phone ahead of time so that you don&amp;rsquo;t need to use location services on your GPS/maps app.&lt;/p&gt;
+&lt;p&gt;While you are out and about, use &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt; for your communications and &lt;a href=&#34;https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337&#34;&gt;Firefox Focus&lt;/a&gt; or &lt;a href=&#34;https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175&#34;&gt;Brave&lt;/a&gt; for browsing. I recommend using &lt;a href=&#34;https://apps.apple.com/us/app/protonvpn-fast-secure-vpn/id1437005085&#34;&gt;ProtonVPN&lt;/a&gt; on a regular basis. Another good idea is to download maps onto your phone ahead of time so that you don&amp;rsquo;t need to use location services on your GPS/maps app.&lt;/p&gt;
 &lt;p&gt;When livestreaming, avoid showing fellow protesters&amp;rsquo; faces, particularly if they are doing something that would garner the authorities&amp;rsquo; attention. If you post videos or photos afterward, make sure to blur out faces and potentially identifying details of fellow activists.&lt;/p&gt;
 &lt;p&gt;Missing something? &lt;a href=&#34;https://natehn.com/connect/&#34;&gt;Let me know&lt;/a&gt;. I&amp;rsquo;ll be following up soon with &lt;a href=&#34;https://natehn.com/posts/digital-security/&#34;&gt;an article on digital security more generally&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -247,12 +273,14 @@
 &lt;h3 id=&#34;music-for-fifteen-emails&#34;&gt;Music for Fifteen Emails&lt;/h3&gt;
 &lt;p&gt;When the pandemic first shut things down in mid-March, I threw myself into the professional side of my work. I had been listening to a great deal of &lt;a href=&#34;https://www.factmag.com/2018/01/14/japanese-ambient-hiroshi-yoshimora-midori-takada/&#34;&gt;environmental music&lt;/a&gt;, especially the work of Hiroshi Yoshimura. I had also been recording a lot with one of the instruments Hiroshi used, the &lt;a href=&#34;https://natehn.com/posts/music-studio-nov-2020/&#34;&gt;Yamaha FB-01&lt;/a&gt;. Without really thinking about it too much, I instinctively seized on the opportunity to work on something I had wanted to work on for a while: a new album.&lt;/p&gt;
 &lt;p&gt;My connection with environmental music only increased as it soothed me during a time of extreme change. I put in several hours per day after work, racing through it because I really felt it was the right music for the right time. (I have heard from friends that I was right - it did fit the time. And depending on how your life is now, &lt;a href=&#34;https://nthnh.bandcamp.com/album/music-for-fifteen-emails-part-one&#34;&gt;it still might be&lt;/a&gt;.)&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://nthnh.bandcamp.com/album/music-for-fifteen-emails-part-one&#34;&gt;[Listen to Part One]&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;div&gt;&lt;iframe style=&#34;border: 0; width: 100%; height: 406px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1107344105/size=large/bgcol=333333/linkcol=fe7eaf/artwork=none/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://nthnh.bandcamp.com/album/music-for-fifteen-emails-part-one&#34;&gt;Music for Fifteen Emails (Part One) by Nathan Hewitt&lt;/a&gt;&lt;/iframe&gt;&lt;/div&gt;
+
 &lt;p&gt;With &lt;em&gt;Music for Fifteen Emails&lt;/em&gt;, I chose to experiment in a lot of different ways - I had not done anything like it before, in terms of genre, in terms of making music on a grid (sort-of) in terms of getting serious about mixing, and mastering myself (paying monthly for a mastering suite via Splice) rather than paying someone else. The album burgeoned into a double-album and I released it in April, after about a month of quarantine-fueled labor.&lt;/p&gt;
 &lt;p&gt;I decided that this time I would spend more time exploring promotion and distribution. I switched from Distrokid to CDBaby since CDBaby is a single payment and allows multiple artists. I also used SubmitHub to try and bring attention to my music - a first for me. It resulted in a few playlistings and blog reviews - more attention than my releases usually get - but not as much as I had hoped. I also used my personal Instagram more than I ever had before, and even paid for an ad on that platform for the first time (this is before I decided to leave Instagram).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://nthnh.bandcamp.com/album/music-for-fifteen-emails-part-two&#34;&gt;[Listen to Part Two]&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;div&gt;&lt;iframe style=&#34;border: 0; width: 100%; height: 373px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=333817259/size=large/bgcol=333333/linkcol=fe7eaf/artwork=none/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://nthnh.bandcamp.com/album/music-for-fifteen-emails-part-two&#34;&gt;Music for Fifteen Emails (Part Two) by Nathan Hewitt&lt;/a&gt;&lt;/iframe&gt;&lt;/div&gt;
+
 &lt;p&gt;I don&amp;rsquo;t know if the promotional work can be characterized as a success, but it was a useful experiment. The feedback that brings me the most joy is that of my friends who have enjoyed it the most and shared with me how they continue to listen to it to this day: A.M., J.W., L.V., and L.R.&lt;/p&gt;
 &lt;h3 id=&#34;music-for-self-reflection&#34;&gt;Music for self-reflection&lt;/h3&gt;
 &lt;p&gt;I recognize now that putting all of that time into the album was a coping mechanism. After I released and promoted &lt;em&gt;Music for Fifteen Emails&lt;/em&gt;, for a while, I didn&amp;rsquo;t work on music very much, and I started to get swept away by the news cycle and social media. After all, with the complete collapse of the performing arts, there weren&amp;rsquo;t really any opportunities to perform live, and I wasn&amp;rsquo;t sure that I really felt like it anyway.&lt;/p&gt;
@@ -273,15 +301,30 @@
 
 &lt;p&gt;As the year went on, I moved farther and farther into quiet. My recordings were peppered with longer tones and deconstructed melodies. Improvisations, rather than compositions - perhaps because my ability to create order felt like it was slipping away in all of the chaos surrounding us.&lt;/p&gt;
 &lt;p&gt;In September, I went on a walk to a nearby grocery store and pulled out my phone to record the trip. When I got back, I decided to record over it - &lt;a href=&#34;https://nthnh.bandcamp.com/track/in-the-middle-of-all-this&#34;&gt;a single long improvisation&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;div&gt; &lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/track=3669794235/size=large/bgcol=333333/linkcol=fe7eaf/tracklist=false/artwork=none/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://nthnh.bandcamp.com/track/in-the-middle-of-all-this&#34;&gt;In the Middle of All This by Nathan Hewitt&lt;/a&gt;&lt;/iframe&gt; &lt;/div&gt; 
+
 &lt;p&gt;Here is what I later wrote about the piece, entitled &lt;em&gt;In the Middle of All This&lt;/em&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Popular music, especially in the age of the Digital Audio Workstation, is constructed almost 1 millisecond at a time. Every note, every harmony, every effect is dissected and reconstructed over and over again until is is absolutely perfect. Live performances are often filtered and shaped to resemble that magical &amp;ldquo;take.&amp;quot;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;In the Middle of All This &lt;em&gt;is a piece that rejects the impulse to finish. It rejects, even, the impulse to edit (beyond matching levels and removing loud pops). It consists of two field recordings, digitally scotch-taped together to resemble just one (they were separated in reality by a 20 minute grocery run), with a later improvisation recorded over the field recording(s). It is a simple diorama - nothing sophisticated.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The improvisations take the form of deconstructed musical ideas, sometimes taking cues from the field recording, sometimes coming from within the performer himself (a white dude sitting in his apartment in West Harlem in the middle of a pandemic). If you played them on top of one another, they could almost make a song. But they don&amp;rsquo;t.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The world feels just a little bit like it is coming apart. I&amp;rsquo;m not sure if &amp;ldquo;deconstructed&amp;rdquo; is the right word for the way I think about it - that feels somehow to purposeful. But as a musician, I didn&amp;rsquo;t feel like I would be reflecting the world I see by putting together a cohesive musical unit. I&amp;rsquo;m not sure if I had the emotional strength to offer one either. The best I could do was these almost-but-not-quite-hopeful motives.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Popular music, especially in the age of the Digital Audio Workstation, is constructed almost 1 millisecond at a time. Every note, every harmony, every effect is dissected and reconstructed over and over again until is is absolutely perfect. Live performances are often filtered and shaped to resemble that magical &amp;ldquo;take.&amp;quot;&lt;/em&gt;&lt;br&gt;
+
+ &lt;br&gt; 
+
+In the Middle of All This &lt;em&gt;is a piece that rejects the impulse to finish. It rejects, even, the impulse to edit (beyond matching levels and removing loud pops). It consists of two field recordings, digitally scotch-taped together to resemble just one (they were separated in reality by a 20 minute grocery run), with a later improvisation recorded over the field recording(s). It is a simple diorama - nothing sophisticated.&lt;/em&gt;&lt;br&gt;
+
+ &lt;br&gt; 
+
+&lt;em&gt;The improvisations take the form of deconstructed musical ideas, sometimes taking cues from the field recording, sometimes coming from within the performer himself (a white dude sitting in his apartment in West Harlem in the middle of a pandemic). If you played them on top of one another, they could almost make a song. But they don&amp;rsquo;t.&lt;/em&gt;
+
+ &lt;br&gt; 
+
+&lt;em&gt;The world feels just a little bit like it is coming apart. I&amp;rsquo;m not sure if &amp;ldquo;deconstructed&amp;rdquo; is the right word for the way I think about it - that feels somehow to purposeful. But as a musician, I didn&amp;rsquo;t feel like I would be reflecting the world I see by putting together a cohesive musical unit. I&amp;rsquo;m not sure if I had the emotional strength to offer one either. The best I could do was these almost-but-not-quite-hopeful motives.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;(I&amp;rsquo;m super excited for this piece to be included in &lt;a href=&#34;https://www.artwithjip.com/&#34;&gt;Jip Gallery&lt;/a&gt;&amp;lsquo;s next exhibition.)&lt;/p&gt;
 &lt;p&gt;A month later, I decided to sit down and record a drone EP, &lt;em&gt;&lt;a href=&#34;https://nthnh.bandcamp.com/album/in-those-places-we-are-the-ghosts&#34;&gt;In those places, we are the ghosts.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;div&gt;&lt;br&gt;&lt;iframe style=&#34;border: 0; width: 100%; height: 241px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1752934069/size=large/bgcol=333333/linkcol=fe7eaf/artwork=none/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://nthnh.bandcamp.com/album/in-those-places-we-are-the-ghosts&#34;&gt;In those places, we are the ghosts. by Nathan Hewitt&lt;/a&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;br&gt;
+
 &lt;p&gt;I&amp;rsquo;d been wanting to make some drone for a while, but I never felt fully inspired to do so until October 2020. Perhaps it had to do with the darkness of the year, or the spooky Halloween vibes that felt so right, but I wanted to make something a bit grungier, a bit darker, and a bit more indulgent.&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;h3 id=&#34;music--tech&#34;&gt;Music + tech&lt;/h3&gt;
 &lt;p&gt;During the last couple months of the year, I have entered into another period of technical experimentation. I&amp;rsquo;m playing with beatmaking, various livecoding languages, Max MSP, 3D spatial audio, and video synthesis.&lt;/p&gt;
