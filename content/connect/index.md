@@ -7,22 +7,28 @@ rss_ignore: true
 {{< figure src="/hello.png" >}}
 
 ## Open Invitation
+Cold email me! I'd love to hear what you have to say. Here are some reasons to reach out to me:
 
-Email me! Introduce yourself and tell me what you're up to. Tell me I'm wrong. Share some great content. 
+- To introduce yourself
+- To share something I might be interested in
+- To talk nonprofits, activism, art, music, technology, politics, etc.
+- You loved/hated something I wrote
+- I'm wrong, and you're willing to tell me how
+- To notify me of an error
+- You'd like to hang if/when I go traveling
 
-**You can find me at [nh at natehn.com](mailto:nh@natehn.com).** I'm also happy to communicate using [PGP](https://natehn.com/publickey.nh@natehn.com-117996770f8b42bd6a1fff940e1562087d8b4490.asc). <3
+Or maybe it is none of these. If you want to talk to me, then more-than-likely I would love to talk to you. 
+
+**Please feel free to send me an email at [nh at natehn.com](mailto:nh@natehn.com).** I'm also happy to communicate using [PGP](https://natehn.com/publickey.nh@natehn.com-117996770f8b42bd6a1fff940e1562087d8b4490.asc). <3
 
 ### Ideas
-
 Bonus section! I'd also be happy to talk with you about any of the following collaboration ideas:
 
-- Replacing the nonprofit board with a "working board" cooperative governance model.
 - Improvising live together (remote, or live whenever lockdown is over)
-- Creating a low-cost, low-commitment artist residency model that harnesses (asynchronus) technology and a network of hosts to bring artists amazing retreat-like experiences without asking them to go into debt/spend all their savings just for a line on their resume
+- Creating a low-cost, low-commitment artist residency model that harnesses technology and a network of hosts to bring artists amazing retreat-like experiences without asking them to go into debt/spend all their savings just for a line on their resume
 - Creating a zine/guide on toxic philanthropy and how to deal with it for fundraising professionals
-- Cultivate touring networks for independent performers. Weaving rural hosts and venues, college radio stations, etc., so that more experimental artists can still go on tour without breaking the bank
-- ~~Cooperative soundcloud alternative~~ - nvm, check out [Ampled](https://www.ampled.com/) ... not quite the same thing, but it is getting there!
-- Developing an even less profit-driven doing-good non-nonprofit model than the B-Corp
+- Post-pandemic, create touring networks for independent performers. Weaving rural hosts and venues, college radio stations, etc., so that more experimental artists can still go on tour without breaking the bank
+- ~~Soundcloud cooperative~~ - nvm, check out [Ampled](https://www.ampled.com/) ... not quite the same thing, but it is getting there!
 
 ## Personal Newsletter
 

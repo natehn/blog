@@ -42,7 +42,6 @@ Donate:
 - [American Indian Community House](https://mannahattafund.org/)
 - [Black Lives Matter](https://secure.actblue.com/donate/ms_blm_homepage_2019)
 - [Movement Voter Project](https://movement.vote/how-to-donate)
-- [RIP Medical Debt](https://ripmedicaldebt.org/)
 
 ## Technology
 
