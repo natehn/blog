@@ -45,13 +45,15 @@ In Manhattan, the story was one of deceit - fitting, for a city known for its sh
 
 For many White Americans, family history is mythical and vague. They are probably from Europe, but *when* their ancestors arrived here and *where*, specifically, they came from are lost to time. Not so for my family. My dad has taken the time to dig deep into our family history. Having done very little of the work, I benefit in knowing exactly where I come from. The first step of acknowledging my ancestors' mistakes - knowing them - is already most of the way complete.
 
-Before I lived in New York, I was in present-day Kentucky, Indiana, and Illinois. Those unceded lands were originally home to the Miami, Oceti Sakowin[^4], Shawnee, Osage, and Cherokee. For several generations before, my people lived in Illinois, farming the original lands of the Peoria, Neshnabe, Meshkwahkihaki, and Sauk.
+Before I lived in New York, I was in present-day Kentucky, Indiana,[^kkk] and Illinois. Those unceded lands were originally home to the Miami, Oceti Sakowin[^4], Shawnee, Osage, and Cherokee. For several generations before, my people lived in Illinois, farming the original lands of the Peoria, Neshnabe, Meshkwahkihaki, and Sauk.
+
+[^kkk]: By the way, Indiana is the birthplace of the KKK.
 
 [^4]: Pronounced Och-et-eeshak-oh-win. 
 
 {{< figure src="/midwest.png" caption="A screenshot of the American Midwest from Native-Land.ca.">}}
 
-Some of my ancestors arrived to this continent as recently as 150 years ago, from Germany and Sweden. Other Western and Central European forebears came to these lands over the preceding centuries. The settling of my ancestors in lands formerly home to Native nations was part of a centuries long campaign to destroy Native communities that continues to this day.
+Some of my ancestors arrived to this continent as recently as 150 years ago, from Germany and Sweden. Other Western and Central European forebears came to these lands over the preceding centuries. The settling of my ancestors in lands formerly home to Native nations (in communities later known as "[sundown towns](https://en.wikipedia.org/wiki/Sundown_town)") was part of a centuries long campaign to destroy Native communities that continues to this day.
 
 Perhaps most relevant among my ancestors was the Puritan missionary John Eliot, who sought to Westernize and “civilize” the Massachusett people, causing irreparable harm by forcing them to reject their culture and therefore their economy. 
 
