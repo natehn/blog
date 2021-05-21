@@ -14,9 +14,8 @@
       <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/posts/iphone-security/</guid>
-      <description>&lt;figure&gt;
-    &lt;img src=&#34;https://natehn.com/phones.png&#34;
-         alt=&#34;Three protesters hold their phones up above a crowd.&#34;/&gt; &lt;figcaption&gt;
+      <description>&lt;figure&gt;&lt;img src=&#34;https://natehn.com/phones.png&#34;
+         alt=&#34;Three protesters hold their phones up above a crowd.&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;Three protesters hold their phones up above a crowd.&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -33,7 +32,7 @@
 &lt;li&gt;&lt;strong&gt;Turn off dictation:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;General&lt;/code&gt;; &lt;code&gt;Keyboards&lt;/code&gt;; toggle OFF &lt;code&gt;Enable Dictation&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Turn off background app refresh for most apps:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;General&lt;/code&gt;; &lt;code&gt;Background App Refresh&lt;/code&gt;; toggle OFF all apps that are not secure/necessary&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Turn off Game Center&amp;rsquo;s location access:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Game Center&lt;/code&gt;; toggle OFF &lt;code&gt;Game Center&lt;/code&gt;, or at least toggle OFF &lt;code&gt;Nearby Players&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Audit your apps&amp;rsquo; access:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Privacy&lt;/code&gt;; check through this list and ensure that apps have no more access to your data than they need&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Audit your apps&#39; access:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Privacy&lt;/code&gt;; check through this list and ensure that apps have no more access to your data than they need&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Harden  the default Safari browser:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Safari&lt;/code&gt;; set &lt;code&gt;Search Engine&lt;/code&gt; to &lt;code&gt;DuckDuckGo&lt;/code&gt;, toggle OFF &lt;code&gt;Search Engine Suggestions&lt;/code&gt;, &lt;code&gt;Safari Suggestions&lt;/code&gt;, &lt;code&gt;Preload Top Hit&lt;/code&gt;, and &lt;code&gt;Frequently Visited Sites&lt;/code&gt;; toggle ON &lt;code&gt;Block Pop-ups&lt;/code&gt;, &lt;code&gt;Prevent Cross-Site Tracking&lt;/code&gt;, &lt;code&gt;Block All Cookies&lt;/code&gt;, and &lt;code&gt;Fraudulent Website Warning&lt;/code&gt;; toggle OFF &lt;code&gt;Camera &amp;amp; Microphone Access&lt;/code&gt; and &lt;code&gt;Check for Apple Pay&lt;/code&gt;; select &lt;code&gt;Advanced&lt;/code&gt;; toggle OFF &lt;code&gt;Javascript&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Limit your message storage to 30 days:&lt;/strong&gt; &lt;code&gt;Settings&lt;/code&gt; app; &lt;code&gt;Messages&lt;/code&gt;; select &lt;code&gt;Keep Messages&lt;/code&gt; and choose &lt;code&gt;30 Days&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
@@ -54,7 +53,7 @@
 &lt;/ol&gt;
 &lt;p&gt;Keep in mind that turning off your phone is an option, as is turning it to airplane mode, or even leaving it at home - but communication is key when you are out on the streets, so I don&amp;rsquo;t recommend it.&lt;/p&gt;
 &lt;p&gt;While you are out and about, use &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt; for your communications and &lt;a href=&#34;https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337&#34;&gt;Firefox Focus&lt;/a&gt; or &lt;a href=&#34;https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175&#34;&gt;Brave&lt;/a&gt; for browsing. I recommend using &lt;a href=&#34;https://apps.apple.com/us/app/protonvpn-fast-secure-vpn/id1437005085&#34;&gt;ProtonVPN&lt;/a&gt; on a regular basis. Another good idea is to download maps onto your phone ahead of time so that you don&amp;rsquo;t need to use location services on your GPS/maps app.&lt;/p&gt;
-&lt;p&gt;When livestreaming, avoid showing fellow protesters&amp;rsquo; faces, particularly if they are doing something that would garner the authorities&amp;rsquo; attention. If you post videos or photos afterward, make sure to blur out faces and potentially identifying details of fellow activists.&lt;/p&gt;
+&lt;p&gt;When livestreaming, avoid showing fellow protesters&#39; faces, particularly if they are doing something that would garner the authorities&#39; attention. If you post videos or photos afterward, make sure to blur out faces and potentially identifying details of fellow activists.&lt;/p&gt;
 &lt;p&gt;Missing something? &lt;a href=&#34;https://natehn.com/connect/&#34;&gt;Let me know&lt;/a&gt;. I&amp;rsquo;ll be following up soon with &lt;a href=&#34;https://natehn.com/posts/digital-security/&#34;&gt;an article on digital security more generally&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

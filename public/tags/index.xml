@@ -108,15 +108,6 @@
     </item>
     
     <item>
-      <title>music</title>
-      <link>https://natehn.com/tags/music/</link>
-      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://natehn.com/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>musicmaking</title>
       <link>https://natehn.com/tags/musicmaking/</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
@@ -158,6 +149,15 @@
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/tags/gear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://natehn.com/tags/music/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natehn.com/tags/music/</guid>
       <description></description>
     </item>
     

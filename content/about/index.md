@@ -32,4 +32,4 @@ I've been in NYC for almost three years, but it feels more like 2 due to the vir
 
 ### Colophon
 
-This website is [self-hosted on a tiny Linux computer](https://natehn.com/posts/this-website/) using Hugo and Caddy. I recently experimented with solar powering it but right now it is plugged into the wall. The theme is lightly-modified [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) and the logo is based on an [Open Doodle](https://www.opendoodles.com/). This website is located on [unceded Native land](https://natehn.com/posts/land-acknowledgment/).
+This website was [self-hosted on a tiny Linux computer](https://natehn.com/posts/this-website/) using Hugo and Caddy (and is temporarily living on a VPS). I recently experimented with solar powering it but right now it is plugged into the wall. The theme is lightly-modified [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) and the logo is based on an [Open Doodle](https://www.opendoodles.com/). This website is located on [unceded Native land](https://natehn.com/posts/land-acknowledgment/).

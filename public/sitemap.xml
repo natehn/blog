@@ -1,249 +1,151 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://natehn.com/tags/abolition/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/posts/abolition/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://natehn.com/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://natehn.com/posts/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/social-justice/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/transformation/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/404/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natehn.com/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/activism/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/basics/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/digital-security/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/posts/digital-security/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/opsec/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/surveillance-capitalism/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/tools/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/posts/iphone-security/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/security/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/tech/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/library/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natehn.com/tags/music/</loc>
-    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/musicmaking/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/posts/2020/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/reflection/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/technology/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/year-in-review/</loc>
     <lastmod>2021-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/connect/</loc>
     <lastmod>2021-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/gear/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://natehn.com/tags/music/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://natehn.com/posts/music-studio-nov-2020/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/studio/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/digital-tools/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/posts/leaving-facebook/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/social-media/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/the-internet/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/comedy/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/culture/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/memes/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/posts/on-memes/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/feed/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/history/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/justice/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/posts/land-acknowledgment/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/sovereignty/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/supremacy/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/decentralization/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/self-hosting/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/posts/this-website/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/tags/websites/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/about/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://natehn.com/categories/</loc>
   </url>
-  
 </urlset>

@@ -9,7 +9,10 @@ tags:
 - websites
 ---
 
+*Note: due to a recent move, this website is currently hosted on a VPS rather than my little Lime computer.*
+
 ## Origins
+
 This website is just a bunch of little files living on a tiny computer that sits on my living room bookcase. It plugs into the wall and my router, and all it does all day is serve up these website files to whoever requests them. For most servers out there (shared hosting, virtual private servers, and the like), it is a thankless job. But I try to give my little Lime2 single-board computer some attention every so often. A little bit of gratitude can go a long way.
 
 Over the years, I've built a few different personal websites. First, there was the college résumé site, [nathanhewitt.net](https://natehn.com/posts/this-website/#origins). Then there were other short-lived iterations: the music-focused [auohm.us](https://natehn.com/posts/this-website/#origins) (before I stopped using the moniker AUOHM), the simplistic [nthnh.co](https://natehn.com/posts/this-website/#origins), and the Web 1.0 [omg.lol/nathan](https://natehn.com/posts/this-website/#origins). On the backend, I tried Wordpress, Squarespace, Wix, and others. I also put together plenty of simple, WYSIWYG websites when I was doing freelance graphic design in college. 

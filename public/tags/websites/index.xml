@@ -14,7 +14,8 @@
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://natehn.com/posts/this-website/</guid>
-      <description>&lt;h2 id=&#34;origins&#34;&gt;Origins&lt;/h2&gt;
+      <description>&lt;p&gt;&lt;em&gt;Note: due to a recent move, this website is currently hosted on a VPS rather than my little Lime computer.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;origins&#34;&gt;Origins&lt;/h2&gt;
 &lt;p&gt;This website is just a bunch of little files living on a tiny computer that sits on my living room bookcase. It plugs into the wall and my router, and all it does all day is serve up these website files to whoever requests them. For most servers out there (shared hosting, virtual private servers, and the like), it is a thankless job. But I try to give my little Lime2 single-board computer some attention every so often. A little bit of gratitude can go a long way.&lt;/p&gt;
 &lt;p&gt;Over the years, I&amp;rsquo;ve built a few different personal websites. First, there was the college résumé site, &lt;a href=&#34;https://natehn.com/posts/this-website/#origins&#34;&gt;nathanhewitt.net&lt;/a&gt;. Then there were other short-lived iterations: the music-focused &lt;a href=&#34;https://natehn.com/posts/this-website/#origins&#34;&gt;auohm.us&lt;/a&gt; (before I stopped using the moniker AUOHM), the simplistic &lt;a href=&#34;https://natehn.com/posts/this-website/#origins&#34;&gt;nthnh.co&lt;/a&gt;, and the Web 1.0 &lt;a href=&#34;https://natehn.com/posts/this-website/#origins&#34;&gt;omg.lol/nathan&lt;/a&gt;. On the backend, I tried Wordpress, Squarespace, Wix, and others. I also put together plenty of simple, WYSIWYG websites when I was doing freelance graphic design in college.&lt;/p&gt;
 &lt;p&gt;For this website, I originally wanted to self-host in order to learn &lt;em&gt;how&lt;/em&gt;. As I built the site, however, I started to come up with other reasons. Over time, a constellation of motivations started to form:&lt;/p&gt;
@@ -32,9 +33,8 @@
 &lt;p&gt;I made a lot of mistakes along the way - mistakes that hopefully you can avoid. Because of various unforced errors, I ended up trying out three different web server programs (Nginx and Apache, before settling on Caddy) and three different static website builders (Pelican and Jekyll, settling on Hugo). When I was at my wit&amp;rsquo;s end, all I had to do was &lt;a href=&#34;https://stackoverflow.com/questions/63351978/css-not-loading-for-self-hosted-nginx-with-jekyll-hugo-site/63359674&#34;&gt;ask for help&lt;/a&gt;. (Thank you @randomsock!)&lt;/p&gt;
 &lt;h3 id=&#34;the-physical-server&#34;&gt;The Physical Server&lt;/h3&gt;
 &lt;p&gt;Remember: there&amp;rsquo;s no such thing as &amp;ldquo;the cloud.&amp;rdquo; There are just a bunch of computers that someone else owns. This one, however, is owned by me. Following the lead of Low←Tech Magazine, I used an &lt;a href=&#34;https://www.olimex.com/wiki/A20-OLinuXino-LIME2&#34;&gt;Olimex Lime2&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; running on a variant of Debian (itself a distribution of &lt;a href=&#34;https://en.wikipedia.org/wiki/Linux_distribution&#34;&gt;Linux&lt;/a&gt;) called Armbian. Following Armbian&amp;rsquo;s instructions, I used Balena Etcher to &amp;ldquo;flash&amp;rdquo; &lt;a href=&#34;https://www.armbian.com/olimex-lime-2/&#34;&gt;the image&lt;/a&gt; onto a MicroSD card.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://natehn.com/server.png&#34;
-         alt=&#34;My small Olimex server sits amidst my partner&amp;amp;rsquo;s Buddha collection on a bookcase with a LiPo battery zip-tied to the top.&#34;/&gt; &lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://natehn.com/server.png&#34;
+         alt=&#34;My small Olimex server sits amidst my partner&amp;amp;rsquo;s Buddha collection on a bookcase with a LiPo battery zip-tied to the top.&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;My small Olimex server sits amidst my partner&amp;rsquo;s Buddha collection on a bookcase with a LiPo battery zip-tied to the top.&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -69,30 +69,29 @@ systemctl status caddy
 &lt;p&gt;Caddy should take care of your SSL certificate, which is used for HTTPS, automatically on your behalf. If you have trouble with it, check out &lt;a href=&#34;https://certbot.eff.org/lets-encrypt/debianbuster-other&#34;&gt;these instructions from Certbot&lt;/a&gt;. (I did this out of order and got a certificate back when I was using Nginx as my webserver.)&lt;/p&gt;
 &lt;h2 id=&#34;writing&#34;&gt;Writing&lt;/h2&gt;
 &lt;p&gt;For putting posts together, I recommend learning a simple plaintext syntax called Markdown. Hugo uses Markdown to turn plaintext into html.&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; It makes writing up an article so much easier. Posts composed using &lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34;&gt;Markdown&amp;rsquo;s easy syntax&lt;/a&gt; and dropped into blog&amp;rsquo;s directory will become low-weight html pages on your static website. Hugo also has a handy &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;&gt;&lt;code&gt;figure&lt;/code&gt; shortcode&lt;/a&gt; to help you insert images.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://natehn.com/tasman.png&#34;
-         alt=&#34;A beautiful sunrise at a campground near Abel Tasman National Park.&#34;/&gt; &lt;figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;https://natehn.com/tasman.png&#34;
+         alt=&#34;A beautiful sunrise at a campground near Abel Tasman National Park.&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;A beautiful sunrise at a campground near Abel Tasman National Park.&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;For focused writing, I use a lightweight plaintext editor called &lt;a href=&#34;https://hundredrabbits.itch.io/left&#34;&gt;Left&lt;/a&gt;, by the awesome sailboatin&amp;rsquo; folks at HundredRabbits. I also use &lt;a href=&#34;https://gottcode.org/focuswriter/&#34;&gt;FocusWriter&lt;/a&gt; on occasion. But any plaintext editor will do.&lt;/p&gt;
-&lt;p&gt;Once you have a website up and running, you&amp;rsquo;re at the last step: content. In our modern capitalist internet, the content mills never stop running. Blog posts of a certain length, with certain keywords (and questionable value), are used to optimize companies&amp;rsquo; search engine position (the proverbial neverending scramble for &amp;ldquo;SEO&amp;rdquo;). And in this side-hustle culture, it sometimes feels like you have to compete to survive. (I&amp;rsquo;ve certainly felt the pressure before!)&lt;/p&gt;
+&lt;p&gt;For focused writing, I use a lightweight plaintext editor called &lt;a href=&#34;https://hundredrabbits.itch.io/left&#34;&gt;Left&lt;/a&gt;, by the awesome sailboatin&#39; folks at HundredRabbits. I also use &lt;a href=&#34;https://gottcode.org/focuswriter/&#34;&gt;FocusWriter&lt;/a&gt; on occasion. But any plaintext editor will do.&lt;/p&gt;
+&lt;p&gt;Once you have a website up and running, you&amp;rsquo;re at the last step: content. In our modern capitalist internet, the content mills never stop running. Blog posts of a certain length, with certain keywords (and questionable value), are used to optimize companies&#39; search engine position (the proverbial neverending scramble for &amp;ldquo;SEO&amp;rdquo;). And in this side-hustle culture, it sometimes feels like you have to compete to survive. (I&amp;rsquo;ve certainly felt the pressure before!)&lt;/p&gt;
 &lt;p&gt;It doesn&amp;rsquo;t have to be like this. This site is a start. It is a forum: not content, but discussion - even if it is one-way. A place that is open and honest, especially about imperfections and mistakes. Let&amp;rsquo;s see where it leads.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;I chose this board based on the recommendation of Low←Tech Magazine and, as they mention, because of all the advantages related to how it is powered. It can provide additional information and can connect directly to a LiPo battery. Along with the board itself, I purchased the case they make for the board and the correct power supply. Separately, I also purchased a 3.7V 6600mAh Lithium Ion battery pack with a JST 2-pin cable attached. Although they say it is a genuine JST connector, I still have trouble disconnecting it sometimes. Not a big deal - I  don&amp;rsquo;t plan to disconnect it often. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I chose this board based on the recommendation of Low←Tech Magazine and, as they mention, because of all the advantages related to how it is powered. It can provide additional information and can connect directly to a LiPo battery. Along with the board itself, I purchased the case they make for the board and the correct power supply. Separately, I also purchased a 3.7V 6600mAh Lithium Ion battery pack with a JST 2-pin cable attached. Although they say it is a genuine JST connector, I still have trouble disconnecting it sometimes. Not a big deal - I  don&amp;rsquo;t plan to disconnect it often.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;On my Windows machine, I use Putty and WinSCP to connect to the Lime2 wirelessly from my computer. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On my Windows machine, I use Putty and WinSCP to connect to the Lime2 wirelessly from my computer.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;It is just simple stuff like changing the copyright line to allow for a Creative Commons license and changing the favicon and logo. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It is just simple stuff like changing the copyright line to allow for a Creative Commons license and changing the favicon and logo.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org/tools/hugo/&#34;&gt;Hugo Markdown Support&lt;/a&gt; &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org/tools/hugo/&#34;&gt;Hugo Markdown Support&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
